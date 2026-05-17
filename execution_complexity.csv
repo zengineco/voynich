@@ -1,0 +1,3802 @@
+folio,section,trajectory,community_diversity,switches,length
+f100r,pharm-herbal,C0 -> C0 -> C1,2,1,3
+f100r,pharm-herbal,C0 -> C1 -> C3,3,2,3
+f100r,pharm-herbal,C0 -> C2 -> C1 -> C0 -> C1 -> C0 -> C2,3,6,7
+f100r,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1,2,3,6
+f100r,pharm-herbal,C0 -> C1 -> C1,2,1,3
+f100r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f100r,pharm-herbal,C0 -> C1 -> C0 -> C0,2,2,4
+f100r,pharm-herbal,C0 -> C0 -> C3 -> C0 -> C0 -> C0,2,2,6
+f100r,pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0,2,3,7
+f100r,pharm-herbal,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f100v,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0,2,2,5
+f100v,pharm-herbal,C4 -> C0 -> C0 -> C4 -> C0 -> C0,2,3,6
+f100v,pharm-herbal,C0 -> C4 -> C1 -> C0 -> C3 -> C0 -> C0,4,5,7
+f100v,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,7
+f100v,pharm-herbal,C3 -> C3 -> C0 -> C0 -> C0,2,1,5
+f100v,pharm-herbal,C0 -> C0 -> C0 -> C2,2,1,4
+f100v,pharm-herbal,C0 -> C1 -> C0 -> C0 -> C0,2,2,5
+f100v,pharm-herbal,C0 -> C0 -> C2 -> C3 -> C0,3,3,5
+f100v,pharm-herbal,C3 -> C0,2,1,2
+f101r,pharm-herbal,C0 -> C1 -> C0 -> C0 -> C2 -> C0 -> C3 -> C4 -> C3 -> C4,5,8,10
+f101r,pharm-herbal,C0 -> C0 -> C3 -> C0 -> C2 -> C1 -> C3,4,5,7
+f101r,pharm-herbal,C0 -> C2 -> C2 -> C0 -> C1 -> C2 -> C1 -> C0 -> C1 -> C0,3,8,10
+f101r,pharm-herbal,C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C4,3,5,14
+f101r,pharm-herbal,C1 -> C1 -> C0 -> C0 -> C0 -> C3 -> C2 -> C0 -> C1 -> C1,4,5,10
+f101r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C4 -> C3 -> C0 -> C0 -> C0 -> C1,4,5,15
+f101r,pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C3 -> C0 -> C1 -> C0 -> C0 -> C3 -> C0,3,7,13
+f101r,pharm-herbal,C2 -> C2 -> C0 -> C0 -> C0 -> C4 -> C0 -> C0,3,3,8
+f101r,pharm-herbal,C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0,3,5,12
+f101r,pharm-herbal,C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3,4,6,11
+f101v,pharm-herbal,C0 -> C1 -> C1 -> C0 -> C0 -> C0,2,2,6
+f101v,pharm-herbal,C0 -> C0 -> C3 -> C1 -> C0 -> C4 -> C0 -> C3,4,6,8
+f101v,pharm-herbal,C0 -> C3,2,1,2
+f101v,pharm-herbal,C2 -> C3 -> C0 -> C0,3,2,4
+f101v,pharm-herbal,C1 -> C1 -> C0 -> C1 -> C0 -> C1 -> C0,2,5,7
+f101v,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C1 -> C4 -> C0 -> C1,3,4,8
+f101v,pharm-herbal,C0 -> C4 -> C4 -> C1 -> C0 -> C0,3,3,6
+f101v,pharm-herbal,C0 -> C3 -> C3 -> C1 -> C0 -> C0 -> C3 -> C4 -> C1 -> C0 -> C0 -> C1 -> C1,4,8,13
+f101v,pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C1 -> C0,3,7,10
+f101v,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f102r1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f102r1,pharm-herbal,C3 -> C1 -> C1 -> C0 -> C0,3,2,5
+f102r1,pharm-herbal,C1 -> C1 -> C0,2,1,3
+f102r1,pharm-herbal,C0 -> C1 -> C3 -> C0 -> C0,3,3,5
+f102r1,pharm-herbal,C0 -> C1 -> C0,2,2,3
+f102r1,pharm-herbal,C0 -> C0,1,0,2
+f102r1,pharm-herbal,C0 -> C3 -> C3 -> C0,2,2,4
+f102r1,pharm-herbal,C0 -> C3 -> C2 -> C0,3,3,4
+f102r1,pharm-herbal,C0 -> C1 -> C0 -> C0,2,2,4
+f102r1,pharm-herbal,C0 -> C3 -> C3,2,1,3
+f102r1,pharm-herbal,C0 -> C1,2,1,2
+f102r2,pharm-herbal,C0 -> C0,1,0,2
+f102r2,pharm-herbal,C0 -> C1 -> C1 -> C0 -> C1,2,3,5
+f102r2,pharm-herbal,C1 -> C0 -> C3,3,2,3
+f102r2,pharm-herbal,C1 -> C0,2,1,2
+f102r2,pharm-herbal,C1 -> C1 -> C1 -> C2 -> C0,3,2,5
+f102r2,pharm-herbal,C0 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,3,3,7
+f102r2,pharm-herbal,C0 -> C3 -> C3 -> C3 -> C1 -> C0,3,3,6
+f102r2,pharm-herbal,C4 -> C3,2,1,2
+f102r2,pharm-herbal,C0 -> C0,1,0,2
+f102r2,pharm-herbal,C0 -> C0,1,0,2
+f102r2,pharm-herbal,C0 -> C4 -> C0 -> C0,2,2,4
+f102r2,pharm-herbal,C3 -> C0 -> C0 -> C2 -> C3,3,3,5
+f102r2,pharm-herbal,C1 -> C0 -> C1,2,2,3
+f102r2,pharm-herbal,C1 -> C0 -> C0 -> C1,2,2,4
+f102v1,pharm-herbal,C0 -> C1 -> C1 -> C1,2,1,4
+f102v1,pharm-herbal,C0 -> C0 -> C0 -> C4 -> C0,2,2,5
+f102v1,pharm-herbal,C0 -> C0 -> C1 -> C0,2,2,4
+f102v1,pharm-herbal,C0 -> C1 -> C4,3,2,3
+f102v1,pharm-herbal,C0 -> C0 -> C3,2,1,3
+f102v1,pharm-herbal,C0 -> C3,2,1,2
+f102v1,pharm-herbal,C1 -> C1 -> C0 -> C0 -> C1,2,2,5
+f102v1,pharm-herbal,C1 -> C3 -> C0 -> C0,3,2,4
+f102v1,pharm-herbal,C0 -> C0 -> C0 -> C2 -> C3 -> C0,3,3,6
+f102v1,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f102v1,pharm-herbal,C1 -> C0 -> C0 -> C0,2,1,4
+f102v1,pharm-herbal,C4 -> C0 -> C0 -> C1 -> C0,3,3,5
+f102v1,pharm-herbal,C0 -> C1 -> C3 -> C3,3,2,4
+f102v2,pharm-herbal,C3 -> C0 -> C1 -> C0 -> C1 -> C3,3,5,6
+f102v2,pharm-herbal,C2 -> C0 -> C0 -> C0,2,1,4
+f102v2,pharm-herbal,C0 -> C3,2,1,2
+f102v2,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1 -> C1,2,3,7
+f102v2,pharm-herbal,C3 -> C0 -> C3 -> C4 -> C3,3,4,5
+f102v2,pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0,2,2,5
+f102v2,pharm-herbal,C1 -> C1 -> C1 -> C1,1,0,4
+f102v2,pharm-herbal,C3 -> C0 -> C1,3,2,3
+f102v2,pharm-herbal,C1 -> C1 -> C3,2,1,3
+f102v2,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2 -> C3,3,2,6
+f102v2,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f102v2,pharm-herbal,C3 -> C0 -> C0 -> C0 -> C1,3,2,5
+f102v2,pharm-herbal,C0 -> C1 -> C1 -> C1 -> C3 -> C0,3,3,6
+f102v2,pharm-herbal,C3 -> C4 -> C1 -> C1 -> C1 -> C1 -> C0,4,3,7
+f102v2,pharm-herbal,C0 -> C4 -> C1 -> C3,4,3,4
+f102v2,pharm-herbal,C4 -> C0 -> C1 -> C0 -> C0 -> C3,4,4,6
+f102v2,pharm-herbal,C0 -> C3,2,1,2
+f103r,stars,C1 -> C3 -> C1 -> C2 -> C1 -> C2,3,5,6
+f103r,stars,C0 -> C0 -> C2 -> C3 -> C1 -> C2 -> C1 -> C1,4,5,8
+f103r,stars,C3 -> C2 -> C2 -> C4 -> C1 -> C4 -> C0,5,5,7
+f103r,stars,C1 -> C1 -> C3 -> C0 -> C2 -> C1,4,4,6
+f103r,stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1,3,3,8
+f103r,stars,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C1,3,4,9
+f103r,stars,C1 -> C1 -> C0 -> C1 -> C1,2,2,5
+f103r,stars,C0 -> C0 -> C1 -> C4 -> C1 -> C1 -> C1 -> C4 -> C1,3,5,9
+f103r,stars,C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,3,6
+f103r,stars,C0 -> C2 -> C3 -> C3 -> C2 -> C1 -> C1 -> C3,4,5,8
+f103r,stars,C2 -> C4 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,4,4,8
+f103r,stars,C1 -> C3 -> C0 -> C1,3,3,4
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f103r,stars,C2 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1,3,5,7
+f103r,stars,C2 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C3 -> C2,3,4,9
+f103r,stars,C1 -> C2 -> C0,3,2,3
+f103r,stars,C0 -> C3 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C3 -> C2,4,6,10
+f103r,stars,C1 -> C1 -> C2 -> C4 -> C3 -> C1 -> C2 -> C3,4,6,8
+f103r,stars,C1 -> C1 -> C0 -> C1 -> C1,2,2,5
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C1 -> C1 -> C1,2,2,9
+f103r,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C4,3,4,6
+f103r,stars,C1 -> C0 -> C1 -> C2 -> C1,3,4,5
+f103r,stars,C1 -> C0 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,3,3,8
+f103r,stars,C1 -> C1 -> C2 -> C1 -> C2 -> C3 -> C2,3,5,7
+f103r,stars,C0 -> C2 -> C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,3,3,9
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f103r,stars,C1 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,3,4,9
+f103r,stars,C0 -> C3,2,1,2
+f103r,stars,C0 -> C4 -> C0 -> C1 -> C1,3,3,5
+f103r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,3,3,8
+f103r,stars,C1 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1,3,4,7
+f103r,stars,C3 -> C1 -> C1 -> C2 -> C3 -> C1 -> C1,3,4,7
+f103r,stars,C1 -> C2 -> C1 -> C3,3,3,4
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C2 -> C3,3,2,6
+f103r,stars,C1 -> C1 -> C1 -> C0 -> C0 -> C1 -> C1 -> C2,3,3,8
+f103r,stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,3,5,10
+f103r,stars,C1 -> C0 -> C0 -> C2,3,2,4
+f103r,stars,C2 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3 -> C0 -> C1,4,6,9
+f103r,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f103r,stars,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,7
+f103r,stars,C0 -> C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C3,3,4,8
+f103r,stars,C3 -> C1,2,1,2
+f103r,stars,C0 -> C1 -> C1 -> C1 -> C0,2,2,5
+f103r,stars,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,2,2,7
+f103r,stars,C3 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1 -> C1,3,5,8
+f103r,stars,C1 -> C4 -> C4 -> C1 -> C1 -> C1 -> C4 -> C1,2,4,8
+f103r,stars,C3 -> C1 -> C0,3,2,3
+f103r,stars,C3 -> C1 -> C0 -> C3 -> C2,4,4,5
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f103r,stars,C1 -> C1 -> C1 -> C0,2,1,4
+f103r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,8
+f103r,stars,C4 -> C1 -> C1 -> C1 -> C1,2,1,5
+f103r,stars,C1 -> C1 -> C1 -> C3 -> C2,3,2,5
+f103r,stars,C3 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C3 -> C3,3,5,9
+f103v,stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1,2,2,6
+f103v,stars,C4 -> C1 -> C1 -> C1 -> C0 -> C1,3,3,6
+f103v,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f103v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f103v,stars,C3 -> C1 -> C1 -> C2,3,2,4
+f103v,stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,9
+f103v,stars,C3 -> C1 -> C0 -> C2 -> C2,4,3,5
+f103v,stars,C1 -> C3 -> C1 -> C2,3,3,4
+f103v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,2,1,8
+f103v,stars,C2 -> C1 -> C1 -> C1,2,1,4
+f103v,stars,C4 -> C2 -> C1 -> C3,4,3,4
+f103v,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C0 -> C2 -> C1 -> C2,4,6,10
+f103v,stars,C2 -> C2 -> C2 -> C1 -> C2 -> C2 -> C1 -> C1,2,3,8
+f103v,stars,C2 -> C1 -> C1 -> C0 -> C2,3,3,5
+f103v,stars,C0 -> C1 -> C1 -> C1 -> C1,2,1,5
+f103v,stars,C4 -> C3 -> C2 -> C1 -> C0,5,4,5
+f103v,stars,C1 -> C2 -> C2 -> C2,2,1,4
+f103v,stars,C1 -> C1 -> C1 -> C2 -> C2 -> C3,3,2,6
+f103v,stars,C1 -> C1 -> C3 -> C3,2,1,4
+f103v,stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2,2,1,6
+f103v,stars,C3 -> C1 -> C3 -> C2 -> C4 -> C1,4,5,6
+f103v,stars,C4 -> C0 -> C2 -> C1,4,3,4
+f103v,stars,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C1 -> C1 -> C1,3,3,10
+f103v,stars,C2 -> C1,2,1,2
+f103v,stars,C1 -> C4 -> C1 -> C1 -> C1 -> C2,3,3,6
+f103v,stars,C1 -> C4 -> C1 -> C0 -> C2 -> C1,4,5,6
+f103v,stars,C1 -> C1 -> C2 -> C0 -> C3 -> C1,4,4,6
+f103v,stars,C1 -> C4 -> C1 -> C1 -> C1 -> C3 -> C1,3,4,7
+f103v,stars,C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,2,3,7
+f103v,stars,C1 -> C1,1,0,2
+f103v,stars,C1 -> C1 -> C1 -> C1 -> C3,2,1,5
+f103v,stars,C3 -> C3 -> C4 -> C4 -> C0,3,2,5
+f103v,stars,C1 -> C0 -> C3 -> C1 -> C2,4,4,5
+f103v,stars,C4 -> C1 -> C1 -> C1,2,1,4
+f103v,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f103v,stars,C1 -> C1 -> C1 -> C2 -> C1,2,2,5
+f103v,stars,C1 -> C4 -> C2,3,2,3
+f103v,stars,C2 -> C1 -> C1 -> C1 -> C2,2,2,5
+f103v,stars,C1 -> C2 -> C2 -> C1 -> C0,3,3,5
+f103v,stars,C1 -> C4 -> C1 -> C1 -> C2,3,3,5
+f103v,stars,C0 -> C1 -> C2 -> C2 -> C2,3,2,5
+f103v,stars,C3 -> C1 -> C1 -> C3 -> C1 -> C1,2,3,6
+f103v,stars,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,2,8
+f103v,stars,C1 -> C0 -> C4 -> C3 -> C2 -> C1 -> C1 -> C1 -> C3,5,6,9
+f103v,stars,C1 -> C3 -> C1,2,2,3
+f103v,stars,C2 -> C0 -> C0 -> C2 -> C1 -> C1 -> C2,3,4,7
+f104r,stars,C1 -> C2 -> C1 -> C3,3,3,4
+f104r,stars,C3 -> C2 -> C1 -> C2 -> C0 -> C2,4,5,6
+f104r,stars,C2 -> C1 -> C2 -> C0 -> C4 -> C2,4,5,6
+f104r,stars,C1 -> C1 -> C1 -> C1 -> C0 -> C2,3,2,6
+f104r,stars,C0 -> C0 -> C2 -> C0 -> C1 -> C2,3,4,6
+f104r,stars,C3 -> C1 -> C2 -> C0 -> C2,4,4,5
+f104r,stars,C0 -> C0 -> C2 -> C2 -> C2 -> C0,2,2,6
+f104r,stars,C0 -> C0 -> C0,1,0,3
+f104r,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C2,3,2,7
+f104r,stars,C3 -> C1 -> C0 -> C2,4,3,4
+f104r,stars,C2 -> C2 -> C1 -> C2 -> C0 -> C0,3,3,6
+f104r,stars,C3 -> C0 -> C4 -> C2,4,3,4
+f104r,stars,C0 -> C2 -> C1 -> C0 -> C0 -> C3,4,4,6
+f104r,stars,C1 -> C1 -> C2 -> C2,2,1,4
+f104r,stars,C1 -> C2 -> C1 -> C1 -> C0 -> C1 -> C0 -> C2,3,6,8
+f104r,stars,C0 -> C0 -> C3 -> C0 -> C0 -> C0,2,2,6
+f104r,stars,C2 -> C2 -> C3 -> C2 -> C1,3,3,5
+f104r,stars,C2 -> C2 -> C2 -> C3 -> C2,2,2,5
+f104r,stars,C2 -> C1 -> C0,3,2,3
+f104r,stars,C1 -> C1 -> C0,2,1,3
+f104r,stars,C3 -> C1 -> C2 -> C3,3,3,4
+f104r,stars,C0 -> C3 -> C0,2,2,3
+f104r,stars,C3 -> C1 -> C2 -> C1 -> C1 -> C2,3,4,6
+f104r,stars,C3 -> C1 -> C1 -> C3,2,2,4
+f104r,stars,C1 -> C0 -> C3 -> C1 -> C3 -> C0,3,5,6
+f104r,stars,C1 -> C3 -> C0 -> C0 -> C0 -> C1,3,3,6
+f104r,stars,C3 -> C1 -> C2 -> C1 -> C2 -> C4,4,5,6
+f104r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0 -> C1 -> C0,3,5,9
+f104r,stars,C3 -> C4 -> C0 -> C0,3,2,4
+f104r,stars,C2 -> C0 -> C1 -> C0 -> C1 -> C2,3,5,6
+f104r,stars,C2 -> C0 -> C2 -> C2 -> C3 -> C1 -> C2 -> C1,4,6,8
+f104r,stars,C2 -> C0 -> C0 -> C2,2,2,4
+f104r,stars,C2 -> C0 -> C1,3,2,3
+f104r,stars,C1 -> C1 -> C3 -> C2,3,2,4
+f104r,stars,C2 -> C1,2,1,2
+f104r,stars,C1 -> C0 -> C0 -> C1 -> C1,2,2,5
+f104r,stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3,3,4,7
+f104r,stars,C0 -> C4 -> C1 -> C0 -> C1 -> C2 -> C2,4,5,7
+f104r,stars,C2 -> C1 -> C1 -> C2 -> C2,2,2,5
+f104r,stars,C2 -> C1 -> C2,2,2,3
+f104r,stars,C1 -> C3 -> C1 -> C1 -> C2 -> C2 -> C3,3,4,7
+f104r,stars,C0 -> C0 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,7
+f104r,stars,C1 -> C3 -> C1 -> C1 -> C2 -> C2,3,3,6
+f104r,stars,C1 -> C0 -> C3,3,2,3
+f104v,stars,C0 -> C3,2,1,2
+f104v,stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C0 -> C3,4,6,10
+f104v,stars,C3 -> C2 -> C0 -> C0 -> C0,3,2,5
+f104v,stars,C3 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3 -> C0 -> C3,3,7,9
+f104v,stars,C0 -> C0 -> C1 -> C3 -> C3 -> C3 -> C3,3,2,7
+f104v,stars,C1 -> C3,2,1,2
+f104v,stars,C0 -> C0 -> C0 -> C3 -> C3 -> C1 -> C2 -> C2,4,3,8
+f104v,stars,C1 -> C2 -> C2 -> C2 -> C1 -> C1,2,2,6
+f104v,stars,C4 -> C0 -> C2 -> C0 -> C2 -> C0 -> C1 -> C0,4,7,8
+f104v,stars,C3 -> C1 -> C1 -> C0,3,2,4
+f104v,stars,C0 -> C2 -> C0 -> C0 -> C1 -> C0 -> C3 -> C0 -> C3,4,7,9
+f104v,stars,C1 -> C0 -> C2 -> C1 -> C2 -> C2,3,4,6
+f104v,stars,C1 -> C1 -> C1 -> C1 -> C0 -> C0 -> C0 -> C2 -> C2,3,2,9
+f104v,stars,C1 -> C1 -> C0 -> C1 -> C0,2,3,5
+f104v,stars,C1 -> C0 -> C1 -> C2 -> C0 -> C4,4,5,6
+f104v,stars,C4 -> C4 -> C0 -> C2 -> C2,3,2,5
+f104v,stars,C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C1,3,6,7
+f104v,stars,C1 -> C1 -> C2 -> C4 -> C1,3,3,5
+f104v,stars,C1 -> C0 -> C0,2,1,3
+f104v,stars,C0 -> C0 -> C0 -> C0 -> C1 -> C2 -> C0 -> C2,3,4,8
+f104v,stars,C1 -> C0 -> C0 -> C0,2,1,4
+f104v,stars,C4 -> C0 -> C1 -> C0 -> C2 -> C1 -> C3 -> C2,5,7,8
+f104v,stars,C0 -> C1 -> C1 -> C0 -> C0 -> C1 -> C1,2,3,7
+f104v,stars,C0 -> C0 -> C2 -> C1 -> C4,4,3,5
+f104v,stars,C0 -> C0 -> C0 -> C1 -> C4,3,2,5
+f104v,stars,C1 -> C0 -> C3,3,2,3
+f104v,stars,C3 -> C1 -> C4 -> C3,3,3,4
+f104v,stars,C1 -> C2 -> C0 -> C2 -> C0,3,4,5
+f104v,stars,C1 -> C3 -> C1 -> C1 -> C0 -> C1,3,4,6
+f104v,stars,C0 -> C1 -> C0,2,2,3
+f104v,stars,C1 -> C0 -> C1,2,2,3
+f104v,stars,C3 -> C1 -> C0 -> C1 -> C1 -> C4 -> C3 -> C3 -> C2,5,6,9
+f104v,stars,C2 -> C1 -> C4,3,2,3
+f104v,stars,C1 -> C3 -> C0 -> C0 -> C3 -> C0 -> C4 -> C1 -> C1,4,6,9
+f104v,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f104v,stars,C1 -> C1 -> C3 -> C0 -> C1 -> C1 -> C2 -> C1,4,5,8
+f104v,stars,C3 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1,2,3,7
+f104v,stars,C4 -> C1 -> C4 -> C2,3,3,4
+f104v,stars,C3 -> C4 -> C1 -> C1 -> C1 -> C1,3,2,6
+f104v,stars,C0 -> C2 -> C3,3,2,3
+f104v,stars,C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,9
+f104v,stars,C4 -> C3 -> C1 -> C1 -> C1 -> C0,4,3,6
+f104v,stars,C0 -> C1 -> C3 -> C0 -> C1 -> C1 -> C1,3,4,7
+f104v,stars,C2 -> C1 -> C1 -> C0 -> C3 -> C2 -> C1 -> C0,4,6,8
+f105r,stars,C2 -> C1 -> C1,2,1,3
+f105r,stars,C1 -> C0 -> C3,3,2,3
+f105r,stars,C1 -> C2 -> C4 -> C4,3,2,4
+f105r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,3,3,8
+f105r,stars,C1 -> C0 -> C1 -> C0,2,3,4
+f105r,stars,C1 -> C3 -> C3 -> C0,3,2,4
+f105r,stars,C3 -> C1,2,1,2
+f105r,stars,C3 -> C0 -> C1 -> C0 -> C1 -> C1,3,4,6
+f105r,stars,C0 -> C1 -> C1 -> C2 -> C1 -> C0 -> C1 -> C3 -> C2,4,7,9
+f105r,stars,C3 -> C1 -> C1 -> C3,2,2,4
+f105r,stars,C1 -> C4 -> C2 -> C3 -> C4 -> C3 -> C0,5,6,7
+f105r,stars,C1 -> C1 -> C0 -> C0 -> C1 -> C2 -> C3,4,4,7
+f105r,stars,C3 -> C3,1,0,2
+f105r,stars,C1 -> C2 -> C0,3,2,3
+f105r,stars,C0 -> C1,2,1,2
+f105r,stars,C1 -> C1 -> C2 -> C2 -> C1,2,2,5
+f105r,stars,C0 -> C3,2,1,2
+f105r,stars,C1 -> C1 -> C1,1,0,3
+f105r,stars,C0 -> C2 -> C1,3,2,3
+f105r,stars,C0 -> C3 -> C1 -> C1 -> C1,3,2,5
+f105r,stars,C0 -> C0 -> C0,1,0,3
+f105r,stars,C1 -> C2 -> C1 -> C1,2,2,4
+f105r,stars,C3 -> C3 -> C2 -> C2 -> C1,3,2,5
+f105r,stars,C2 -> C1 -> C2 -> C1,2,3,4
+f105r,stars,C3 -> C2 -> C1 -> C2 -> C3 -> C2 -> C2,3,5,7
+f105r,stars,C2 -> C3 -> C2 -> C2,2,2,4
+f105r,stars,C2 -> C1 -> C2,2,2,3
+f105r,stars,C0 -> C2 -> C3,3,2,3
+f105r,stars,C1 -> C0 -> C0,2,1,3
+f105r,stars,C1 -> C1 -> C1,1,0,3
+f105r,stars,C1 -> C1 -> C4 -> C1 -> C1 -> C1,2,2,6
+f105r,stars,C3 -> C1 -> C4,3,2,3
+f105v,stars,C4 -> C2 -> C1,3,2,3
+f105v,stars,C2 -> C2 -> C1,2,1,3
+f105v,stars,C0 -> C2 -> C2 -> C2,2,1,4
+f105v,stars,C2 -> C2 -> C3,2,1,3
+f105v,stars,C2 -> C1 -> C2,2,2,3
+f105v,stars,C2 -> C2 -> C2,1,0,3
+f105v,stars,C4 -> C2 -> C2 -> C2 -> C0 -> C2,3,3,6
+f105v,stars,C3 -> C2 -> C0,3,2,3
+f105v,stars,C2 -> C3 -> C3 -> C4,3,2,4
+f105v,stars,C3 -> C2 -> C2 -> C2 -> C0 -> C0,3,2,6
+f105v,stars,C0 -> C3 -> C2 -> C0 -> C3,3,4,5
+f105v,stars,C1 -> C1 -> C0,2,1,3
+f105v,stars,C0 -> C3 -> C2 -> C4,4,3,4
+f105v,stars,C0 -> C3 -> C1 -> C0,3,3,4
+f105v,stars,C2 -> C2 -> C4,2,1,3
+f105v,stars,C2 -> C0,2,1,2
+f105v,stars,C1 -> C2 -> C2 -> C2 -> C3 -> C2,3,3,6
+f105v,stars,C0 -> C1 -> C2,3,2,3
+f105v,stars,C0 -> C0,1,0,2
+f105v,stars,C1 -> C2 -> C0 -> C0 -> C1 -> C1 -> C1,3,3,7
+f105v,stars,C1 -> C4 -> C0 -> C2 -> C2 -> C2 -> C1,4,4,7
+f105v,stars,C2 -> C2 -> C2,1,0,3
+f105v,stars,C1 -> C1,1,0,2
+f105v,stars,C3 -> C3 -> C2 -> C1 -> C1,3,2,5
+f105v,stars,C1 -> C2 -> C1 -> C2 -> C2 -> C3,3,4,6
+f105v,stars,C3 -> C1 -> C0 -> C1 -> C2,4,4,5
+f105v,stars,C0 -> C1 -> C2 -> C2 -> C2,3,2,5
+f105v,stars,C0 -> C2 -> C0 -> C2 -> C1 -> C2,3,5,6
+f105v,stars,C0 -> C1,2,1,2
+f105v,stars,C1 -> C2 -> C3,3,2,3
+f105v,stars,C1 -> C2,2,1,2
+f105v,stars,C3 -> C1 -> C3,2,2,3
+f105v,stars,C2 -> C2,1,0,2
+f105v,stars,C2 -> C1 -> C4 -> C2,3,3,4
+f106r,stars,C0 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,3,2,7
+f106r,stars,C1 -> C0 -> C1 -> C1 -> C1 -> C0,2,3,6
+f106r,stars,C0 -> C0 -> C0 -> C0 -> C3 -> C1,3,2,6
+f106r,stars,C1 -> C1 -> C1,1,0,3
+f106r,stars,C0 -> C3 -> C1 -> C0 -> C4,4,4,5
+f106r,stars,C2 -> C2 -> C2 -> C1 -> C0,3,2,5
+f106r,stars,C3 -> C0 -> C1 -> C0 -> C2,4,4,5
+f106r,stars,C2 -> C3 -> C0 -> C2 -> C2,3,3,5
+f106r,stars,C1 -> C0 -> C1 -> C0 -> C1 -> C0 -> C0 -> C0 -> C2,3,6,9
+f106r,stars,C1 -> C1 -> C0 -> C1 -> C2 -> C0 -> C0,3,4,7
+f106r,stars,C1 -> C3 -> C1 -> C0 -> C2 -> C1 -> C3 -> C1 -> C1 -> C2,4,8,10
+f106r,stars,C4 -> C1 -> C0 -> C1 -> C1 -> C0 -> C1,3,5,7
+f106r,stars,C1 -> C3 -> C3 -> C2,3,2,4
+f106r,stars,C0 -> C1,2,1,2
+f106r,stars,C1 -> C1 -> C0 -> C1,2,2,4
+f106r,stars,C1 -> C0 -> C0 -> C3 -> C2 -> C2,4,3,6
+f106r,stars,C3 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,3,4,7
+f106r,stars,C0 -> C1 -> C0 -> C2 -> C3 -> C0,4,5,6
+f106r,stars,C2 -> C1 -> C4 -> C0 -> C2,4,4,5
+f106r,stars,C2 -> C2 -> C2 -> C2 -> C1 -> C2 -> C2,2,2,7
+f106r,stars,C1 -> C0,2,1,2
+f106r,stars,C0 -> C0 -> C0 -> C0,1,0,4
+f106r,stars,C2 -> C0,2,1,2
+f106r,stars,C0 -> C1 -> C2 -> C1,3,3,4
+f106r,stars,C0 -> C0 -> C0 -> C1 -> C2,3,2,5
+f106r,stars,C0 -> C2 -> C1,3,2,3
+f106r,stars,C2 -> C0 -> C2,2,2,3
+f106r,stars,C0 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1,3,5,7
+f106r,stars,C0 -> C3,2,1,2
+f106r,stars,C0 -> C0 -> C0,1,0,3
+f106r,stars,C1 -> C0 -> C3 -> C4 -> C2,5,4,5
+f106r,stars,C1 -> C0 -> C3 -> C1,3,3,4
+f106r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C2,4,3,8
+f106r,stars,C1 -> C0 -> C0 -> C0,2,1,4
+f106r,stars,C0 -> C1 -> C0 -> C0 -> C1,2,3,5
+f106r,stars,C0 -> C1 -> C1 -> C2 -> C0 -> C3 -> C2,4,5,7
+f106r,stars,C1 -> C1 -> C2 -> C0 -> C3 -> C2 -> C2 -> C2 -> C2,4,4,9
+f106r,stars,C1 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,6
+f106r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f106r,stars,C2 -> C1 -> C2 -> C2 -> C0,3,3,5
+f106r,stars,C2 -> C2 -> C1 -> C3 -> C0 -> C0,4,3,6
+f106r,stars,C0 -> C0 -> C2 -> C1 -> C1 -> C0 -> C1,3,4,7
+f106r,stars,C1 -> C0 -> C0 -> C3,3,2,4
+f106r,stars,C1 -> C1 -> C0 -> C1 -> C1 -> C2,3,3,6
+f106r,stars,C0 -> C1 -> C0 -> C1,2,3,4
+f106v,stars,C3 -> C0 -> C2,3,2,3
+f106v,stars,C0 -> C3,2,1,2
+f106v,stars,C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1 -> C2,2,4,8
+f106v,stars,C0 -> C2 -> C1 -> C0 -> C0 -> C1 -> C2 -> C2,3,5,8
+f106v,stars,C3 -> C1 -> C0,3,2,3
+f106v,stars,C2 -> C1,2,1,2
+f106v,stars,C0 -> C1 -> C1 -> C2 -> C1 -> C2,3,4,6
+f106v,stars,C3 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0 -> C1 -> C2,4,6,9
+f106v,stars,C0 -> C2 -> C0,2,2,3
+f106v,stars,C1 -> C0 -> C1 -> C1 -> C1,2,2,5
+f106v,stars,C2 -> C2 -> C1 -> C2,2,2,4
+f106v,stars,C1 -> C2 -> C2 -> C2 -> C1 -> C2 -> C1 -> C0,3,5,8
+f106v,stars,C0 -> C0 -> C0 -> C0 -> C1 -> C2,3,2,6
+f106v,stars,C3 -> C2 -> C1 -> C1,3,2,4
+f106v,stars,C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,3,8
+f106v,stars,C2 -> C0 -> C2 -> C2 -> C0 -> C1 -> C1 -> C1 -> C1,3,4,9
+f106v,stars,C2 -> C0 -> C2 -> C2 -> C2,2,2,5
+f106v,stars,C0 -> C0 -> C2 -> C0 -> C2,2,3,5
+f106v,stars,C1 -> C2 -> C2 -> C2 -> C0 -> C3,4,3,6
+f106v,stars,C0 -> C0 -> C1,2,1,3
+f106v,stars,C0 -> C0 -> C0 -> C1 -> C3 -> C2 -> C1 -> C2,4,5,8
+f106v,stars,C1 -> C1 -> C0 -> C2 -> C2 -> C0 -> C0,3,3,7
+f106v,stars,C1 -> C0 -> C0 -> C2 -> C2,3,2,5
+f106v,stars,C2 -> C0 -> C1 -> C1 -> C0 -> C1 -> C0,3,5,7
+f106v,stars,C1 -> C0 -> C0,2,1,3
+f106v,stars,C1 -> C1,1,0,2
+f106v,stars,C3 -> C2 -> C4 -> C4,3,2,4
+f106v,stars,C3 -> C1 -> C2 -> C1 -> C0,4,4,5
+f106v,stars,C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,4,9
+f106v,stars,C1 -> C1 -> C0,2,1,3
+f106v,stars,C3 -> C0 -> C1 -> C1 -> C3,3,3,5
+f106v,stars,C0 -> C1 -> C4 -> C1 -> C1 -> C2 -> C2,4,4,7
+f106v,stars,C1 -> C4 -> C3,3,2,3
+f106v,stars,C2 -> C2 -> C2 -> C2 -> C2,1,0,5
+f106v,stars,C0 -> C3 -> C0,2,2,3
+f106v,stars,C1 -> C4 -> C1 -> C2 -> C3 -> C1 -> C0,5,6,7
+f106v,stars,C2 -> C1 -> C1 -> C3 -> C3 -> C1 -> C2 -> C0,4,5,8
+f106v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,8
+f106v,stars,C4 -> C2 -> C4 -> C3 -> C2 -> C3 -> C1 -> C0 -> C2,5,8,9
+f106v,stars,C1 -> C0 -> C4 -> C2 -> C2 -> C3,5,4,6
+f106v,stars,C2 -> C0 -> C1 -> C1 -> C2 -> C2 -> C0 -> C0,3,4,8
+f106v,stars,C3 -> C1,2,1,2
+f106v,stars,C0 -> C1 -> C1 -> C2 -> C3,4,3,5
+f106v,stars,C0 -> C1 -> C0 -> C1 -> C0 -> C1,2,5,6
+f106v,stars,C1 -> C0 -> C0 -> C0 -> C1 -> C0,2,3,6
+f106v,stars,C3 -> C2,2,1,2
+f106v,stars,C0 -> C0 -> C1 -> C1,2,1,4
+f107r,stars,C0 -> C0 -> C0 -> C3 -> C3 -> C2,3,2,6
+f107r,stars,C1 -> C0 -> C1 -> C1 -> C3 -> C4,4,4,6
+f107r,stars,C3 -> C3 -> C1 -> C2 -> C2 -> C2 -> C2,3,2,7
+f107r,stars,C0 -> C0,1,0,2
+f107r,stars,C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,3,6
+f107r,stars,C0 -> C2 -> C2 -> C4 -> C1 -> C2,4,4,6
+f107r,stars,C4 -> C2 -> C1 -> C1,3,2,4
+f107r,stars,C1 -> C2 -> C1 -> C2,2,3,4
+f107r,stars,C4 -> C4,1,0,2
+f107r,stars,C1 -> C1,1,0,2
+f107r,stars,C1 -> C0 -> C1 -> C1 -> C0,2,3,5
+f107r,stars,C4 -> C1 -> C1 -> C3 -> C0 -> C1 -> C4,4,5,7
+f107r,stars,C0 -> C1,2,1,2
+f107r,stars,C2 -> C2 -> C2 -> C0 -> C0 -> C3,3,2,6
+f107r,stars,C2 -> C1 -> C1 -> C2,2,2,4
+f107r,stars,C0 -> C2 -> C0,2,2,3
+f107r,stars,C2 -> C0 -> C1,3,2,3
+f107r,stars,C2 -> C1 -> C1 -> C0 -> C2 -> C1 -> C2 -> C2,3,5,8
+f107r,stars,C0 -> C1 -> C4 -> C2 -> C2 -> C0,4,4,6
+f107r,stars,C1 -> C2 -> C2 -> C2,2,1,4
+f107r,stars,C2 -> C0 -> C1 -> C4 -> C0,4,4,5
+f107r,stars,C0 -> C1 -> C1 -> C1,2,1,4
+f107r,stars,C1 -> C2 -> C1,2,2,3
+f107r,stars,C0 -> C2 -> C2 -> C1 -> C0 -> C2 -> C0,3,5,7
+f107r,stars,C0 -> C1 -> C2 -> C2 -> C2,3,2,5
+f107r,stars,C3 -> C3 -> C4 -> C2 -> C2,3,2,5
+f107r,stars,C2 -> C0 -> C2 -> C2 -> C2,2,2,5
+f107r,stars,C1 -> C0 -> C1 -> C1,2,2,4
+f107r,stars,C3 -> C0 -> C4 -> C1 -> C4,4,4,5
+f107r,stars,C2 -> C0,2,1,2
+f107r,stars,C1 -> C1 -> C4 -> C2,3,2,4
+f107r,stars,C0 -> C0 -> C3 -> C3 -> C0 -> C4,3,3,6
+f107r,stars,C3 -> C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C1,3,3,8
+f107r,stars,C4 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,3,2,7
+f107r,stars,C1 -> C1 -> C2 -> C2,2,1,4
+f107r,stars,C3 -> C1,2,1,2
+f107r,stars,C3 -> C0 -> C2 -> C2 -> C0,3,3,5
+f107r,stars,C1 -> C1 -> C1,1,0,3
+f107r,stars,C1 -> C1 -> C0 -> C3 -> C2 -> C2,4,3,6
+f107r,stars,C4 -> C1 -> C0 -> C2 -> C1 -> C2,4,5,6
+f107r,stars,C2 -> C4,2,1,2
+f107r,stars,C2 -> C2 -> C1 -> C2 -> C2,2,2,5
+f107r,stars,C2 -> C2 -> C2 -> C2 -> C2,1,0,5
+f107r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1,2,2,7
+f107r,stars,C0 -> C0 -> C1,2,1,3
+f107r,stars,C0 -> C4 -> C2 -> C2 -> C0 -> C1 -> C2,4,5,7
+f107r,stars,C4 -> C1 -> C0 -> C3 -> C3 -> C4 -> C2,5,5,7
+f107r,stars,C0 -> C2 -> C2 -> C1 -> C4,4,3,5
+f107r,stars,C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C2,3,3,7
+f107r,stars,C2 -> C1 -> C0 -> C1 -> C1 -> C1 -> C2 -> C4,4,5,8
+f107v,stars,C2 -> C2 -> C1 -> C4 -> C0 -> C2 -> C4,4,5,7
+f107v,stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1,2,3,6
+f107v,stars,C1 -> C2 -> C1 -> C4 -> C2 -> C1 -> C1 -> C0 -> C1,4,7,9
+f107v,stars,C1 -> C0 -> C1 -> C1 -> C0 -> C1 -> C2,3,5,7
+f107v,stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1,2,4,6
+f107v,stars,C0 -> C2 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,3,5,8
+f107v,stars,C1 -> C1 -> C2 -> C2 -> C2 -> C2,2,1,6
+f107v,stars,C2 -> C2 -> C1 -> C0,3,2,4
+f107v,stars,C2 -> C2 -> C2 -> C1 -> C0 -> C1 -> C4,4,4,7
+f107v,stars,C1 -> C4 -> C2 -> C0 -> C2,4,4,5
+f107v,stars,C0 -> C2 -> C2 -> C2,2,1,4
+f107v,stars,C2 -> C1 -> C2 -> C1 -> C3 -> C2,3,5,6
+f107v,stars,C2 -> C2 -> C0,2,1,3
+f107v,stars,C0 -> C1 -> C0 -> C2 -> C2 -> C2,3,3,6
+f107v,stars,C0 -> C2,2,1,2
+f107v,stars,C2 -> C2 -> C2,1,0,3
+f107v,stars,C0 -> C0 -> C2,2,1,3
+f107v,stars,C0 -> C1 -> C0 -> C1 -> C2 -> C2,3,4,6
+f107v,stars,C2 -> C4 -> C0 -> C0 -> C0 -> C0 -> C4 -> C1,4,4,8
+f107v,stars,C0 -> C0,1,0,2
+f107v,stars,C0 -> C0 -> C1 -> C1 -> C1,2,1,5
+f107v,stars,C1 -> C0 -> C1 -> C2,3,3,4
+f107v,stars,C2 -> C2 -> C2 -> C0 -> C1 -> C4 -> C1,4,4,7
+f107v,stars,C4 -> C1 -> C1 -> C1,2,1,4
+f107v,stars,C1 -> C2 -> C2 -> C4 -> C1 -> C1 -> C1,3,3,7
+f107v,stars,C0 -> C2 -> C2,2,1,3
+f107v,stars,C4 -> C1,2,1,2
+f107v,stars,C2 -> C1 -> C1 -> C1 -> C1,2,1,5
+f107v,stars,C4 -> C0 -> C1 -> C2,4,3,4
+f107v,stars,C1 -> C0 -> C2 -> C2,3,2,4
+f107v,stars,C4 -> C4 -> C1 -> C0 -> C3 -> C3,4,3,6
+f107v,stars,C2 -> C0 -> C3 -> C0 -> C2,3,4,5
+f107v,stars,C3 -> C3 -> C1 -> C0 -> C2,4,3,5
+f107v,stars,C0 -> C1 -> C1,2,1,3
+f107v,stars,C3 -> C4 -> C4 -> C3 -> C1,3,3,5
+f107v,stars,C1 -> C2 -> C0,3,2,3
+f107v,stars,C1 -> C1,1,0,2
+f107v,stars,C2 -> C3 -> C1 -> C3,3,3,4
+f107v,stars,C4 -> C1 -> C1 -> C3 -> C1,3,3,5
+f107v,stars,C4 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,3,3,7
+f107v,stars,C1 -> C1 -> C1 -> C0 -> C4 -> C1 -> C3 -> C2 -> C4,5,6,9
+f107v,stars,C4 -> C1 -> C4,2,2,3
+f107v,stars,C0 -> C0 -> C2 -> C3,3,2,4
+f107v,stars,C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C1,2,3,7
+f107v,stars,C0 -> C0 -> C1,2,1,3
+f107v,stars,C1 -> C0 -> C0 -> C1 -> C1 -> C3,3,3,6
+f107v,stars,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f108r,stars,C3 -> C2 -> C1,3,2,3
+f108r,stars,C1 -> C1 -> C3 -> C3 -> C1 -> C3,2,3,6
+f108r,stars,C1 -> C1 -> C2 -> C2,2,1,4
+f108r,stars,C1 -> C4 -> C1 -> C2 -> C2 -> C2,3,3,6
+f108r,stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,3,4,7
+f108r,stars,C4 -> C4 -> C1 -> C1 -> C1 -> C2,3,2,6
+f108r,stars,C3 -> C1 -> C1 -> C2 -> C2 -> C1,3,3,6
+f108r,stars,C1 -> C0 -> C1 -> C1 -> C2 -> C3,4,4,6
+f108r,stars,C1 -> C3 -> C0 -> C0 -> C1 -> C2 -> C1 -> C2,4,6,8
+f108r,stars,C1 -> C0 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1 -> C1,3,4,9
+f108r,stars,C4 -> C1 -> C0 -> C1,3,3,4
+f108r,stars,C0 -> C1 -> C2,3,2,3
+f108r,stars,C0 -> C0 -> C1 -> C2 -> C1 -> C1 -> C4 -> C3,5,5,8
+f108r,stars,C4 -> C2 -> C2,2,1,3
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,2,1,7
+f108r,stars,C3 -> C1 -> C0 -> C1,3,3,4
+f108r,stars,C2 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C3 -> C2,3,6,9
+f108r,stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C2,3,4,7
+f108r,stars,C1 -> C3 -> C1 -> C1 -> C1 -> C3,2,3,6
+f108r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C0,4,4,8
+f108r,stars,C3 -> C0 -> C1 -> C1,3,2,4
+f108r,stars,C0 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,3,3,8
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0,3,2,7
+f108r,stars,C2 -> C1 -> C1 -> C0 -> C2 -> C2 -> C1 -> C1 -> C2,3,5,9
+f108r,stars,C2 -> C1 -> C2,2,2,3
+f108r,stars,C2 -> C1 -> C1 -> C1,2,1,4
+f108r,stars,C3 -> C0 -> C1 -> C3 -> C1 -> C2 -> C2 -> C3 -> C1,4,7,9
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C3,3,3,7
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C4,2,1,5
+f108r,stars,C1 -> C1 -> C2 -> C0 -> C1 -> C1 -> C1,3,3,7
+f108r,stars,C1 -> C2 -> C1 -> C3 -> C1,3,4,5
+f108r,stars,C0 -> C1 -> C1 -> C3 -> C3 -> C0 -> C2,4,4,7
+f108r,stars,C1 -> C1 -> C0 -> C0 -> C1,2,2,5
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C3 -> C2,3,4,9
+f108r,stars,C1 -> C1 -> C3 -> C2,3,2,4
+f108r,stars,C4 -> C2 -> C2 -> C2 -> C0,3,2,5
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f108r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C4 -> C1,3,3,8
+f108r,stars,C0 -> C0 -> C1 -> C1 -> C1 -> C3,3,2,6
+f108r,stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,1,6
+f108r,stars,C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,2,6
+f108r,stars,C0 -> C4 -> C3 -> C1 -> C3 -> C1 -> C0,4,6,7
+f108r,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C2,2,3,7
+f108r,stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C4 -> C2,4,5,9
+f108r,stars,C4 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2 -> C2,3,2,11
+f108r,stars,C0 -> C0 -> C0 -> C1 -> C0 -> C1 -> C1,2,3,7
+f108r,stars,C3 -> C1 -> C1 -> C1 -> C2,3,2,5
+f108v,stars,C1 -> C1 -> C1 -> C3 -> C3,2,1,5
+f108v,stars,C4 -> C1 -> C3 -> C2 -> C1 -> C3,4,5,6
+f108v,stars,C1 -> C0 -> C3 -> C1,3,3,4
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1,2,2,7
+f108v,stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,4,4,8
+f108v,stars,C1 -> C4 -> C1,2,2,3
+f108v,stars,C3 -> C1 -> C1 -> C1,2,1,4
+f108v,stars,C1 -> C1 -> C0 -> C1 -> C2 -> C0 -> C1 -> C1,3,5,8
+f108v,stars,C1 -> C1 -> C1 -> C0 -> C1 -> C2,3,3,6
+f108v,stars,C1 -> C3 -> C1 -> C3 -> C4,3,4,5
+f108v,stars,C2 -> C1 -> C2 -> C3 -> C3 -> C1 -> C2,3,5,7
+f108v,stars,C0 -> C4 -> C1 -> C1 -> C1,3,2,5
+f108v,stars,C0 -> C3 -> C4 -> C1 -> C1 -> C3 -> C0,4,5,7
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C2,3,2,6
+f108v,stars,C1 -> C1 -> C0 -> C3 -> C3 -> C2 -> C2,4,3,7
+f108v,stars,C3 -> C3 -> C1 -> C2 -> C3,3,3,5
+f108v,stars,C1 -> C1 -> C2 -> C4 -> C1 -> C1,3,3,6
+f108v,stars,C0 -> C0 -> C1 -> C1 -> C2 -> C2,3,2,6
+f108v,stars,C2 -> C2 -> C2 -> C2,1,0,4
+f108v,stars,C1 -> C1 -> C2 -> C1 -> C0,3,3,5
+f108v,stars,C4 -> C0 -> C3 -> C1,4,3,4
+f108v,stars,C3 -> C1 -> C3 -> C3,2,2,4
+f108v,stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,7
+f108v,stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C3,3,4,9
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1,2,2,8
+f108v,stars,C4 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,3,3,8
+f108v,stars,C1 -> C1 -> C0 -> C1 -> C0 -> C1,2,4,6
+f108v,stars,C1 -> C0 -> C1 -> C4 -> C1 -> C1 -> C1,3,4,7
+f108v,stars,C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C1 -> C2,3,4,8
+f108v,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,8
+f108v,stars,C0 -> C1 -> C1 -> C4 -> C1 -> C1 -> C1 -> C1 -> C2,4,4,9
+f108v,stars,C4 -> C4 -> C2 -> C3 -> C3 -> C1,4,3,6
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,9
+f108v,stars,C1 -> C3 -> C1 -> C1 -> C0 -> C2,4,4,6
+f108v,stars,C4 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f108v,stars,C0 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C3,4,4,8
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3,2,3,8
+f108v,stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,3,3,10
+f108v,stars,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,2,2,7
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C3 -> C0,3,2,6
+f108v,stars,C3 -> C2 -> C1 -> C1 -> C1,3,2,5
+f108v,stars,C2 -> C4 -> C2 -> C0 -> C1 -> C1 -> C3 -> C1,5,6,8
+f108v,stars,C3 -> C2 -> C1 -> C1 -> C1 -> C1,3,2,6
+f108v,stars,C1 -> C3 -> C0 -> C1 -> C1 -> C3 -> C3 -> C1 -> C4 -> C1,4,7,10
+f108v,stars,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,2,7
+f108v,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1,3,3,8
+f108v,stars,C1 -> C1,1,0,2
+f108v,stars,C4 -> C1 -> C1 -> C1 -> C1,2,1,5
+f108v,stars,C1 -> C3 -> C3 -> C1 -> C3 -> C3,2,3,6
+f108v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C2,3,4,9
+f108v,stars,C1 -> C3 -> C2 -> C2 -> C1 -> C3,3,4,6
+f10r,herbal-A,C0 -> C0 -> C0,1,0,3
+f10r,herbal-A,C0 -> C0,1,0,2
+f10r,herbal-A,C0 -> C0,1,0,2
+f10r,herbal-A,C4 -> C2 -> C2 -> C0 -> C2 -> C2,3,3,6
+f10r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f10r,herbal-A,C0 -> C2 -> C2,2,1,3
+f10r,herbal-A,C0 -> C0 -> C0,1,0,3
+f10r,herbal-A,C0 -> C0,1,0,2
+f10r,herbal-A,C0 -> C0 -> C0,1,0,3
+f10r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f10r,herbal-A,C0 -> C0 -> C0,1,0,3
+f10v,herbal-A,C0 -> C0 -> C2,2,1,3
+f10v,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f10v,herbal-A,C0 -> C0 -> C0,1,0,3
+f10v,herbal-A,C2 -> C0 -> C4,3,2,3
+f10v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f10v,herbal-A,C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C0,2,2,7
+f10v,herbal-A,C0 -> C0 -> C0 -> C3 -> C2,3,2,5
+f111r,stars,C0 -> C2 -> C3 -> C3 -> C1 -> C1 -> C1 -> C1,4,3,8
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,6
+f111r,stars,C1 -> C1 -> C3 -> C1 -> C1 -> C4,3,3,6
+f111r,stars,C1 -> C1 -> C3 -> C3 -> C1 -> C3 -> C1 -> C2,3,5,8
+f111r,stars,C2 -> C1 -> C4 -> C0,4,3,4
+f111r,stars,C3 -> C3 -> C1 -> C1 -> C3 -> C1,2,3,6
+f111r,stars,C1 -> C1 -> C1 -> C3 -> C1 -> C4 -> C3 -> C3,3,4,8
+f111r,stars,C3 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,3,7
+f111r,stars,C3 -> C1 -> C1 -> C4 -> C3 -> C3 -> C2,4,4,7
+f111r,stars,C1 -> C3 -> C1 -> C4 -> C1 -> C1 -> C0,4,5,7
+f111r,stars,C3 -> C1 -> C3 -> C1 -> C3 -> C1,2,5,6
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C3,3,4,9
+f111r,stars,C1 -> C1 -> C3 -> C3 -> C0 -> C1 -> C1 -> C1 -> C0,3,4,9
+f111r,stars,C2 -> C3 -> C1 -> C4 -> C3 -> C1 -> C0,5,6,7
+f111r,stars,C3 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1,3,3,7
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,3,4,9
+f111r,stars,C2 -> C0 -> C1 -> C3 -> C2,4,4,5
+f111r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C3 -> C0,3,3,7
+f111r,stars,C1 -> C3 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,4,8
+f111r,stars,C0 -> C1 -> C0 -> C3 -> C2 -> C3 -> C3,4,5,7
+f111r,stars,C1 -> C1 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,9
+f111r,stars,C2 -> C4 -> C3 -> C2 -> C1 -> C1 -> C1,4,4,7
+f111r,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C1 -> C0,3,5,7
+f111r,stars,C1 -> C4 -> C2 -> C2 -> C1 -> C1,3,3,6
+f111r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C3,4,3,8
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1,2,2,6
+f111r,stars,C3 -> C2 -> C0 -> C1,4,3,4
+f111r,stars,C1 -> C1,1,0,2
+f111r,stars,C1 -> C3,2,1,2
+f111r,stars,C0 -> C3 -> C1 -> C3 -> C2,4,4,5
+f111r,stars,C3 -> C1 -> C2 -> C3 -> C1 -> C1,3,4,6
+f111r,stars,C2 -> C2 -> C3 -> C0 -> C1 -> C3 -> C1 -> C1 -> C3,4,6,9
+f111r,stars,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,7
+f111r,stars,C3 -> C1 -> C0 -> C1 -> C3 -> C3,3,4,6
+f111r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f111r,stars,C0 -> C1 -> C1 -> C0 -> C1 -> C1 -> C3 -> C1,3,5,8
+f111r,stars,C1 -> C1 -> C1,1,0,3
+f111r,stars,C3 -> C3 -> C0 -> C2 -> C2 -> C2,3,2,6
+f111r,stars,C3 -> C1 -> C3 -> C1,2,3,4
+f111r,stars,C3 -> C3 -> C3 -> C4 -> C0,3,2,5
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f111r,stars,C1 -> C1 -> C2 -> C2 -> C3,3,2,5
+f111r,stars,C4 -> C1 -> C1 -> C1,2,1,4
+f111r,stars,C1 -> C1 -> C0 -> C2,3,2,4
+f111r,stars,C1 -> C1 -> C3 -> C1 -> C2 -> C2 -> C1 -> C2,3,5,8
+f111r,stars,C1 -> C0 -> C2 -> C2 -> C1 -> C0,3,4,6
+f111r,stars,C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C2,3,3,7
+f111r,stars,C1 -> C1 -> C0 -> C1 -> C2,3,3,5
+f111r,stars,C2 -> C1 -> C2 -> C2,2,2,4
+f111r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,2,2,8
+f111r,stars,C1 -> C3 -> C1 -> C0 -> C1 -> C0 -> C1 -> C2,4,7,8
+f111r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f111r,stars,C3 -> C1 -> C1 -> C2 -> C1 -> C3,3,4,6
+f111v,stars,C1 -> C2 -> C0 -> C0 -> C3 -> C1,4,4,6
+f111v,stars,C1 -> C0 -> C3 -> C1 -> C1 -> C2 -> C3 -> C1,4,6,8
+f111v,stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C1 -> C1,3,4,8
+f111v,stars,C1 -> C1 -> C1 -> C3 -> C0 -> C1 -> C1 -> C1,3,3,8
+f111v,stars,C2 -> C2 -> C1 -> C0 -> C3 -> C2 -> C2,4,4,7
+f111v,stars,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f111v,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C1 -> C2 -> C2,2,5,8
+f111v,stars,C1 -> C0 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,3,5,8
+f111v,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,2,5,8
+f111v,stars,C1 -> C2 -> C1 -> C2,2,3,4
+f111v,stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C0 -> C1,3,6,10
+f111v,stars,C1 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0,3,6,9
+f111v,stars,C0 -> C1 -> C2 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,3,3,10
+f111v,stars,C4 -> C0 -> C0 -> C1 -> C2,4,3,5
+f111v,stars,C3 -> C1 -> C1 -> C2 -> C2 -> C2,3,2,6
+f111v,stars,C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C0,3,3,8
+f111v,stars,C0 -> C1 -> C2 -> C1 -> C4 -> C1 -> C1 -> C1 -> C1 -> C2,4,6,10
+f111v,stars,C1 -> C1 -> C4,2,1,3
+f111v,stars,C1 -> C1 -> C1 -> C2 -> C3 -> C0 -> C1 -> C4 -> C1,5,6,9
+f111v,stars,C2 -> C2,1,0,2
+f111v,stars,C0 -> C2 -> C1 -> C1 -> C2 -> C4,4,4,6
+f111v,stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,3,5,10
+f111v,stars,C0 -> C3 -> C1 -> C1 -> C3 -> C1 -> C2,4,5,7
+f111v,stars,C3 -> C3 -> C2 -> C4 -> C1 -> C4 -> C2,4,5,7
+f111v,stars,C4 -> C2 -> C4 -> C1 -> C2 -> C4 -> C4 -> C2,3,6,8
+f111v,stars,C1 -> C2 -> C2 -> C1 -> C2 -> C2 -> C2,2,3,7
+f111v,stars,C2 -> C1 -> C2 -> C2 -> C2,2,2,5
+f111v,stars,C2 -> C2 -> C2 -> C1 -> C2,2,2,5
+f111v,stars,C0 -> C2 -> C4 -> C1,4,3,4
+f111v,stars,C1 -> C1 -> C4,2,1,3
+f111v,stars,C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1,3,2,7
+f111v,stars,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,2,9
+f111v,stars,C4 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,3,2,7
+f111v,stars,C2 -> C0 -> C2 -> C1 -> C1 -> C1,3,3,6
+f111v,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,3,3,8
+f111v,stars,C3 -> C2 -> C3 -> C3 -> C1 -> C2 -> C1 -> C1,3,5,8
+f111v,stars,C1 -> C0 -> C1 -> C2 -> C2 -> C2 -> C0,3,4,7
+f111v,stars,C2 -> C1 -> C1,2,1,3
+f111v,stars,C4 -> C2 -> C1 -> C3 -> C1,4,4,5
+f111v,stars,C4 -> C1 -> C3 -> C3 -> C2,4,3,5
+f111v,stars,C4 -> C3 -> C2 -> C1,4,3,4
+f111v,stars,C4 -> C2 -> C2 -> C1 -> C1 -> C2 -> C4 -> C1,3,5,8
+f111v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,2,9
+f111v,stars,C0 -> C2 -> C4 -> C1 -> C2 -> C3 -> C2,5,6,7
+f111v,stars,C2 -> C2 -> C2 -> C2 -> C0 -> C2,2,2,6
+f111v,stars,C3 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3,4,6,7
+f111v,stars,C1 -> C1 -> C3 -> C1 -> C2 -> C3,3,4,6
+f111v,stars,C0 -> C4 -> C0 -> C2 -> C2 -> C1 -> C3 -> C3,5,5,8
+f111v,stars,C1 -> C3 -> C0 -> C1 -> C1 -> C1 -> C1,3,3,7
+f112r,stars,C1 -> C3 -> C2,3,2,3
+f112r,stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C0,3,3,7
+f112r,stars,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3,3,3,7
+f112r,stars,C2 -> C3 -> C1 -> C1 -> C2 -> C2 -> C3,3,4,7
+f112r,stars,C4 -> C2 -> C1 -> C1,3,2,4
+f112r,stars,C1 -> C1 -> C1,1,0,3
+f112r,stars,C0 -> C1 -> C1 -> C1 -> C2,3,2,5
+f112r,stars,C1 -> C4 -> C3 -> C4 -> C1,3,4,5
+f112r,stars,C4 -> C2 -> C0 -> C1 -> C2,4,4,5
+f112r,stars,C2 -> C1 -> C1 -> C1 -> C1,2,1,5
+f112r,stars,C2 -> C0 -> C2,2,2,3
+f112r,stars,C0 -> C1,2,1,2
+f112r,stars,C2 -> C1 -> C1,2,1,3
+f112r,stars,C2 -> C3 -> C2,2,2,3
+f112r,stars,C3 -> C1 -> C3 -> C1 -> C1 -> C1,2,3,6
+f112r,stars,C1 -> C2 -> C0 -> C3 -> C2 -> C1,4,5,6
+f112r,stars,C1 -> C3,2,1,2
+f112r,stars,C0 -> C1,2,1,2
+f112r,stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1,3,3,6
+f112r,stars,C0 -> C2 -> C3 -> C1 -> C3,4,4,5
+f112r,stars,C3 -> C4 -> C1 -> C1 -> C2 -> C2,4,3,6
+f112r,stars,C0 -> C1 -> C0 -> C1 -> C1 -> C0,2,4,6
+f112r,stars,C2 -> C2 -> C3 -> C3 -> C3,2,1,5
+f112r,stars,C1 -> C3 -> C3 -> C3,2,1,4
+f112r,stars,C4 -> C1 -> C3 -> C1 -> C1,3,3,5
+f112r,stars,C1 -> C3 -> C1 -> C1 -> C2,3,3,5
+f112r,stars,C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,6
+f112r,stars,C3 -> C1,2,1,2
+f112r,stars,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,7
+f112r,stars,C1 -> C1 -> C1 -> C2 -> C1,2,2,5
+f112r,stars,C1 -> C2 -> C0,3,2,3
+f112r,stars,C1 -> C0 -> C2 -> C2 -> C1,3,3,5
+f112r,stars,C2 -> C2 -> C1 -> C1 -> C2 -> C2,2,2,6
+f112r,stars,C4 -> C4 -> C0 -> C0 -> C1,3,2,5
+f112r,stars,C1 -> C1 -> C1 -> C2 -> C0 -> C3,4,3,6
+f112r,stars,C2 -> C0 -> C3,3,2,3
+f112r,stars,C0 -> C1,2,1,2
+f112r,stars,C1 -> C3 -> C1 -> C2,3,3,4
+f112r,stars,C2 -> C2 -> C2 -> C1 -> C2,2,2,5
+f112r,stars,C3 -> C1 -> C1 -> C1 -> C3,2,2,5
+f112r,stars,C3 -> C1 -> C3,2,2,3
+f112r,stars,C0 -> C1 -> C1,2,1,3
+f112r,stars,C1 -> C1 -> C1 -> C0 -> C1,2,2,5
+f112v,stars,C0 -> C2 -> C3,3,2,3
+f112v,stars,C1 -> C1,1,0,2
+f112v,stars,C0 -> C1 -> C1 -> C2,3,2,4
+f112v,stars,C3 -> C1 -> C1 -> C3 -> C0,3,3,5
+f112v,stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2,4,4,7
+f112v,stars,C1 -> C3,2,1,2
+f112v,stars,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f112v,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,8
+f112v,stars,C2 -> C1 -> C0 -> C2 -> C1 -> C1 -> C2,3,5,7
+f112v,stars,C4 -> C1 -> C1 -> C1 -> C2,3,2,5
+f112v,stars,C3 -> C2,2,1,2
+f112v,stars,C3 -> C1 -> C2 -> C1 -> C0 -> C2,4,5,6
+f112v,stars,C1 -> C1 -> C0,2,1,3
+f112v,stars,C3 -> C0 -> C0 -> C1 -> C1 -> C0,3,3,6
+f112v,stars,C0 -> C1 -> C1 -> C3,3,2,4
+f112v,stars,C3 -> C3 -> C1 -> C1 -> C1,2,1,5
+f112v,stars,C2 -> C1 -> C1 -> C3 -> C1,3,3,5
+f112v,stars,C1 -> C2 -> C1 -> C1 -> C4 -> C1,3,4,6
+f112v,stars,C3 -> C3 -> C3 -> C1 -> C1 -> C0,3,2,6
+f112v,stars,C1 -> C1 -> C3 -> C1,2,2,4
+f112v,stars,C1 -> C0 -> C1 -> C1,2,2,4
+f112v,stars,C1 -> C3 -> C0,3,2,3
+f112v,stars,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f112v,stars,C1 -> C3 -> C1 -> C1,2,2,4
+f112v,stars,C3 -> C3,1,0,2
+f112v,stars,C3 -> C1 -> C3 -> C3,2,2,4
+f112v,stars,C3 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C3 -> C0,4,6,9
+f112v,stars,C3 -> C3 -> C1 -> C2 -> C3 -> C2,3,4,6
+f112v,stars,C1 -> C1 -> C3 -> C1 -> C3,2,3,5
+f112v,stars,C3 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,3,5,7
+f112v,stars,C2 -> C1 -> C1 -> C1 -> C0 -> C1,3,3,6
+f112v,stars,C4 -> C1 -> C0 -> C2 -> C3 -> C3,5,4,6
+f112v,stars,C2 -> C0 -> C2 -> C1 -> C1 -> C1 -> C2,3,4,7
+f112v,stars,C0 -> C3 -> C1 -> C1 -> C1 -> C1,3,2,6
+f112v,stars,C0 -> C2 -> C0 -> C0 -> C0 -> C2 -> C1,3,4,7
+f112v,stars,C3 -> C0,2,1,2
+f112v,stars,C1 -> C2 -> C0 -> C3 -> C2 -> C2 -> C0 -> C1,4,6,8
+f112v,stars,C0 -> C2 -> C2,2,1,3
+f112v,stars,C2 -> C1 -> C0 -> C2 -> C3,4,4,5
+f112v,stars,C0 -> C2 -> C2 -> C3 -> C2 -> C2,3,3,6
+f112v,stars,C0 -> C3 -> C0 -> C2 -> C4 -> C2 -> C2,4,5,7
+f112v,stars,C2 -> C2,1,0,2
+f112v,stars,C1 -> C2 -> C2 -> C1 -> C2 -> C3,3,4,6
+f112v,stars,C1 -> C3,2,1,2
+f112v,stars,C2 -> C2 -> C2 -> C2 -> C2 -> C3,2,1,6
+f112v,stars,C2 -> C2 -> C3 -> C1 -> C2,3,3,5
+f113r,stars,C3 -> C3 -> C2 -> C0 -> C1,4,3,5
+f113r,stars,C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0,4,5,10
+f113r,stars,C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C0,2,2,7
+f113r,stars,C0 -> C0 -> C0 -> C2 -> C0,2,2,5
+f113r,stars,C0 -> C1,2,1,2
+f113r,stars,C0 -> C0 -> C0 -> C1 -> C0 -> C2,3,3,6
+f113r,stars,C0 -> C2 -> C2,2,1,3
+f113r,stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3,3,3,6
+f113r,stars,C2 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C0 -> C0 -> C0 -> C2,4,7,11
+f113r,stars,C3 -> C2 -> C2 -> C1 -> C1 -> C4,4,3,6
+f113r,stars,C3 -> C2 -> C0,3,2,3
+f113r,stars,C1 -> C1 -> C1 -> C3 -> C3 -> C3,2,1,6
+f113r,stars,C0 -> C1 -> C0 -> C1 -> C2 -> C0,3,5,6
+f113r,stars,C0 -> C1 -> C2 -> C0 -> C1 -> C1 -> C1,3,4,7
+f113r,stars,C0 -> C1 -> C2 -> C0 -> C1 -> C1 -> C0 -> C0 -> C0,3,5,9
+f113r,stars,C1 -> C2 -> C2 -> C1 -> C0,3,3,5
+f113r,stars,C0 -> C0,1,0,2
+f113r,stars,C0 -> C2 -> C2 -> C2 -> C1 -> C4,4,3,6
+f113r,stars,C3 -> C2 -> C2 -> C3 -> C1,3,3,5
+f113r,stars,C0 -> C0 -> C0 -> C4 -> C0 -> C0 -> C4 -> C0 -> C1,3,5,9
+f113r,stars,C2 -> C3 -> C2 -> C0 -> C0,3,3,5
+f113r,stars,C1 -> C2 -> C0 -> C2 -> C2 -> C1,3,4,6
+f113r,stars,C2 -> C2 -> C3,2,1,3
+f113r,stars,C3 -> C1 -> C2 -> C1 -> C2,3,4,5
+f113r,stars,C2 -> C2 -> C2 -> C1 -> C2 -> C0 -> C0 -> C1,3,4,8
+f113r,stars,C0 -> C1 -> C2 -> C1 -> C2 -> C2 -> C2 -> C2 -> C1 -> C2,3,6,10
+f113r,stars,C2 -> C2 -> C2 -> C0,2,1,4
+f113r,stars,C1 -> C0 -> C1 -> C1,2,2,4
+f113r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,7
+f113r,stars,C4 -> C0 -> C1,3,2,3
+f113r,stars,C1 -> C1 -> C1 -> C0 -> C2 -> C2,3,2,6
+f113r,stars,C0 -> C1 -> C1 -> C0,2,2,4
+f113r,stars,C4 -> C0 -> C1,3,2,3
+f113r,stars,C3 -> C0 -> C1 -> C1 -> C2 -> C1 -> C1,4,4,7
+f113r,stars,C4 -> C0 -> C4 -> C1 -> C4,3,4,5
+f113r,stars,C0 -> C2 -> C4 -> C2 -> C1 -> C1,4,4,6
+f113r,stars,C0 -> C1 -> C0 -> C0 -> C1,2,3,5
+f113r,stars,C1 -> C1 -> C1 -> C3,2,1,4
+f113r,stars,C3 -> C1,2,1,2
+f113r,stars,C0 -> C4 -> C1 -> C2 -> C1 -> C0 -> C0 -> C0,4,5,8
+f113r,stars,C0 -> C2 -> C1 -> C1 -> C1 -> C0,3,3,6
+f113r,stars,C0 -> C0 -> C1 -> C3 -> C3 -> C2 -> C1,4,4,7
+f113r,stars,C0 -> C1 -> C1 -> C0 -> C0 -> C3,3,3,6
+f113r,stars,C1 -> C3 -> C4 -> C1 -> C1 -> C2,4,4,6
+f113r,stars,C0 -> C1 -> C3 -> C2 -> C0 -> C2 -> C2 -> C0 -> C1 -> C1,4,7,10
+f113r,stars,C1 -> C1 -> C3 -> C4 -> C2 -> C1 -> C1 -> C2 -> C1,4,6,9
+f113r,stars,C1 -> C2 -> C2,2,1,3
+f113r,stars,C3 -> C4 -> C3 -> C2 -> C2 -> C3 -> C1 -> C0 -> C3,5,7,9
+f113r,stars,C0 -> C1 -> C4 -> C1 -> C2,4,4,5
+f113r,stars,C0 -> C1 -> C1 -> C0 -> C1 -> C2 -> C2,3,4,7
+f113r,stars,C0 -> C3 -> C1 -> C0 -> C2 -> C0 -> C0 -> C0,4,5,8
+f113v,stars,C4 -> C2 -> C2 -> C1 -> C4 -> C2 -> C2,3,4,7
+f113v,stars,C3 -> C3 -> C1 -> C4 -> C0,4,3,5
+f113v,stars,C3 -> C4 -> C2 -> C0 -> C2 -> C2 -> C2 -> C0,4,5,8
+f113v,stars,C2 -> C0 -> C1 -> C1 -> C2 -> C0 -> C1,3,5,7
+f113v,stars,C1 -> C1 -> C0 -> C3 -> C1 -> C2,4,4,6
+f113v,stars,C1 -> C3 -> C2 -> C0 -> C4 -> C1,5,5,6
+f113v,stars,C2 -> C2 -> C1 -> C2 -> C1,2,3,5
+f113v,stars,C1 -> C2,2,1,2
+f113v,stars,C2 -> C1 -> C3 -> C1,3,3,4
+f113v,stars,C1 -> C1 -> C2 -> C1 -> C2 -> C3 -> C2 -> C3,3,6,8
+f113v,stars,C2 -> C2 -> C2 -> C0 -> C3 -> C2 -> C3,3,4,7
+f113v,stars,C0 -> C2 -> C2,2,1,3
+f113v,stars,C2 -> C1 -> C2 -> C0 -> C2 -> C0 -> C2,3,6,7
+f113v,stars,C2 -> C2 -> C3 -> C2 -> C0 -> C2 -> C2 -> C2,3,4,8
+f113v,stars,C2 -> C1 -> C2 -> C2 -> C0 -> C0 -> C2,3,4,7
+f113v,stars,C3 -> C2,2,1,2
+f113v,stars,C2 -> C1 -> C2 -> C4 -> C2 -> C2 -> C0 -> C0,4,5,8
+f113v,stars,C3 -> C3,1,0,2
+f113v,stars,C3 -> C2 -> C0 -> C2,3,3,4
+f113v,stars,C1 -> C1 -> C2 -> C2,2,1,4
+f113v,stars,C0 -> C3 -> C1,3,2,3
+f113v,stars,C3 -> C2 -> C2 -> C0 -> C2,3,3,5
+f113v,stars,C0 -> C1 -> C2 -> C2 -> C2 -> C2,3,2,6
+f113v,stars,C0 -> C1 -> C2 -> C2,3,2,4
+f113v,stars,C3 -> C1 -> C1 -> C2 -> C1,3,3,5
+f113v,stars,C0 -> C4 -> C3 -> C1 -> C3 -> C1 -> C2 -> C3,5,7,8
+f113v,stars,C1 -> C1 -> C2,2,1,3
+f113v,stars,C2 -> C1 -> C1 -> C1 -> C4 -> C1 -> C0,4,4,7
+f113v,stars,C1 -> C1,1,0,2
+f113v,stars,C2 -> C1 -> C0 -> C1 -> C3 -> C2 -> C2,4,5,7
+f113v,stars,C0 -> C1 -> C2 -> C3 -> C1 -> C2 -> C2,4,5,7
+f113v,stars,C1 -> C1 -> C0 -> C3 -> C2 -> C2,4,3,6
+f113v,stars,C0 -> C3 -> C2 -> C1,4,3,4
+f113v,stars,C2 -> C0,2,1,2
+f113v,stars,C3 -> C4 -> C2,3,2,3
+f113v,stars,C2 -> C2 -> C1,2,1,3
+f113v,stars,C2 -> C2 -> C2 -> C2,1,0,4
+f113v,stars,C1 -> C3 -> C2 -> C2,3,2,4
+f113v,stars,C4 -> C4,1,0,2
+f113v,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f113v,stars,C0 -> C4 -> C1 -> C1 -> C1 -> C2,4,3,6
+f113v,stars,C1 -> C1 -> C2 -> C0,3,2,4
+f113v,stars,C0 -> C2 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3 -> C2 -> C3,4,7,10
+f113v,stars,C0 -> C0,1,0,2
+f113v,stars,C1 -> C0 -> C1 -> C2 -> C1,3,4,5
+f113v,stars,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C2,3,4,7
+f113v,stars,C2 -> C0 -> C3 -> C0,3,3,4
+f114r,stars,C3 -> C2 -> C3 -> C2,2,3,4
+f114r,stars,C1 -> C2 -> C2 -> C3,3,2,4
+f114r,stars,C1 -> C2 -> C0,3,2,3
+f114r,stars,C2 -> C1 -> C0 -> C0 -> C3 -> C2,4,4,6
+f114r,stars,C2 -> C2 -> C0 -> C0 -> C0 -> C1 -> C3,4,3,7
+f114r,stars,C0 -> C1 -> C2 -> C0 -> C2 -> C3 -> C3 -> C0 -> C1,4,7,9
+f114r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,7
+f114r,stars,C2 -> C0,2,1,2
+f114r,stars,C1 -> C1 -> C0 -> C2,3,2,4
+f114r,stars,C1 -> C3 -> C3,2,1,3
+f114r,stars,C3 -> C3 -> C1 -> C1 -> C2 -> C1,3,3,6
+f114r,stars,C3 -> C0 -> C1 -> C2 -> C1,4,4,5
+f114r,stars,C3 -> C1 -> C3,2,2,3
+f114r,stars,C3 -> C0 -> C2 -> C2 -> C0 -> C2 -> C0,3,5,7
+f114r,stars,C4 -> C1 -> C1 -> C0 -> C4 -> C0 -> C2,4,5,7
+f114r,stars,C1 -> C0 -> C2 -> C2 -> C0,3,3,5
+f114r,stars,C3 -> C1 -> C0,3,2,3
+f114r,stars,C0 -> C1 -> C2 -> C2,3,2,4
+f114r,stars,C0 -> C0 -> C0 -> C1 -> C1 -> C0,2,2,6
+f114r,stars,C3 -> C1 -> C2 -> C1,3,3,4
+f114r,stars,C3 -> C2 -> C1 -> C1,3,2,4
+f114r,stars,C0 -> C0 -> C1 -> C2 -> C2 -> C3 -> C0 -> C2 -> C2,4,5,9
+f114r,stars,C3 -> C3 -> C3 -> C1,2,1,4
+f114r,stars,C0 -> C1 -> C2 -> C2,3,2,4
+f114r,stars,C2 -> C1 -> C1 -> C1,2,1,4
+f114r,stars,C1 -> C2 -> C3 -> C1 -> C3,3,4,5
+f114r,stars,C1 -> C4,2,1,2
+f114r,stars,C0 -> C2,2,1,2
+f114r,stars,C1 -> C0 -> C1,2,2,3
+f114r,stars,C1 -> C1 -> C1 -> C2 -> C3 -> C0 -> C2,4,4,7
+f114r,stars,C0 -> C0 -> C4 -> C1 -> C1,3,2,5
+f114r,stars,C0 -> C2 -> C2 -> C4 -> C1 -> C0 -> C0,4,4,7
+f114r,stars,C3 -> C0 -> C2 -> C2 -> C3,3,3,5
+f114r,stars,C1 -> C4 -> C1 -> C1 -> C0 -> C0 -> C2,4,4,7
+f114r,stars,C3 -> C0 -> C2 -> C2 -> C1 -> C0,4,4,6
+f114r,stars,C1 -> C1 -> C2 -> C2 -> C1 -> C0 -> C2,3,4,7
+f114r,stars,C1 -> C1 -> C1 -> C3 -> C2,3,2,5
+f114r,stars,C0 -> C1 -> C2 -> C3 -> C0,4,4,5
+f114r,stars,C3 -> C1 -> C2 -> C1 -> C2,3,4,5
+f114r,stars,C0 -> C4 -> C2 -> C2 -> C0,3,3,5
+f114v,stars,C3 -> C0 -> C1 -> C2 -> C1,4,4,5
+f114v,stars,C3 -> C1 -> C3 -> C2,3,3,4
+f114v,stars,C1 -> C1 -> C2 -> C1 -> C3 -> C0 -> C1 -> C2,4,6,8
+f114v,stars,C3 -> C3 -> C1 -> C1,2,1,4
+f114v,stars,C1 -> C1 -> C2,2,1,3
+f114v,stars,C0 -> C3 -> C1 -> C0 -> C1,3,4,5
+f114v,stars,C1 -> C2 -> C0 -> C0 -> C0 -> C1 -> C0 -> C0 -> C1,3,5,9
+f114v,stars,C4 -> C3 -> C2 -> C2 -> C1 -> C0 -> C0,5,4,7
+f114v,stars,C0 -> C0 -> C2 -> C2,2,1,4
+f114v,stars,C3 -> C1 -> C2 -> C1 -> C0 -> C0,4,4,6
+f114v,stars,C1 -> C0 -> C2,3,2,3
+f114v,stars,C1 -> C0 -> C0 -> C0 -> C3 -> C2 -> C3 -> C3 -> C1 -> C3,4,6,10
+f114v,stars,C1 -> C0 -> C0 -> C1 -> C1 -> C2 -> C2,3,3,7
+f114v,stars,C3 -> C0 -> C2 -> C1 -> C0 -> C2 -> C3,4,6,7
+f114v,stars,C0 -> C1 -> C4 -> C0 -> C3,4,4,5
+f114v,stars,C2 -> C1 -> C2 -> C3 -> C2,3,4,5
+f114v,stars,C0 -> C0 -> C0 -> C0,1,0,4
+f114v,stars,C1 -> C2 -> C1,2,2,3
+f114v,stars,C0 -> C0 -> C1 -> C3 -> C2,4,3,5
+f114v,stars,C1 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1 -> C0,4,7,8
+f114v,stars,C1 -> C1 -> C3 -> C3 -> C3,2,1,5
+f114v,stars,C0 -> C3 -> C1,3,2,3
+f114v,stars,C3 -> C1 -> C2 -> C2 -> C1 -> C0,4,4,6
+f114v,stars,C4 -> C1 -> C1 -> C2 -> C2 -> C3,4,3,6
+f114v,stars,C3 -> C0 -> C0 -> C2 -> C2 -> C2 -> C2,3,2,7
+f114v,stars,C0 -> C3 -> C3 -> C1,3,2,4
+f114v,stars,C1 -> C0 -> C1 -> C1 -> C3 -> C1,3,4,6
+f114v,stars,C0 -> C1 -> C0,2,2,3
+f114v,stars,C1 -> C2 -> C0,3,2,3
+f114v,stars,C1 -> C0 -> C4 -> C2,4,3,4
+f114v,stars,C4 -> C0 -> C1 -> C2 -> C2 -> C4,4,4,6
+f114v,stars,C3 -> C3 -> C2 -> C4 -> C1 -> C2 -> C2,4,4,7
+f114v,stars,C3 -> C2 -> C0 -> C2,3,3,4
+f114v,stars,C1 -> C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C3 -> C2,4,6,9
+f114v,stars,C3 -> C3 -> C1 -> C3 -> C1 -> C3,2,4,6
+f114v,stars,C1 -> C0 -> C1 -> C2 -> C0,3,4,5
+f114v,stars,C1 -> C1 -> C2 -> C3 -> C1,3,3,5
+f114v,stars,C3 -> C1 -> C1 -> C1 -> C3,2,2,5
+f114v,stars,C2 -> C3 -> C4 -> C3 -> C3 -> C0 -> C0,4,4,7
+f114v,stars,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,3,4,7
+f114v,stars,C1 -> C1 -> C2 -> C1,2,2,4
+f115r,stars,C1 -> C0 -> C1 -> C1,2,2,4
+f115r,stars,C1 -> C4 -> C0 -> C3 -> C1 -> C1,4,4,6
+f115r,stars,C1 -> C0 -> C1 -> C0 -> C1 -> C0 -> C3 -> C2 -> C0,4,8,9
+f115r,stars,C0 -> C1 -> C1 -> C0 -> C4,3,3,5
+f115r,stars,C1 -> C1 -> C2 -> C0,3,2,4
+f115r,stars,C4 -> C1 -> C3 -> C2,4,3,4
+f115r,stars,C3 -> C2 -> C1 -> C1 -> C1 -> C0 -> C1 -> C0,4,5,8
+f115r,stars,C1 -> C1 -> C2 -> C0 -> C0 -> C2 -> C0 -> C2 -> C0,3,6,9
+f115r,stars,C4 -> C0 -> C0 -> C1 -> C0 -> C3 -> C3,4,4,7
+f115r,stars,C0 -> C0 -> C2,2,1,3
+f115r,stars,C4 -> C1 -> C0 -> C1,3,3,4
+f115r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C0 -> C0 -> C0,3,4,10
+f115r,stars,C0 -> C1 -> C1 -> C1 -> C0 -> C4 -> C1,3,4,7
+f115r,stars,C0 -> C0 -> C0,1,0,3
+f115r,stars,C2 -> C2 -> C1 -> C2 -> C2 -> C1 -> C1,2,3,7
+f115r,stars,C4 -> C0 -> C0 -> C0 -> C3 -> C1 -> C1 -> C1,4,3,8
+f115r,stars,C0 -> C0 -> C4 -> C3 -> C2 -> C2 -> C3,4,4,7
+f115r,stars,C0 -> C4 -> C1 -> C1 -> C0 -> C4,3,4,6
+f115r,stars,C0 -> C4 -> C1 -> C0 -> C0,3,3,5
+f115r,stars,C4 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0 -> C1,4,6,8
+f115r,stars,C3 -> C0 -> C0,2,1,3
+f115r,stars,C1 -> C3 -> C3,2,1,3
+f115r,stars,C0 -> C0 -> C1 -> C0,2,2,4
+f115r,stars,C0 -> C0 -> C1 -> C0 -> C2 -> C2 -> C2,3,3,7
+f115r,stars,C0 -> C2 -> C1 -> C0 -> C1,3,4,5
+f115r,stars,C4 -> C2 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,4,4,8
+f115r,stars,C4 -> C1 -> C0 -> C2 -> C1 -> C4 -> C0,4,6,7
+f115r,stars,C3 -> C1 -> C3,2,2,3
+f115r,stars,C0 -> C1 -> C2 -> C2 -> C2 -> C2,3,2,6
+f115r,stars,C4 -> C0 -> C1,3,2,3
+f115r,stars,C0 -> C0 -> C2 -> C4,3,2,4
+f115r,stars,C0 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0,2,2,8
+f115r,stars,C4 -> C0 -> C0,2,1,3
+f115r,stars,C3 -> C1 -> C0 -> C4 -> C0 -> C2 -> C0 -> C1,5,7,8
+f115r,stars,C1 -> C1 -> C1 -> C1,1,0,4
+f115r,stars,C0 -> C2 -> C0 -> C1 -> C1 -> C3 -> C0,4,5,7
+f115r,stars,C3 -> C0 -> C1 -> C1 -> C1 -> C0,3,3,6
+f115r,stars,C0 -> C1 -> C0 -> C0 -> C1 -> C2 -> C2,3,4,7
+f115r,stars,C1 -> C1 -> C0,2,1,3
+f115r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f115r,stars,C3 -> C2 -> C1 -> C1 -> C3 -> C2 -> C3 -> C0 -> C2 -> C3 -> C2,4,9,11
+f115r,stars,C1 -> C0 -> C1 -> C3 -> C1 -> C2 -> C0,4,6,7
+f115r,stars,C0 -> C0 -> C2 -> C3 -> C1 -> C1,4,3,6
+f115r,stars,C3 -> C1 -> C1 -> C3 -> C3 -> C0 -> C0,3,3,7
+f115v,stars,C3 -> C1 -> C1 -> C0 -> C2 -> C1,4,4,6
+f115v,stars,C0 -> C0 -> C2 -> C3 -> C1,4,3,5
+f115v,stars,C2 -> C0 -> C0 -> C2 -> C2 -> C3 -> C4,4,4,7
+f115v,stars,C3 -> C1 -> C0 -> C1,3,3,4
+f115v,stars,C0 -> C1 -> C1 -> C2 -> C2 -> C1,3,3,6
+f115v,stars,C3 -> C3 -> C0 -> C1 -> C1,3,2,5
+f115v,stars,C0 -> C0 -> C0,1,0,3
+f115v,stars,C1 -> C0 -> C0 -> C1,2,2,4
+f115v,stars,C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C1,3,3,7
+f115v,stars,C1 -> C3 -> C2 -> C1,3,3,4
+f115v,stars,C1 -> C0 -> C3 -> C1,3,3,4
+f115v,stars,C1 -> C1 -> C0 -> C3 -> C1 -> C1 -> C1,3,3,7
+f115v,stars,C1 -> C2 -> C1 -> C1,2,2,4
+f115v,stars,C1 -> C1 -> C2 -> C0,3,2,4
+f115v,stars,C0 -> C2 -> C1 -> C1,3,2,4
+f115v,stars,C1 -> C1 -> C0 -> C1 -> C1,2,2,5
+f115v,stars,C3 -> C4 -> C0 -> C0 -> C3 -> C2 -> C3,4,5,7
+f115v,stars,C4 -> C1 -> C0 -> C1 -> C2,4,4,5
+f115v,stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,3,3,7
+f115v,stars,C0 -> C1 -> C1 -> C4 -> C2 -> C1 -> C3,5,5,7
+f115v,stars,C2 -> C3,2,1,2
+f115v,stars,C1 -> C1 -> C3 -> C0,3,2,4
+f115v,stars,C2 -> C3 -> C2 -> C2 -> C4,3,3,5
+f115v,stars,C0 -> C2 -> C2,2,1,3
+f115v,stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2,2,3,6
+f115v,stars,C0 -> C1 -> C2 -> C3 -> C3 -> C3 -> C3 -> C3,4,3,8
+f115v,stars,C2 -> C0 -> C2,2,2,3
+f115v,stars,C3 -> C2 -> C3 -> C2 -> C2,2,3,5
+f115v,stars,C0 -> C1 -> C1,2,1,3
+f115v,stars,C3 -> C2 -> C2 -> C0,3,2,4
+f115v,stars,C1 -> C0 -> C2 -> C0 -> C0,3,3,5
+f115v,stars,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f115v,stars,C1 -> C3 -> C4,3,2,3
+f115v,stars,C2 -> C1 -> C0 -> C1,3,3,4
+f115v,stars,C2 -> C1 -> C1 -> C4 -> C4 -> C2,3,3,6
+f115v,stars,C3 -> C0 -> C1 -> C0,3,3,4
+f115v,stars,C3 -> C1 -> C2 -> C2,3,2,4
+f115v,stars,C2 -> C2 -> C1 -> C0 -> C1 -> C3,4,4,6
+f115v,stars,C1 -> C1 -> C1 -> C0 -> C0 -> C0,2,1,6
+f115v,stars,C0 -> C0 -> C2 -> C2 -> C0 -> C2,2,3,6
+f115v,stars,C2 -> C0 -> C0 -> C0 -> C0 -> C1,3,2,6
+f116r,stars,C2 -> C1 -> C1 -> C1 -> C1,2,1,5
+f116r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f116r,stars,C1 -> C1 -> C3 -> C1 -> C1 -> C1,2,2,6
+f116r,stars,C0 -> C2 -> C4 -> C1 -> C2 -> C2,4,4,6
+f116r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3,2,2,7
+f116r,stars,C3 -> C2,2,1,2
+f116r,stars,C3 -> C2 -> C1 -> C1 -> C1 -> C1,3,2,6
+f116r,stars,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C2,2,3,7
+f116r,stars,C4 -> C1 -> C1 -> C1 -> C1,2,1,5
+f116r,stars,C1 -> C1 -> C2 -> C2 -> C1 -> C3,3,3,6
+f116r,stars,C1 -> C1 -> C3 -> C2 -> C2 -> C3 -> C2,3,4,7
+f116r,stars,C0 -> C0 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2,3,3,8
+f116r,stars,C0 -> C4 -> C1 -> C2 -> C2 -> C1 -> C0,4,5,7
+f116r,stars,C1 -> C1 -> C2 -> C2 -> C2 -> C1,2,2,6
+f116r,stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C3 -> C1,3,4,9
+f116r,stars,C3 -> C1 -> C1 -> C1 -> C1 -> C3,2,2,6
+f116r,stars,C1 -> C2 -> C2 -> C2 -> C1 -> C1 -> C2 -> C1 -> C4,3,5,9
+f116r,stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C3,4,3,9
+f116r,stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,5,8
+f116r,stars,C4 -> C1 -> C2 -> C0 -> C1,4,4,5
+f116r,stars,C0 -> C1 -> C1 -> C1 -> C1,2,1,5
+f116r,stars,C4 -> C2 -> C2 -> C2,2,1,4
+f116r,stars,C2 -> C3 -> C1,3,2,3
+f116r,stars,C1 -> C1 -> C2 -> C2 -> C2,2,1,5
+f116r,stars,C1 -> C3,2,1,2
+f116r,stars,C1 -> C1 -> C1 -> C2,2,1,4
+f116r,stars,C1 -> C1 -> C1 -> C3,2,1,4
+f116r,stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1,2,4,7
+f116r,stars,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f116r,stars,C1 -> C1 -> C1 -> C4 -> C1 -> C1,2,2,6
+f116r,stars,C1 -> C4 -> C1 -> C2 -> C2,3,3,5
+f116r,stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1 -> C0,3,5,8
+f116r,stars,C1 -> C4 -> C1 -> C1,2,2,4
+f116r,stars,C1 -> C2 -> C2 -> C1 -> C1 -> C2,2,3,6
+f116r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C4,3,3,9
+f116r,stars,C2 -> C2 -> C2 -> C2 -> C1 -> C0 -> C2,3,3,7
+f116r,stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,9
+f116r,stars,C1 -> C2 -> C2 -> C1 -> C1,2,2,5
+f116r,stars,C1 -> C1 -> C1 -> C2 -> C4 -> C2,3,3,6
+f116r,stars,C1 -> C0,2,1,2
+f116r,stars,C1 -> C1 -> C2 -> C3 -> C2,3,3,5
+f116r,stars,C1 -> C2 -> C1 -> C1 -> C2 -> C3,3,4,6
+f116r,stars,C1 -> C4 -> C2 -> C2,3,2,4
+f116r,stars,C1 -> C1 -> C3 -> C4 -> C4,3,2,5
+f116r,stars,C1 -> C2 -> C2 -> C1 -> C1 -> C0 -> C2,3,4,7
+f116r,stars,C0 -> C2 -> C2,2,1,3
+f116r,stars,C1 -> C3 -> C1 -> C1 -> C3,2,3,5
+f116r,stars,C3 -> C1 -> C1 -> C1,2,1,4
+f116r,stars,C1 -> C1 -> C1 -> C0 -> C3 -> C1,3,3,6
+f116r,stars,C1 -> C1 -> C1 -> C3,2,1,4
+f11r,herbal-A,C0 -> C1 -> C1 -> C0 -> C0,2,2,5
+f11r,herbal-A,C0 -> C0,1,0,2
+f11r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f11r,herbal-A,C0 -> C0 -> C0,1,0,3
+f11r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f11r,herbal-A,C0 -> C0 -> C0,1,0,3
+f11r,herbal-A,C0 -> C0,1,0,2
+f11v,herbal-A,C1 -> C0 -> C1,2,2,3
+f11v,herbal-A,C0 -> C2 -> C1 -> C0,3,3,4
+f11v,herbal-A,C0 -> C0 -> C0 -> C2 -> C0,2,2,5
+f11v,herbal-A,C0 -> C2 -> C0 -> C1 -> C4,4,4,5
+f11v,herbal-A,C1 -> C0 -> C0 -> C0,2,1,4
+f11v,herbal-A,C0 -> C0,1,0,2
+f13r,herbal-A,C0 -> C0 -> C2,2,1,3
+f13r,herbal-A,C0 -> C0,1,0,2
+f13r,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f13r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f13r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f13r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f13r,herbal-A,C0 -> C1 -> C0,2,2,3
+f13r,herbal-A,C0 -> C0 -> C4,2,1,3
+f13r,herbal-A,C1 -> C0,2,1,2
+f13v,herbal-A,C2 -> C0 -> C0 -> C0 -> C0,2,1,5
+f13v,herbal-A,C0 -> C4 -> C0,2,2,3
+f13v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f13v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f13v,herbal-A,C4 -> C0 -> C0,2,1,3
+f13v,herbal-A,C0 -> C0 -> C1,2,1,3
+f13v,herbal-A,C2 -> C0 -> C0,2,1,3
+f13v,herbal-A,C2 -> C2 -> C0,2,1,3
+f14r,herbal-A,C0 -> C0,1,0,2
+f14r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f14r,herbal-A,C0 -> C1 -> C1,2,1,3
+f14r,herbal-A,C4 -> C4 -> C2,2,1,3
+f14r,herbal-A,C0 -> C0 -> C0,1,0,3
+f14r,herbal-A,C0 -> C0 -> C0,1,0,3
+f14r,herbal-A,C0 -> C0,1,0,2
+f14r,herbal-A,C0 -> C0,1,0,2
+f14r,herbal-A,C0 -> C2,2,1,2
+f14r,herbal-A,C0 -> C0,1,0,2
+f14r,herbal-A,C0 -> C0 -> C0,1,0,3
+f14v,herbal-A,C0 -> C2 -> C2 -> C0 -> C0 -> C0,2,2,6
+f14v,herbal-A,C0 -> C0,1,0,2
+f14v,herbal-A,C0 -> C0 -> C2 -> C0 -> C2,2,3,5
+f14v,herbal-A,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f14v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f15r,herbal-A,C0 -> C1 -> C2 -> C2 -> C1,3,3,5
+f15r,herbal-A,C2 -> C2 -> C2 -> C0,2,1,4
+f15r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f15r,herbal-A,C1 -> C0,2,1,2
+f15r,herbal-A,C0 -> C0 -> C0,1,0,3
+f15r,herbal-A,C0 -> C0 -> C0,1,0,3
+f15r,herbal-A,C0 -> C0 -> C0,1,0,3
+f15r,herbal-A,C1 -> C0 -> C0,2,1,3
+f15r,herbal-A,C0 -> C2,2,1,2
+f15r,herbal-A,C0 -> C0,1,0,2
+f15r,herbal-A,C0 -> C2 -> C3,3,2,3
+f15r,herbal-A,C1 -> C0,2,1,2
+f15v,herbal-A,C0 -> C1,2,1,2
+f15v,herbal-A,C0 -> C0,1,0,2
+f15v,herbal-A,C0 -> C0,1,0,2
+f15v,herbal-A,C0 -> C0 -> C2,2,1,3
+f15v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f15v,herbal-A,C0 -> C0 -> C0,1,0,3
+f15v,herbal-A,C4 -> C0 -> C0,2,1,3
+f15v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f15v,herbal-A,C0 -> C2 -> C0,2,2,3
+f15v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f16r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f16r,herbal-A,C0 -> C0 -> C1 -> C1 -> C0 -> C0,2,2,6
+f16r,herbal-A,C3 -> C0 -> C2,3,2,3
+f16r,herbal-A,C1 -> C0 -> C0,2,1,3
+f16r,herbal-A,C0 -> C0 -> C2 -> C0 -> C0,2,2,5
+f16r,herbal-A,C0 -> C0 -> C0,1,0,3
+f16v,herbal-A,C0 -> C2 -> C2,2,1,3
+f16v,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f16v,herbal-A,C2 -> C2,1,0,2
+f16v,herbal-A,C0 -> C0,1,0,2
+f16v,herbal-A,C0 -> C0 -> C0,1,0,3
+f16v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f16v,herbal-A,C0 -> C2 -> C0,2,2,3
+f16v,herbal-A,C2 -> C0 -> C0,2,1,3
+f16v,herbal-A,C0 -> C2 -> C2 -> C0,2,2,4
+f16v,herbal-A,C2 -> C0,2,1,2
+f16v,herbal-A,C0 -> C2 -> C0 -> C2 -> C0 -> C0,2,4,6
+f16v,herbal-A,C0 -> C2 -> C2 -> C0 -> C0 -> C0,2,2,6
+f17r,herbal-A,C0 -> C0 -> C0,1,0,3
+f17r,herbal-A,C2 -> C0,2,1,2
+f17r,herbal-A,C0 -> C2 -> C0,2,2,3
+f17r,herbal-A,C0 -> C0 -> C0,1,0,3
+f17r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f17r,herbal-A,C0 -> C0,1,0,2
+f17r,herbal-A,C0 -> C0,1,0,2
+f17r,herbal-A,C0 -> C0 -> C0 -> C3,2,1,4
+f17r,herbal-A,C0 -> C0 -> C0,1,0,3
+f17r,herbal-A,C2 -> C2,1,0,2
+f17v,herbal-A,C0 -> C2 -> C0,2,2,3
+f17v,herbal-A,C3 -> C0 -> C0,2,1,3
+f17v,herbal-A,C0 -> C2 -> C0,2,2,3
+f17v,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f17v,herbal-A,C3 -> C0 -> C0 -> C0,2,1,4
+f17v,herbal-A,C3 -> C0 -> C3,2,2,3
+f17v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f17v,herbal-A,C0 -> C3 -> C0 -> C2,3,3,4
+f17v,herbal-A,C4 -> C0,2,1,2
+f17v,herbal-A,C0 -> C2,2,1,2
+f17v,herbal-A,C1 -> C0 -> C0 -> C0,2,1,4
+f17v,herbal-A,C0 -> C0 -> C1,2,1,3
+f17v,herbal-A,C1 -> C4 -> C3,3,2,3
+f17v,herbal-A,C2 -> C0 -> C2 -> C3,3,3,4
+f17v,herbal-A,C2 -> C0,2,1,2
+f17v,herbal-A,C0 -> C1,2,1,2
+f17v,herbal-A,C0 -> C0,1,0,2
+f17v,herbal-A,C2 -> C2,1,0,2
+f17v,herbal-A,C2 -> C0,2,1,2
+f17v,herbal-A,C1 -> C2 -> C0,3,2,3
+f17v,herbal-A,C0 -> C0 -> C0,1,0,3
+f18r,herbal-A,C0 -> C0,1,0,2
+f18r,herbal-A,C0 -> C2 -> C0,2,2,3
+f18r,herbal-A,C0 -> C2,2,1,2
+f18r,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f18r,herbal-A,C0 -> C0 -> C4 -> C0,2,2,4
+f18r,herbal-A,C0 -> C0 -> C2,2,1,3
+f18r,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f18r,herbal-A,C0 -> C2,2,1,2
+f18r,herbal-A,C0 -> C0,1,0,2
+f18r,herbal-A,C0 -> C2,2,1,2
+f18r,herbal-A,C0 -> C2 -> C2 -> C2,2,1,4
+f18v,herbal-A,C0 -> C2 -> C2 -> C0,2,2,4
+f18v,herbal-A,C0 -> C0 -> C0,1,0,3
+f18v,herbal-A,C1 -> C1 -> C2 -> C0 -> C1,3,3,5
+f18v,herbal-A,C0 -> C1 -> C0,2,2,3
+f18v,herbal-A,C0 -> C0,1,0,2
+f18v,herbal-A,C0 -> C0 -> C0 -> C1 -> C0,2,2,5
+f18v,herbal-A,C0 -> C0 -> C0,1,0,3
+f18v,herbal-A,C0 -> C0 -> C0,1,0,3
+f19r,herbal-A,C0 -> C0 -> C0 -> C1 -> C2,3,2,5
+f19r,herbal-A,C0 -> C0,1,0,2
+f19r,herbal-A,C0 -> C0,1,0,2
+f19r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f19r,herbal-A,C0 -> C0,1,0,2
+f19r,herbal-A,C0 -> C2 -> C0 -> C0,2,2,4
+f19r,herbal-A,C0 -> C0 -> C1,2,1,3
+f19r,herbal-A,C0 -> C2,2,1,2
+f19r,herbal-A,C0 -> C2,2,1,2
+f19r,herbal-A,C0 -> C0 -> C0,1,0,3
+f19r,herbal-A,C0 -> C0 -> C0 -> C1,2,1,4
+f19v,herbal-A,C2 -> C0,2,1,2
+f19v,herbal-A,C0 -> C0 -> C2,2,1,3
+f19v,herbal-A,C0 -> C0 -> C2,2,1,3
+f19v,herbal-A,C0 -> C0 -> C2,2,1,3
+f19v,herbal-A,C0 -> C0,1,0,2
+f19v,herbal-A,C0 -> C0 -> C0,1,0,3
+f19v,herbal-A,C0 -> C0 -> C0,1,0,3
+f19v,herbal-A,C2 -> C0,2,1,2
+f19v,herbal-A,C0 -> C1 -> C0,2,2,3
+f19v,herbal-A,C0 -> C0,1,0,2
+f19v,herbal-A,C4 -> C0 -> C2,3,2,3
+f19v,herbal-A,C2 -> C0 -> C0 -> C2,2,2,4
+f1r,herbal-A,C0 -> C0 -> C0,1,0,3
+f1r,herbal-A,C0 -> C0 -> C2 -> C3 -> C2 -> C0,3,4,6
+f1r,herbal-A,C0 -> C0,1,0,2
+f1r,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f1r,herbal-A,C1 -> C2 -> C1 -> C0 -> C0 -> C2,3,4,6
+f1r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,7
+f1r,herbal-A,C4 -> C3 -> C0,3,2,3
+f1r,herbal-A,C0 -> C1,2,1,2
+f1r,herbal-A,C2 -> C1 -> C2 -> C4,3,3,4
+f1r,herbal-A,C2 -> C2,1,0,2
+f1r,herbal-A,C0 -> C0 -> C4,2,1,3
+f1r,herbal-A,C0 -> C0 -> C0 -> C0 -> C1 -> C2,3,2,6
+f1r,herbal-A,C0 -> C1 -> C1,2,1,3
+f1r,herbal-A,C0 -> C0 -> C0,1,0,3
+f1r,herbal-A,C1 -> C2 -> C4,3,2,3
+f1r,herbal-A,C3 -> C0 -> C2 -> C4 -> C2,4,4,5
+f1r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f1r,herbal-A,C1 -> C0,2,1,2
+f1r,herbal-A,C3 -> C3 -> C2 -> C2,2,1,4
+f1r,herbal-A,C0 -> C0 -> C0,1,0,3
+f1r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f1r,herbal-A,C0 -> C0,1,0,2
+f1v,herbal-A,C2 -> C2 -> C4 -> C2,2,2,4
+f1v,herbal-A,C0 -> C0 -> C0,1,0,3
+f1v,herbal-A,C2 -> C0 -> C0,2,1,3
+f1v,herbal-A,C0 -> C0,1,0,2
+f1v,herbal-A,C0 -> C4 -> C0 -> C0,2,2,4
+f1v,herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0,2,2,6
+f1v,herbal-A,C0 -> C0,1,0,2
+f1v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f1v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f20r,herbal-A,C0 -> C4 -> C0 -> C0 -> C0 -> C0,2,2,6
+f20r,herbal-A,C0 -> C3 -> C0 -> C0,2,2,4
+f20r,herbal-A,C0 -> C1 -> C1 -> C0 -> C0,2,2,5
+f20r,herbal-A,C0 -> C0 -> C4 -> C0 -> C0 -> C1,3,3,6
+f20r,herbal-A,C0 -> C0 -> C4 -> C4,2,1,4
+f20r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f20r,herbal-A,C1 -> C0 -> C0 -> C0 -> C4 -> C0,3,3,6
+f20r,herbal-A,C0 -> C3 -> C0,2,2,3
+f20r,herbal-A,C0 -> C0 -> C0 -> C4 -> C0 -> C0,2,2,6
+f20r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f20r,herbal-A,C3 -> C0,2,1,2
+f20r,herbal-A,C0 -> C4 -> C4 -> C0,2,2,4
+f20v,herbal-A,C0 -> C0 -> C0,1,0,3
+f20v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f20v,herbal-A,C0 -> C4 -> C0,2,2,3
+f20v,herbal-A,C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C2,3,3,8
+f20v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C0,2,2,8
+f20v,herbal-A,C0 -> C0,1,0,2
+f20v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,6
+f20v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f20v,herbal-A,C0 -> C0 -> C0,1,0,3
+f20v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f20v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f21r,herbal-A,C2 -> C2,1,0,2
+f21r,herbal-A,C0 -> C1 -> C0 -> C2,3,3,4
+f21r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0,3,3,8
+f21r,herbal-A,C0 -> C1 -> C0 -> C0 -> C2,3,3,5
+f21r,herbal-A,C2 -> C2 -> C2 -> C0 -> C3 -> C1,4,3,6
+f21r,herbal-A,C0 -> C0 -> C0 -> C0 -> C4 -> C4,2,1,6
+f21r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f21r,herbal-A,C0 -> C0 -> C0 -> C0 -> C1,2,1,5
+f21r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f21r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f21r,herbal-A,C2 -> C0 -> C0 -> C2 -> C0,2,3,5
+f21v,herbal-A,C0 -> C1 -> C1,2,1,3
+f21v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f21v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f21v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f21v,herbal-A,C0 -> C2,2,1,2
+f21v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f21v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f21v,herbal-A,C0 -> C0,1,0,2
+f22r,herbal-A,C0 -> C2 -> C0,2,2,3
+f22r,herbal-A,C0 -> C0 -> C0 -> C4 -> C0,2,2,5
+f22r,herbal-A,C0 -> C2 -> C2,2,1,3
+f22r,herbal-A,C0 -> C0 -> C0,1,0,3
+f22r,herbal-A,C0 -> C2,2,1,2
+f22r,herbal-A,C0 -> C0 -> C2,2,1,3
+f22r,herbal-A,C0 -> C0 -> C0,1,0,3
+f22r,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f22r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f22r,herbal-A,C0 -> C2 -> C1 -> C0 -> C0,3,3,5
+f22v,herbal-A,C2 -> C0 -> C2 -> C0,2,3,4
+f22v,herbal-A,C0 -> C2 -> C0,2,2,3
+f22v,herbal-A,C0 -> C0,1,0,2
+f22v,herbal-A,C0 -> C0 -> C0,1,0,3
+f22v,herbal-A,C0 -> C0 -> C2,2,1,3
+f22v,herbal-A,C1 -> C0 -> C0 -> C2 -> C2,3,2,5
+f22v,herbal-A,C0 -> C0 -> C1,2,1,3
+f22v,herbal-A,C0 -> C0 -> C2,2,1,3
+f22v,herbal-A,C0 -> C0 -> C0,1,0,3
+f22v,herbal-A,C0 -> C0,1,0,2
+f22v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f23r,herbal-A,C0 -> C2 -> C0 -> C0,2,2,4
+f23r,herbal-A,C1 -> C2 -> C2 -> C2,2,1,4
+f23r,herbal-A,C0 -> C2 -> C0 -> C0,2,2,4
+f23r,herbal-A,C0 -> C2 -> C1 -> C2,3,3,4
+f23r,herbal-A,C0 -> C0 -> C0,1,0,3
+f23r,herbal-A,C0 -> C1 -> C0 -> C4,3,3,4
+f23r,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f23r,herbal-A,C0 -> C2 -> C1 -> C0,3,3,4
+f23r,herbal-A,C0 -> C2 -> C0 -> C0 -> C1 -> C1,3,3,6
+f23v,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f23v,herbal-A,C0 -> C0 -> C0,1,0,3
+f23v,herbal-A,C2 -> C3,2,1,2
+f23v,herbal-A,C0 -> C2 -> C4 -> C2 -> C2,3,3,5
+f23v,herbal-A,C2 -> C0 -> C3 -> C0,3,3,4
+f23v,herbal-A,C4 -> C0,2,1,2
+f23v,herbal-A,C2 -> C0,2,1,2
+f23v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f23v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f23v,herbal-A,C1 -> C0 -> C2,3,2,3
+f23v,herbal-A,C0 -> C3,2,1,2
+f24r,herbal-A,C0 -> C1 -> C0,2,2,3
+f24r,herbal-A,C0 -> C0,1,0,2
+f24r,herbal-A,C0 -> C3 -> C0 -> C1,3,3,4
+f24r,herbal-A,C0 -> C0,1,0,2
+f24r,herbal-A,C4 -> C2,2,1,2
+f24r,herbal-A,C4 -> C2,2,1,2
+f24r,herbal-A,C2 -> C3,2,1,2
+f24r,herbal-A,C2 -> C2 -> C2,1,0,3
+f24r,herbal-A,C0 -> C0,1,0,2
+f24r,herbal-A,C0 -> C0 -> C2,2,1,3
+f24r,herbal-A,C1 -> C2 -> C2,2,1,3
+f24r,herbal-A,C0 -> C2,2,1,2
+f24r,herbal-A,C2 -> C3,2,1,2
+f24r,herbal-A,C0 -> C4,2,1,2
+f24r,herbal-A,C2 -> C1,2,1,2
+f24r,herbal-A,C2 -> C0,2,1,2
+f24v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f24v,herbal-A,C0 -> C0,1,0,2
+f24v,herbal-A,C2 -> C0,2,1,2
+f24v,herbal-A,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f24v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f24v,herbal-A,C3 -> C0 -> C0,2,1,3
+f24v,herbal-A,C4 -> C0 -> C2,3,2,3
+f24v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0,2,2,7
+f24v,herbal-A,C2 -> C2,1,0,2
+f24v,herbal-A,C0 -> C0 -> C2,2,1,3
+f24v,herbal-A,C2 -> C0,2,1,2
+f24v,herbal-A,C0 -> C0,1,0,2
+f25r,herbal-A,C0 -> C0 -> C2 -> C0 -> C0 -> C1 -> C0 -> C2,3,5,8
+f25r,herbal-A,C0 -> C0 -> C3 -> C1 -> C0 -> C0,3,3,6
+f25r,herbal-A,C2 -> C0 -> C2 -> C0 -> C0,2,3,5
+f25r,herbal-A,C0 -> C0 -> C1,2,1,3
+f25r,herbal-A,C2 -> C0,2,1,2
+f25r,herbal-A,C2 -> C2,1,0,2
+f25v,herbal-A,C0 -> C4,2,1,2
+f25v,herbal-A,C0 -> C0 -> C3,2,1,3
+f25v,herbal-A,C0 -> C0 -> C1 -> C1,2,1,4
+f25v,herbal-A,C1 -> C0 -> C0 -> C2,3,2,4
+f25v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f25v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f25v,herbal-A,C2 -> C1,2,1,2
+f26r,herbal-A,C1 -> C0 -> C0,2,1,3
+f26r,herbal-A,C4 -> C1,2,1,2
+f26r,herbal-A,C1 -> C1,1,0,2
+f26r,herbal-A,C1 -> C0 -> C1 -> C3,3,3,4
+f26r,herbal-A,C1 -> C2 -> C1,2,2,3
+f26r,herbal-A,C1 -> C0 -> C3,3,2,3
+f26r,herbal-A,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f26r,herbal-A,C0 -> C2 -> C1 -> C2 -> C1 -> C3,4,5,6
+f26v,herbal-A,C1 -> C1,1,0,2
+f26v,herbal-A,C3 -> C1 -> C1 -> C1 -> C1,2,1,5
+f26v,herbal-A,C3 -> C1 -> C1 -> C2,3,2,4
+f26v,herbal-A,C1 -> C3 -> C0 -> C3 -> C3,3,3,5
+f26v,herbal-A,C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f26v,herbal-A,C1 -> C1 -> C3 -> C4 -> C3,3,3,5
+f26v,herbal-A,C0 -> C0 -> C3 -> C2 -> C1,4,3,5
+f26v,herbal-A,C1 -> C3 -> C3 -> C4 -> C3 -> C1,3,4,6
+f26v,herbal-A,C3 -> C0,2,1,2
+f27r,herbal-A,C1 -> C0 -> C2 -> C1 -> C2,3,4,5
+f27r,herbal-A,C4 -> C1 -> C0 -> C4,3,3,4
+f27r,herbal-A,C0 -> C3 -> C0,2,2,3
+f27r,herbal-A,C0 -> C4 -> C2,3,2,3
+f27r,herbal-A,C0 -> C0,1,0,2
+f27r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2 -> C4,3,2,7
+f27r,herbal-A,C1 -> C0 -> C2 -> C0 -> C0,3,3,5
+f27r,herbal-A,C3 -> C0,2,1,2
+f27r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f27r,herbal-A,C4 -> C4 -> C0 -> C2,3,2,4
+f27r,herbal-A,C0 -> C0 -> C4,2,1,3
+f27r,herbal-A,C4 -> C0 -> C0 -> C2,3,2,4
+f27v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f27v,herbal-A,C0 -> C2 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0,3,4,10
+f27v,herbal-A,C4 -> C0 -> C0 -> C0 -> C0 -> C1,3,2,6
+f27v,herbal-A,C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C3,3,4,7
+f27v,herbal-A,C1 -> C0 -> C1,2,2,3
+f27v,herbal-A,C0 -> C2 -> C3,3,2,3
+f27v,herbal-A,C0 -> C0 -> C1,2,1,3
+f27v,herbal-A,C1 -> C0,2,1,2
+f28r,herbal-A,C0 -> C0 -> C0,1,0,3
+f28r,herbal-A,C0 -> C0 -> C2,2,1,3
+f28r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f28r,herbal-A,C0 -> C2 -> C0 -> C0 -> C0 -> C0,2,2,6
+f28r,herbal-A,C0 -> C2 -> C0 -> C0 -> C0,2,2,5
+f28r,herbal-A,C0 -> C0 -> C0,1,0,3
+f28r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f28r,herbal-A,C4 -> C0 -> C2,3,2,3
+f28v,herbal-A,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f28v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,7
+f28v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f28v,herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C0 -> C0,2,2,8
+f28v,herbal-A,C0 -> C0 -> C2 -> C0 -> C4 -> C1,4,4,6
+f28v,herbal-A,C0 -> C0 -> C2,2,1,3
+f28v,herbal-A,C2 -> C2 -> C0,2,1,3
+f28v,herbal-A,C2 -> C2 -> C0,2,1,3
+f29r,herbal-A,C1 -> C3 -> C2 -> C0 -> C0 -> C0 -> C3,4,4,7
+f29r,herbal-A,C1 -> C0 -> C2 -> C0 -> C0 -> C0 -> C0,3,3,7
+f29r,herbal-A,C0 -> C0 -> C0 -> C1 -> C0,2,2,5
+f29r,herbal-A,C0 -> C0,1,0,2
+f29r,herbal-A,C0 -> C0 -> C0 -> C1,2,1,4
+f29r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f29r,herbal-A,C0 -> C0 -> C0 -> C1 -> C0,2,2,5
+f29r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f29r,herbal-A,C1 -> C4 -> C0,3,2,3
+f29v,herbal-A,C0 -> C3 -> C1 -> C1 -> C0,3,3,5
+f29v,herbal-A,C0 -> C2,2,1,2
+f29v,herbal-A,C0 -> C0 -> C0 -> C4,2,1,4
+f29v,herbal-A,C0 -> C0 -> C1 -> C0 -> C1 -> C3,3,4,6
+f29v,herbal-A,C0 -> C2 -> C0 -> C2,2,3,4
+f29v,herbal-A,C0 -> C2 -> C0,2,2,3
+f29v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f29v,herbal-A,C0 -> C0 -> C1,2,1,3
+f29v,herbal-A,C0 -> C0 -> C0,1,0,3
+f29v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f2r,herbal-A,C0 -> C0 -> C1,2,1,3
+f2r,herbal-A,C0 -> C2 -> C1,3,2,3
+f2r,herbal-A,C0 -> C0 -> C0 -> C2 -> C3 -> C2,3,3,6
+f2r,herbal-A,C0 -> C4 -> C2,3,2,3
+f2r,herbal-A,C1 -> C0,2,1,2
+f2r,herbal-A,C0 -> C0,1,0,2
+f2r,herbal-A,C0 -> C1 -> C1,2,1,3
+f2v,herbal-A,C3 -> C2 -> C0 -> C1,4,3,4
+f2v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C1,2,1,6
+f2v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f2v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f2v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f2v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C2,2,3,7
+f2v,herbal-A,C0 -> C1 -> C0 -> C2 -> C0,3,4,5
+f2v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f30r,herbal-A,C3 -> C4 -> C0 -> C1 -> C0 -> C3 -> C1,4,6,7
+f30r,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f30r,herbal-A,C0 -> C0 -> C4 -> C0 -> C4,2,3,5
+f30r,herbal-A,C4 -> C2,2,1,2
+f30r,herbal-A,C0 -> C2 -> C2 -> C0,2,2,4
+f30r,herbal-A,C4 -> C2 -> C0 -> C0 -> C1 -> C1,4,3,6
+f30r,herbal-A,C0 -> C0 -> C4 -> C0 -> C4,2,3,5
+f30r,herbal-A,C1 -> C2 -> C2 -> C2 -> C0 -> C0,3,2,6
+f30r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f30r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f30r,herbal-A,C3 -> C4 -> C3,2,2,3
+f30r,herbal-A,C4 -> C0 -> C2 -> C3,4,3,4
+f30v,herbal-A,C0 -> C0 -> C0 -> C3 -> C0 -> C2,3,3,6
+f30v,herbal-A,C0 -> C0 -> C0,1,0,3
+f30v,herbal-A,C0 -> C2,2,1,2
+f30v,herbal-A,C0 -> C0 -> C1 -> C0 -> C0 -> C0,2,2,6
+f30v,herbal-A,C0 -> C0,1,0,2
+f30v,herbal-A,C4 -> C0 -> C3 -> C0,3,3,4
+f30v,herbal-A,C0 -> C2 -> C0,2,2,3
+f30v,herbal-A,C1 -> C0 -> C0,2,1,3
+f30v,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f30v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f31r,herbal-A,C1 -> C3,2,1,2
+f31r,herbal-A,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f31r,herbal-A,C0 -> C4 -> C0 -> C2,3,3,4
+f31r,herbal-A,C1 -> C1 -> C3,2,1,3
+f31r,herbal-A,C1 -> C1,1,0,2
+f31r,herbal-A,C0 -> C3 -> C3,2,1,3
+f31r,herbal-A,C4 -> C1 -> C1 -> C1,2,1,4
+f31r,herbal-A,C1 -> C4 -> C1 -> C3,3,3,4
+f31r,herbal-A,C2 -> C0 -> C4 -> C1 -> C1,4,3,5
+f31r,herbal-A,C1 -> C0,2,1,2
+f31r,herbal-A,C0 -> C1 -> C1 -> C3 -> C3,3,2,5
+f31r,herbal-A,C3 -> C0 -> C1 -> C1,3,2,4
+f31r,herbal-A,C1 -> C1 -> C0 -> C0 -> C0 -> C0 -> C3,3,2,7
+f31r,herbal-A,C1 -> C1 -> C0,2,1,3
+f31v,herbal-A,C1 -> C1 -> C1 -> C0 -> C3,3,2,5
+f31v,herbal-A,C0 -> C0 -> C3 -> C0,2,2,4
+f31v,herbal-A,C1 -> C1 -> C2,2,1,3
+f31v,herbal-A,C3 -> C0 -> C1 -> C0,3,3,4
+f31v,herbal-A,C1 -> C1 -> C1 -> C4 -> C3,3,2,5
+f31v,herbal-A,C1 -> C1 -> C3 -> C3 -> C1 -> C2,3,3,6
+f31v,herbal-A,C3 -> C3 -> C3 -> C3 -> C0 -> C2,3,2,6
+f31v,herbal-A,C3 -> C0 -> C3 -> C0 -> C2 -> C2 -> C0 -> C0,3,5,8
+f31v,herbal-A,C3 -> C1 -> C0 -> C3 -> C3 -> C2,4,4,6
+f31v,herbal-A,C0 -> C3 -> C2 -> C3 -> C3,3,3,5
+f32r,herbal-A,C1 -> C0 -> C2,3,2,3
+f32r,herbal-A,C0 -> C2,2,1,2
+f32r,herbal-A,C0 -> C1,2,1,2
+f32r,herbal-A,C0 -> C0,1,0,2
+f32r,herbal-A,C0 -> C4,2,1,2
+f32r,herbal-A,C0 -> C0,1,0,2
+f32r,herbal-A,C0 -> C0,1,0,2
+f32r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f32r,herbal-A,C0 -> C0 -> C0,1,0,3
+f32r,herbal-A,C0 -> C0,1,0,2
+f32r,herbal-A,C0 -> C0,1,0,2
+f32v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f32v,herbal-A,C0 -> C0 -> C0,1,0,3
+f32v,herbal-A,C0 -> C0,1,0,2
+f32v,herbal-A,C0 -> C4 -> C0,2,2,3
+f32v,herbal-A,C0 -> C2 -> C0,2,2,3
+f32v,herbal-A,C2 -> C0 -> C0 -> C0 -> C2,2,2,5
+f32v,herbal-A,C0 -> C0 -> C0,1,0,3
+f32v,herbal-A,C2 -> C0 -> C2 -> C2,2,2,4
+f32v,herbal-A,C0 -> C1 -> C2 -> C1,3,3,4
+f32v,herbal-A,C0 -> C1 -> C2,3,2,3
+f32v,herbal-A,C0 -> C0,1,0,2
+f33r,herbal-A,C1 -> C1 -> C1 -> C1,1,0,4
+f33r,herbal-A,C1 -> C3 -> C2 -> C1 -> C0 -> C2 -> C2 -> C2,4,5,8
+f33r,herbal-A,C3 -> C1 -> C1 -> C2 -> C3 -> C0 -> C3,4,5,7
+f33r,herbal-A,C3 -> C2 -> C1 -> C2,3,3,4
+f33r,herbal-A,C2 -> C2 -> C2 -> C2 -> C1 -> C1 -> C2,2,2,7
+f33r,herbal-A,C0 -> C1 -> C3 -> C2 -> C2 -> C2,4,3,6
+f33r,herbal-A,C0 -> C3 -> C2 -> C1,4,3,4
+f33v,herbal-A,C4 -> C1 -> C2,3,2,3
+f33v,herbal-A,C2 -> C2 -> C2 -> C2,1,0,4
+f33v,herbal-A,C2 -> C2,1,0,2
+f33v,herbal-A,C1 -> C1 -> C3,2,1,3
+f33v,herbal-A,C2 -> C0 -> C2 -> C3,3,3,4
+f33v,herbal-A,C2 -> C2 -> C2 -> C2,1,0,4
+f33v,herbal-A,C1 -> C1 -> C1 -> C2,2,1,4
+f33v,herbal-A,C1 -> C0 -> C2 -> C1 -> C2 -> C2,3,4,6
+f33v,herbal-A,C0 -> C1 -> C0 -> C2,3,3,4
+f34r,herbal-A,C3 -> C0,2,1,2
+f34r,herbal-A,C3 -> C3,1,0,2
+f34r,herbal-A,C1 -> C0 -> C2,3,2,3
+f34r,herbal-A,C2 -> C0 -> C2 -> C2 -> C1,3,3,5
+f34r,herbal-A,C2 -> C0,2,1,2
+f34r,herbal-A,C2 -> C1 -> C1 -> C2 -> C3,3,3,5
+f34r,herbal-A,C3 -> C3 -> C1 -> C1 -> C0,3,2,5
+f34r,herbal-A,C0 -> C1 -> C2 -> C0,3,3,4
+f34r,herbal-A,C1 -> C2 -> C2 -> C2 -> C1 -> C0 -> C1,3,4,7
+f34r,herbal-A,C4 -> C2 -> C1 -> C3,4,3,4
+f34r,herbal-A,C1 -> C1 -> C1 -> C1 -> C3 -> C2,3,2,6
+f34r,herbal-A,C3 -> C3 -> C3 -> C3,1,0,4
+f34r,herbal-A,C1 -> C2 -> C2,2,1,3
+f34r,herbal-A,C1 -> C0,2,1,2
+f34v,herbal-A,C2 -> C3 -> C1 -> C1 -> C2 -> C2,3,3,6
+f34v,herbal-A,C2 -> C2 -> C1 -> C3 -> C2 -> C2 -> C1 -> C2,3,5,8
+f34v,herbal-A,C1 -> C2 -> C1,2,2,3
+f34v,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f34v,herbal-A,C0 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,6
+f34v,herbal-A,C2 -> C3 -> C1 -> C1 -> C2 -> C1 -> C2,3,5,7
+f34v,herbal-A,C1 -> C3 -> C1 -> C1 -> C3 -> C2,3,4,6
+f34v,herbal-A,C1 -> C2 -> C1 -> C0 -> C1 -> C3,4,5,6
+f34v,herbal-A,C1 -> C4 -> C0 -> C1 -> C1 -> C2 -> C2,4,4,7
+f34v,herbal-A,C2 -> C0 -> C3 -> C2 -> C2,3,3,5
+f34v,herbal-A,C1 -> C2 -> C1 -> C1 -> C2 -> C1,2,4,6
+f35r,herbal-A,C0 -> C0 -> C2,2,1,3
+f35r,herbal-A,C0 -> C2 -> C0,2,2,3
+f35r,herbal-A,C0 -> C0,1,0,2
+f35r,herbal-A,C0 -> C0 -> C0 -> C4,2,1,4
+f35r,herbal-A,C0 -> C0 -> C0,1,0,3
+f35r,herbal-A,C0 -> C0 -> C0 -> C1,2,1,4
+f35r,herbal-A,C1 -> C0 -> C0,2,1,3
+f35r,herbal-A,C0 -> C4,2,1,2
+f35r,herbal-A,C0 -> C1 -> C0 -> C4,3,3,4
+f35r,herbal-A,C0 -> C0 -> C4,2,1,3
+f35r,herbal-A,C2 -> C2,1,0,2
+f35r,herbal-A,C0 -> C0 -> C0,1,0,3
+f35r,herbal-A,C2 -> C2 -> C0,2,1,3
+f35v,herbal-A,C4 -> C0 -> C0,2,1,3
+f35v,herbal-A,C3 -> C0,2,1,2
+f35v,herbal-A,C2 -> C2,1,0,2
+f35v,herbal-A,C0 -> C0,1,0,2
+f35v,herbal-A,C0 -> C0 -> C0,1,0,3
+f35v,herbal-A,C2 -> C0,2,1,2
+f35v,herbal-A,C1 -> C0,2,1,2
+f35v,herbal-A,C0 -> C4 -> C0,2,2,3
+f35v,herbal-A,C0 -> C0,1,0,2
+f35v,herbal-A,C0 -> C0,1,0,2
+f35v,herbal-A,C0 -> C0 -> C2,2,1,3
+f35v,herbal-A,C0 -> C0,1,0,2
+f35v,herbal-A,C0 -> C0 -> C2,2,1,3
+f35v,herbal-A,C0 -> C4 -> C2 -> C2,3,2,4
+f35v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f35v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f35v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f36r,herbal-A,C2 -> C0,2,1,2
+f36r,herbal-A,C0 -> C1 -> C2 -> C0,3,3,4
+f36r,herbal-A,C0 -> C0,1,0,2
+f36r,herbal-A,C0 -> C0 -> C2,2,1,3
+f36v,herbal-A,C0 -> C4 -> C2,3,2,3
+f36v,herbal-A,C2 -> C2,1,0,2
+f36v,herbal-A,C0 -> C2 -> C2,2,1,3
+f36v,herbal-A,C2 -> C1 -> C2,2,2,3
+f36v,herbal-A,C0 -> C0 -> C2 -> C0 -> C3,3,3,5
+f36v,herbal-A,C2 -> C2 -> C0,2,1,3
+f36v,herbal-A,C1 -> C0 -> C0 -> C2,3,2,4
+f36v,herbal-A,C2 -> C0 -> C0,2,1,3
+f37r,herbal-A,C0 -> C0 -> C2 -> C0 -> C2,2,3,5
+f37r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f37r,herbal-A,C2 -> C0 -> C1 -> C0,3,3,4
+f37r,herbal-A,C0 -> C1 -> C2,3,2,3
+f37r,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f37r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f37r,herbal-A,C4 -> C0,2,1,2
+f37r,herbal-A,C0 -> C1 -> C2 -> C0,3,3,4
+f37r,herbal-A,C0 -> C0 -> C0,1,0,3
+f37v,herbal-A,C0 -> C0 -> C0,1,0,3
+f37v,herbal-A,C0 -> C0,1,0,2
+f37v,herbal-A,C0 -> C1 -> C2,3,2,3
+f37v,herbal-A,C0 -> C0,1,0,2
+f37v,herbal-A,C0 -> C0 -> C0,1,0,3
+f37v,herbal-A,C0 -> C0,1,0,2
+f37v,herbal-A,C0 -> C0,1,0,2
+f37v,herbal-A,C0 -> C0 -> C3,2,1,3
+f37v,herbal-A,C0 -> C0,1,0,2
+f38r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f38r,herbal-A,C1 -> C0 -> C2 -> C2,3,2,4
+f38r,herbal-A,C0 -> C2 -> C0 -> C0,2,2,4
+f38r,herbal-A,C4 -> C2 -> C2,2,1,3
+f38r,herbal-A,C0 -> C0 -> C0,1,0,3
+f38v,herbal-A,C0 -> C0 -> C0 -> C3 -> C3,2,1,5
+f38v,herbal-A,C0 -> C1 -> C0 -> C0,2,2,4
+f38v,herbal-A,C1 -> C1,1,0,2
+f38v,herbal-A,C1 -> C1 -> C0,2,1,3
+f38v,herbal-A,C0 -> C0 -> C3 -> C0,2,2,4
+f38v,herbal-A,C2 -> C2 -> C0,2,1,3
+f39r,herbal-A,C2 -> C2 -> C1 -> C3 -> C1,3,3,5
+f39r,herbal-A,C1 -> C2 -> C1,2,2,3
+f39r,herbal-A,C1 -> C2 -> C1 -> C0,3,3,4
+f39r,herbal-A,C2 -> C2 -> C2 -> C3,2,1,4
+f39r,herbal-A,C2 -> C1 -> C1 -> C0 -> C0 -> C1,3,3,6
+f39r,herbal-A,C1 -> C3 -> C1 -> C2 -> C2 -> C1,3,4,6
+f39r,herbal-A,C3 -> C0 -> C1,3,2,3
+f39r,herbal-A,C3 -> C1 -> C1 -> C2 -> C1,3,3,5
+f39r,herbal-A,C1 -> C3 -> C3 -> C1 -> C4,3,3,5
+f39r,herbal-A,C1 -> C2 -> C1 -> C1 -> C0 -> C3 -> C2,4,5,7
+f39r,herbal-A,C2 -> C2,1,0,2
+f39r,herbal-A,C1 -> C1 -> C2 -> C1,2,2,4
+f39r,herbal-A,C2 -> C1 -> C0 -> C1 -> C2 -> C2,3,4,6
+f39r,herbal-A,C1 -> C1 -> C2 -> C2 -> C2,2,1,5
+f39r,herbal-A,C1 -> C0 -> C1 -> C1,2,2,4
+f39v,herbal-A,C2 -> C1,2,1,2
+f39v,herbal-A,C2 -> C1,2,1,2
+f39v,herbal-A,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f39v,herbal-A,C2 -> C2 -> C2 -> C0,2,1,4
+f39v,herbal-A,C1 -> C3 -> C2,3,2,3
+f39v,herbal-A,C2 -> C0,2,1,2
+f39v,herbal-A,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f39v,herbal-A,C0 -> C2 -> C2 -> C1 -> C2,3,3,5
+f39v,herbal-A,C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1,3,4,7
+f39v,herbal-A,C1 -> C2 -> C2 -> C4,3,2,4
+f39v,herbal-A,C4 -> C0 -> C0 -> C0,2,1,4
+f39v,herbal-A,C1 -> C1 -> C1 -> C2,2,1,4
+f39v,herbal-A,C3 -> C0,2,1,2
+f39v,herbal-A,C0 -> C2 -> C1 -> C0,3,3,4
+f3r,herbal-A,C0 -> C0,1,0,2
+f3r,herbal-A,C0 -> C0 -> C1,2,1,3
+f3r,herbal-A,C2 -> C0,2,1,2
+f3r,herbal-A,C1 -> C0 -> C1 -> C1 -> C1 -> C0,2,3,6
+f3r,herbal-A,C0 -> C1 -> C1,2,1,3
+f3r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f3r,herbal-A,C3 -> C0 -> C0 -> C0 -> C0,2,1,5
+f3r,herbal-A,C3 -> C1,2,1,2
+f3r,herbal-A,C0 -> C1,2,1,2
+f3r,herbal-A,C0 -> C0 -> C3,2,1,3
+f3r,herbal-A,C0 -> C2 -> C2,2,1,3
+f3r,herbal-A,C0 -> C0 -> C0,1,0,3
+f3r,herbal-A,C0 -> C2 -> C2 -> C2 -> C0,2,2,5
+f3r,herbal-A,C0 -> C0 -> C2,2,1,3
+f3r,herbal-A,C0 -> C2,2,1,2
+f3r,herbal-A,C0 -> C0 -> C0,1,0,3
+f3r,herbal-A,C0 -> C0 -> C2,2,1,3
+f3r,herbal-A,C0 -> C0 -> C0,1,0,3
+f3v,herbal-A,C0 -> C1,2,1,2
+f3v,herbal-A,C0 -> C0 -> C2,2,1,3
+f3v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f3v,herbal-A,C0 -> C0 -> C2,2,1,3
+f3v,herbal-A,C2 -> C1 -> C0 -> C2,3,3,4
+f3v,herbal-A,C1 -> C3 -> C0,3,2,3
+f3v,herbal-A,C0 -> C0 -> C0 -> C0 -> C3 -> C2,3,2,6
+f3v,herbal-A,C0 -> C2 -> C2,2,1,3
+f3v,herbal-A,C2 -> C0 -> C2,2,2,3
+f3v,herbal-A,C0 -> C0 -> C0,1,0,3
+f3v,herbal-A,C0 -> C2 -> C0,2,2,3
+f3v,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f3v,herbal-A,C0 -> C0,1,0,2
+f40r,herbal-A,C2 -> C1,2,1,2
+f40r,herbal-A,C2 -> C2 -> C2,1,0,3
+f40r,herbal-A,C1 -> C2 -> C1 -> C2 -> C1 -> C2,2,5,6
+f40r,herbal-A,C0 -> C1 -> C2 -> C2 -> C0 -> C1 -> C2,3,5,7
+f40r,herbal-A,C3 -> C2 -> C2 -> C2 -> C0,3,2,5
+f40r,herbal-A,C1 -> C2 -> C1 -> C2,2,3,4
+f40r,herbal-A,C0 -> C1 -> C2,3,2,3
+f40r,herbal-A,C3 -> C2,2,1,2
+f40r,herbal-A,C0 -> C3,2,1,2
+f40r,herbal-A,C2 -> C2 -> C2,1,0,3
+f40v,herbal-A,C2 -> C1 -> C1,2,1,3
+f40v,herbal-A,C0 -> C1,2,1,2
+f40v,herbal-A,C1 -> C1 -> C3,2,1,3
+f40v,herbal-A,C1 -> C2 -> C2 -> C2,2,1,4
+f40v,herbal-A,C0 -> C2 -> C1 -> C1,3,2,4
+f40v,herbal-A,C1 -> C1 -> C3 -> C1 -> C2,3,3,5
+f40v,herbal-A,C2 -> C2 -> C2 -> C2 -> C2,1,0,5
+f40v,herbal-A,C2 -> C2,1,0,2
+f40v,herbal-A,C2 -> C2,1,0,2
+f40v,herbal-A,C0 -> C0 -> C1,2,1,3
+f40v,herbal-A,C0 -> C2 -> C2,2,1,3
+f41r,herbal-A,C3 -> C1 -> C1,2,1,3
+f41r,herbal-A,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f41r,herbal-A,C3 -> C3,1,0,2
+f41r,herbal-A,C1 -> C2 -> C1,2,2,3
+f41r,herbal-A,C1 -> C1 -> C1 -> C1 -> C3,2,1,5
+f41r,herbal-A,C2 -> C3 -> C3 -> C2,2,2,4
+f41r,herbal-A,C0 -> C2 -> C1,3,2,3
+f41r,herbal-A,C1 -> C1 -> C3 -> C1 -> C1,2,2,5
+f41r,herbal-A,C4 -> C0 -> C2 -> C1 -> C1 -> C1,4,3,6
+f41r,herbal-A,C1 -> C2 -> C1 -> C1 -> C3,3,3,5
+f41r,herbal-A,C1 -> C1 -> C3 -> C3 -> C3 -> C3 -> C1,2,2,7
+f41v,herbal-A,C3 -> C1 -> C2,3,2,3
+f41v,herbal-A,C1 -> C4 -> C1 -> C1 -> C2 -> C1 -> C0,4,5,7
+f41v,herbal-A,C0 -> C1 -> C0 -> C1 -> C1 -> C0 -> C0,2,4,7
+f41v,herbal-A,C0 -> C3 -> C3,2,1,3
+f41v,herbal-A,C0 -> C2 -> C1 -> C3,4,3,4
+f41v,herbal-A,C1 -> C2 -> C1,2,2,3
+f41v,herbal-A,C1 -> C1,1,0,2
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C4 -> C0 -> C0 -> C0 -> C0,2,1,5
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C0 -> C1 -> C0 -> C2 -> C0,3,4,5
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C0 -> C0 -> C3 -> C0 -> C2,3,3,5
+f42r,herbal-A,C2 -> C0 -> C1 -> C0,3,3,4
+f42r,herbal-A,C0 -> C0 -> C0,1,0,3
+f42r,herbal-A,C2 -> C3 -> C0,3,2,3
+f42r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,8
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f42r,herbal-A,C0 -> C0,1,0,2
+f42r,herbal-A,C2 -> C0 -> C0,2,1,3
+f42r,herbal-A,C0 -> C3 -> C0,2,2,3
+f42r,herbal-A,C1 -> C0 -> C0 -> C0,2,1,4
+f42r,herbal-A,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f42r,herbal-A,C3 -> C0 -> C0 -> C2,3,2,4
+f42r,herbal-A,C2 -> C0 -> C0 -> C2,2,2,4
+f42v,herbal-A,C1 -> C0 -> C0,2,1,3
+f42v,herbal-A,C4 -> C0 -> C0 -> C3,3,2,4
+f42v,herbal-A,C1 -> C0 -> C2,3,2,3
+f42v,herbal-A,C0 -> C0 -> C0 -> C3,2,1,4
+f42v,herbal-A,C0 -> C4 -> C1,3,2,3
+f42v,herbal-A,C1 -> C0 -> C0 -> C0,2,1,4
+f42v,herbal-A,C0 -> C0 -> C1,2,1,3
+f42v,herbal-A,C1 -> C4 -> C4 -> C2 -> C0,4,3,5
+f42v,herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C2 -> C4,3,4,8
+f42v,herbal-A,C0 -> C2,2,1,2
+f42v,herbal-A,C0 -> C4 -> C3 -> C3,3,2,4
+f42v,herbal-A,C3 -> C0,2,1,2
+f42v,herbal-A,C0 -> C0,1,0,2
+f42v,herbal-A,C0 -> C2 -> C3 -> C0,3,3,4
+f43r,herbal-A,C2 -> C0,2,1,2
+f43r,herbal-A,C1 -> C1 -> C1 -> C2,2,1,4
+f43r,herbal-A,C0 -> C0 -> C1 -> C1 -> C2 -> C1 -> C2 -> C3,4,5,8
+f43r,herbal-A,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,10
+f43r,herbal-A,C1 -> C1 -> C0 -> C0 -> C2,3,2,5
+f43r,herbal-A,C3 -> C0 -> C0,2,1,3
+f43r,herbal-A,C3 -> C3 -> C2 -> C2,2,1,4
+f43r,herbal-A,C2 -> C1 -> C0 -> C2 -> C1,3,4,5
+f43r,herbal-A,C1 -> C0 -> C1 -> C1 -> C2 -> C2,3,3,6
+f43r,herbal-A,C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C2,3,5,7
+f43r,herbal-A,C1 -> C1 -> C0 -> C0,2,1,4
+f43r,herbal-A,C3 -> C1 -> C1 -> C2,3,2,4
+f43r,herbal-A,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C2,3,4,7
+f43r,herbal-A,C1 -> C1 -> C4,2,1,3
+f43v,herbal-A,C1 -> C1,1,0,2
+f43v,herbal-A,C2 -> C3,2,1,2
+f43v,herbal-A,C0 -> C0 -> C2 -> C2 -> C0,2,2,5
+f43v,herbal-A,C4 -> C1 -> C1 -> C3,3,2,4
+f43v,herbal-A,C1 -> C3 -> C1 -> C3 -> C3,2,3,5
+f43v,herbal-A,C1 -> C1 -> C3 -> C3 -> C0 -> C1 -> C3,3,4,7
+f43v,herbal-A,C3 -> C0 -> C1,3,2,3
+f43v,herbal-A,C3 -> C1 -> C4,3,2,3
+f43v,herbal-A,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2,2,1,8
+f43v,herbal-A,C0 -> C0 -> C2 -> C2 -> C2 -> C1 -> C4,4,3,7
+f43v,herbal-A,C3 -> C0 -> C4 -> C1 -> C3 -> C2,5,5,6
+f43v,herbal-A,C1 -> C3 -> C2 -> C2,3,2,4
+f43v,herbal-A,C1 -> C1 -> C1 -> C3 -> C1 -> C3,2,3,6
+f43v,herbal-A,C1 -> C2 -> C2 -> C2 -> C2,2,1,5
+f43v,herbal-A,C1 -> C3 -> C1 -> C0 -> C0 -> C3,3,4,6
+f44r,herbal-A,C0 -> C0 -> C2,2,1,3
+f44r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f44r,herbal-A,C2 -> C4 -> C0,3,2,3
+f44r,herbal-A,C0 -> C2 -> C2,2,1,3
+f44r,herbal-A,C1 -> C1 -> C2 -> C3 -> C1,3,3,5
+f44r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f44r,herbal-A,C0 -> C0 -> C0,1,0,3
+f44r,herbal-A,C0 -> C2 -> C1 -> C0 -> C0 -> C1,3,4,6
+f44v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,7
+f44v,herbal-A,C0 -> C0,1,0,2
+f44v,herbal-A,C2 -> C0 -> C0 -> C0 -> C2 -> C2,2,2,6
+f44v,herbal-A,C0 -> C2,2,1,2
+f44v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f44v,herbal-A,C0 -> C1 -> C0,2,2,3
+f44v,herbal-A,C0 -> C0 -> C0 -> C1 -> C0 -> C0,2,2,6
+f44v,herbal-A,C0 -> C0 -> C0,1,0,3
+f44v,herbal-A,C0 -> C2 -> C0,2,2,3
+f44v,herbal-A,C2 -> C0 -> C0,2,1,3
+f44v,herbal-A,C0 -> C0 -> C1,2,1,3
+f44v,herbal-A,C0 -> C2,2,1,2
+f45r,herbal-A,C2 -> C1 -> C2,2,2,3
+f45r,herbal-A,C2 -> C2 -> C2 -> C0,2,1,4
+f45r,herbal-A,C2 -> C0,2,1,2
+f45r,herbal-A,C0 -> C1 -> C0 -> C1 -> C0 -> C0,2,4,6
+f45r,herbal-A,C2 -> C0 -> C0,2,1,3
+f45r,herbal-A,C0 -> C4 -> C0 -> C0,2,2,4
+f45r,herbal-A,C2 -> C2 -> C0 -> C2,2,2,4
+f45r,herbal-A,C0 -> C2,2,1,2
+f45r,herbal-A,C0 -> C0,1,0,2
+f45v,herbal-A,C2 -> C4 -> C0,3,2,3
+f45v,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f45v,herbal-A,C0 -> C0,1,0,2
+f45v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f45v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f45v,herbal-A,C0 -> C0,1,0,2
+f45v,herbal-A,C0 -> C0 -> C2 -> C2,2,1,4
+f45v,herbal-A,C2 -> C0 -> C0,2,1,3
+f45v,herbal-A,C0 -> C0,1,0,2
+f46r,herbal-A,C1 -> C3 -> C3 -> C1 -> C3 -> C1,2,4,6
+f46r,herbal-A,C4 -> C0 -> C2 -> C2 -> C1 -> C1 -> C0,4,4,7
+f46r,herbal-A,C1 -> C1 -> C1 -> C1,1,0,4
+f46r,herbal-A,C0 -> C0 -> C3 -> C1 -> C1 -> C2 -> C2,4,3,7
+f46r,herbal-A,C0 -> C1 -> C0,2,2,3
+f46r,herbal-A,C3 -> C0 -> C1 -> C0 -> C2 -> C2 -> C1,4,5,7
+f46r,herbal-A,C1 -> C0,2,1,2
+f46r,herbal-A,C1 -> C0 -> C2 -> C1 -> C1 -> C1,3,3,6
+f46r,herbal-A,C0 -> C1 -> C0 -> C1,2,3,4
+f46r,herbal-A,C1 -> C0 -> C2 -> C1 -> C3 -> C2 -> C1 -> C1,4,6,8
+f46r,herbal-A,C1 -> C1 -> C1 -> C2 -> C1 -> C0 -> C0,3,3,7
+f46r,herbal-A,C1 -> C2 -> C1 -> C2,2,3,4
+f46r,herbal-A,C0 -> C1 -> C2 -> C2 -> C1 -> C1 -> C1 -> C2,3,4,8
+f46r,herbal-A,C0 -> C0 -> C2 -> C0 -> C1 -> C2 -> C0 -> C0 -> C4,4,6,9
+f46r,herbal-A,C1 -> C1 -> C0 -> C1,2,2,4
+f46v,herbal-A,C1 -> C2,2,1,2
+f46v,herbal-A,C0 -> C4 -> C2 -> C2,3,2,4
+f46v,herbal-A,C1 -> C0 -> C2,3,2,3
+f46v,herbal-A,C2 -> C2 -> C2,1,0,3
+f46v,herbal-A,C2 -> C2 -> C1 -> C2 -> C1 -> C1,2,3,6
+f46v,herbal-A,C0 -> C0 -> C2 -> C1 -> C2 -> C0 -> C1 -> C1,3,5,8
+f46v,herbal-A,C2 -> C2 -> C2 -> C2 -> C2 -> C1,2,1,6
+f46v,herbal-A,C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,2,6
+f46v,herbal-A,C1 -> C1 -> C1 -> C1 -> C1 -> C0,2,1,6
+f46v,herbal-A,C1 -> C3 -> C3 -> C1,2,2,4
+f46v,herbal-A,C3 -> C1 -> C3,2,2,3
+f46v,herbal-A,C1 -> C2,2,1,2
+f47r,herbal-A,C2 -> C0 -> C2,2,2,3
+f47r,herbal-A,C0 -> C0 -> C4 -> C0 -> C0,2,2,5
+f47r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f47r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f47r,herbal-A,C3 -> C0 -> C0 -> C2,3,2,4
+f47r,herbal-A,C4 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0,3,3,7
+f47r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f47r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,6
+f47r,herbal-A,C2 -> C0 -> C2 -> C0 -> C0 -> C0,2,3,6
+f47v,herbal-A,C0 -> C0 -> C0,1,0,3
+f47v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f47v,herbal-A,C3 -> C0 -> C2 -> C0 -> C2 -> C0,3,5,6
+f47v,herbal-A,C0 -> C0 -> C0 -> C0 -> C3,2,1,5
+f47v,herbal-A,C0 -> C2 -> C2 -> C2,2,1,4
+f47v,herbal-A,C1 -> C0 -> C4 -> C0,3,3,4
+f47v,herbal-A,C0 -> C2 -> C3 -> C0 -> C2,3,4,5
+f47v,herbal-A,C0 -> C1 -> C0 -> C1,2,3,4
+f47v,herbal-A,C0 -> C1 -> C0 -> C0,2,2,4
+f47v,herbal-A,C0 -> C0,1,0,2
+f47v,herbal-A,C0 -> C0,1,0,2
+f47v,herbal-A,C4 -> C3 -> C0 -> C0,3,2,4
+f48r,herbal-A,C0 -> C0,1,0,2
+f48r,herbal-A,C0 -> C1 -> C2 -> C2 -> C2,3,2,5
+f48r,herbal-A,C0 -> C1 -> C3 -> C3 -> C2,4,3,5
+f48r,herbal-A,C2 -> C3 -> C1 -> C1 -> C3,3,3,5
+f48r,herbal-A,C1 -> C0 -> C0,2,1,3
+f48r,herbal-A,C1 -> C0 -> C2 -> C3,4,3,4
+f48r,herbal-A,C0 -> C2 -> C1 -> C2,3,3,4
+f48r,herbal-A,C2 -> C0 -> C3 -> C3,3,2,4
+f48v,herbal-A,C1 -> C1 -> C2 -> C3,3,2,4
+f48v,herbal-A,C1 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,6
+f48v,herbal-A,C2 -> C3,2,1,2
+f48v,herbal-A,C4 -> C0 -> C2 -> C3 -> C0,4,4,5
+f48v,herbal-A,C0 -> C1 -> C2,3,2,3
+f48v,herbal-A,C1 -> C2 -> C0 -> C1 -> C2 -> C3,4,5,6
+f48v,herbal-A,C1 -> C1 -> C1 -> C2,2,1,4
+f48v,herbal-A,C1 -> C1 -> C2 -> C2 -> C3 -> C2 -> C1,3,4,7
+f48v,herbal-A,C3 -> C1 -> C1 -> C1,2,1,4
+f48v,herbal-A,C3 -> C2 -> C2 -> C4 -> C2,3,3,5
+f48v,herbal-A,C0 -> C2 -> C3 -> C2 -> C1,4,4,5
+f49r,herbal-A,C0 -> C0 -> C1 -> C0 -> C0 -> C0,2,2,6
+f49r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f49r,herbal-A,C0 -> C0,1,0,2
+f49r,herbal-A,C3 -> C0 -> C2,3,2,3
+f49r,herbal-A,C0 -> C0,1,0,2
+f49r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f49r,herbal-A,C0 -> C0 -> C0,1,0,3
+f49r,herbal-A,C4 -> C4 -> C0,2,1,3
+f49r,herbal-A,C4 -> C4 -> C0 -> C0 -> C0,2,1,5
+f49r,herbal-A,C0 -> C0 -> C0 -> C1 -> C0 -> C0,2,2,6
+f49r,herbal-A,C3 -> C4 -> C0 -> C0,3,2,4
+f49r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f49r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f49r,herbal-A,C0 -> C0,1,0,2
+f49r,herbal-A,C0 -> C0 -> C0,1,0,3
+f49r,herbal-A,C0 -> C0,1,0,2
+f49r,herbal-A,C0 -> C0 -> C4 -> C2,3,2,4
+f49r,herbal-A,C0 -> C0,1,0,2
+f49r,herbal-A,C0 -> C4 -> C0 -> C0,2,2,4
+f49r,herbal-A,C0 -> C0 -> C0 -> C3,2,1,4
+f49r,herbal-A,C4 -> C1 -> C0,3,2,3
+f49v,herbal-A,C0 -> C0 -> C2,2,1,3
+f49v,herbal-A,C0 -> C0 -> C0,1,0,3
+f49v,herbal-A,C0 -> C0,1,0,2
+f49v,herbal-A,C1 -> C3,2,1,2
+f49v,herbal-A,C1 -> C0,2,1,2
+f49v,herbal-A,C0 -> C0,1,0,2
+f49v,herbal-A,C0 -> C0,1,0,2
+f49v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f49v,herbal-A,C0 -> C0 -> C2,2,1,3
+f49v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f49v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f49v,herbal-A,C0 -> C0 -> C0,1,0,3
+f49v,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0,2,2,6
+f49v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C1,2,1,6
+f49v,herbal-A,C0 -> C0 -> C0,1,0,3
+f49v,herbal-A,C0 -> C0 -> C0 -> C1,2,1,4
+f49v,herbal-A,C3 -> C3 -> C0 -> C0 -> C0,2,1,5
+f49v,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f49v,herbal-A,C3 -> C0 -> C0,2,1,3
+f49v,herbal-A,C0 -> C4 -> C0 -> C0 -> C0,2,2,5
+f49v,herbal-A,C0 -> C0 -> C3 -> C2 -> C0,3,3,5
+f49v,herbal-A,C0 -> C2,2,1,2
+f49v,herbal-A,C3 -> C0,2,1,2
+f4r,herbal-A,C2 -> C0 -> C1 -> C1 -> C0,3,3,5
+f4r,herbal-A,C0 -> C1,2,1,2
+f4r,herbal-A,C0 -> C0 -> C0,1,0,3
+f4r,herbal-A,C0 -> C0,1,0,2
+f4r,herbal-A,C0 -> C0 -> C0 -> C1 -> C0 -> C0,2,2,6
+f4r,herbal-A,C0 -> C0 -> C0 -> C0 -> C1 -> C0,2,2,6
+f4r,herbal-A,C0 -> C0 -> C2,2,1,3
+f4r,herbal-A,C0 -> C1,2,1,2
+f4r,herbal-A,C0 -> C0 -> C0,1,0,3
+f4v,herbal-A,C0 -> C0 -> C0,1,0,3
+f4v,herbal-A,C2 -> C0 -> C1 -> C0 -> C0,3,3,5
+f4v,herbal-A,C0 -> C0 -> C0 -> C1 -> C0,2,2,5
+f4v,herbal-A,C1 -> C0 -> C0 -> C2 -> C2,3,2,5
+f4v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f4v,herbal-A,C0 -> C2,2,1,2
+f4v,herbal-A,C4 -> C0 -> C1 -> C0 -> C0,3,3,5
+f4v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f4v,herbal-A,C0 -> C0,1,0,2
+f4v,herbal-A,C0 -> C1 -> C2 -> C1 -> C0,3,4,5
+f4v,herbal-A,C1 -> C0 -> C0,2,1,3
+f4v,herbal-A,C0 -> C0 -> C0,1,0,3
+f4v,herbal-A,C0 -> C2 -> C0,2,2,3
+f50r,herbal-A,C2 -> C2,1,0,2
+f50r,herbal-A,C0 -> C2 -> C2 -> C2,2,1,4
+f50r,herbal-A,C0 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,3,3,7
+f50r,herbal-A,C2 -> C1 -> C1 -> C2 -> C1,2,3,5
+f50r,herbal-A,C2 -> C2 -> C2 -> C2 -> C2 -> C2,1,0,6
+f50r,herbal-A,C1 -> C1 -> C2 -> C0 -> C3 -> C1,4,4,6
+f50r,herbal-A,C2 -> C2 -> C2 -> C1 -> C1,2,1,5
+f50r,herbal-A,C1 -> C2 -> C1,2,2,3
+f50r,herbal-A,C3 -> C1,2,1,2
+f50v,herbal-A,C0 -> C0 -> C2 -> C0 -> C0,2,2,5
+f50v,herbal-A,C1 -> C2,2,1,2
+f50v,herbal-A,C0 -> C2 -> C1 -> C1 -> C2 -> C2 -> C4 -> C2,4,5,8
+f50v,herbal-A,C1 -> C3 -> C1 -> C1 -> C2 -> C2,3,3,6
+f50v,herbal-A,C1 -> C2 -> C2 -> C2,2,1,4
+f50v,herbal-A,C0 -> C2 -> C1 -> C2 -> C3,4,4,5
+f50v,herbal-A,C2 -> C0 -> C1 -> C2 -> C4 -> C1 -> C2 -> C2,4,6,8
+f50v,herbal-A,C2 -> C0 -> C2,2,2,3
+f50v,herbal-A,C2 -> C0 -> C1 -> C2 -> C2,3,3,5
+f50v,herbal-A,C1 -> C2 -> C2 -> C2,2,1,4
+f51r,herbal-A,C0 -> C0,1,0,2
+f51r,herbal-A,C1 -> C0 -> C4 -> C0 -> C2,4,4,5
+f51r,herbal-A,C0 -> C0 -> C3 -> C2,3,2,4
+f51r,herbal-A,C3 -> C0,2,1,2
+f51r,herbal-A,C0 -> C0,1,0,2
+f51r,herbal-A,C0 -> C0,1,0,2
+f51r,herbal-A,C2 -> C1,2,1,2
+f51r,herbal-A,C0 -> C0 -> C1,2,1,3
+f51r,herbal-A,C0 -> C1,2,1,2
+f51r,herbal-A,C0 -> C0 -> C2,2,1,3
+f51r,herbal-A,C1 -> C2,2,1,2
+f51v,herbal-A,C0 -> C0 -> C1,2,1,3
+f51v,herbal-A,C0 -> C1,2,1,2
+f51v,herbal-A,C1 -> C4,2,1,2
+f51v,herbal-A,C0 -> C0,1,0,2
+f51v,herbal-A,C0 -> C0 -> C2,2,1,3
+f51v,herbal-A,C0 -> C2,2,1,2
+f51v,herbal-A,C2 -> C0 -> C0,2,1,3
+f51v,herbal-A,C0 -> C0 -> C2,2,1,3
+f51v,herbal-A,C0 -> C1 -> C1 -> C0,2,2,4
+f51v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f51v,herbal-A,C0 -> C0,1,0,2
+f52r,herbal-A,C2 -> C0,2,1,2
+f52r,herbal-A,C2 -> C0 -> C1 -> C3,4,3,4
+f52r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2,2,1,6
+f52r,herbal-A,C0 -> C1 -> C0 -> C2 -> C2,3,3,5
+f52r,herbal-A,C2 -> C0 -> C2 -> C2 -> C0,2,3,5
+f52r,herbal-A,C1 -> C0 -> C0,2,1,3
+f52r,herbal-A,C0 -> C2,2,1,2
+f52r,herbal-A,C4 -> C1 -> C4 -> C0,3,3,4
+f52v,herbal-A,C2 -> C0 -> C0,2,1,3
+f52v,herbal-A,C1 -> C0,2,1,2
+f52v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f52v,herbal-A,C0 -> C0 -> C2 -> C0 -> C2,2,3,5
+f52v,herbal-A,C0 -> C3 -> C0 -> C2,3,3,4
+f52v,herbal-A,C0 -> C2 -> C0,2,2,3
+f52v,herbal-A,C0 -> C1,2,1,2
+f53r,herbal-A,C0 -> C2,2,1,2
+f53r,herbal-A,C0 -> C1 -> C2,3,2,3
+f53r,herbal-A,C0 -> C0,1,0,2
+f53r,herbal-A,C4 -> C2,2,1,2
+f53r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f53r,herbal-A,C0 -> C0 -> C3,2,1,3
+f53r,herbal-A,C2 -> C0 -> C3 -> C0 -> C0 -> C0,3,3,6
+f53r,herbal-A,C0 -> C0 -> C2,2,1,3
+f53r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f53v,herbal-A,C0 -> C1,2,1,2
+f53v,herbal-A,C0 -> C2 -> C0 -> C2,2,3,4
+f53v,herbal-A,C0 -> C2,2,1,2
+f53v,herbal-A,C1 -> C1 -> C0 -> C0 -> C0,2,1,5
+f53v,herbal-A,C0 -> C2,2,1,2
+f53v,herbal-A,C0 -> C0,1,0,2
+f53v,herbal-A,C1 -> C0 -> C0,2,1,3
+f53v,herbal-A,C0 -> C1 -> C0 -> C0,2,2,4
+f53v,herbal-A,C1 -> C0 -> C0 -> C0 -> C1,2,2,5
+f53v,herbal-A,C0 -> C0 -> C0,1,0,3
+f54r,herbal-A,C0 -> C0,1,0,2
+f54r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f54r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f54r,herbal-A,C0 -> C0,1,0,2
+f54r,herbal-A,C4 -> C4,1,0,2
+f54r,herbal-A,C0 -> C0,1,0,2
+f54r,herbal-A,C0 -> C3 -> C0,2,2,3
+f54r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f54r,herbal-A,C1 -> C0 -> C0 -> C4 -> C3,4,3,5
+f54r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f54v,herbal-A,C2 -> C1,2,1,2
+f54v,herbal-A,C2 -> C1,2,1,2
+f54v,herbal-A,C0 -> C2,2,1,2
+f54v,herbal-A,C0 -> C0,1,0,2
+f54v,herbal-A,C2 -> C2 -> C0 -> C0,2,1,4
+f54v,herbal-A,C0 -> C3 -> C0 -> C2 -> C0 -> C0,3,4,6
+f54v,herbal-A,C1 -> C0,2,1,2
+f54v,herbal-A,C0 -> C0,1,0,2
+f54v,herbal-A,C0 -> C0,1,0,2
+f54v,herbal-A,C1 -> C2,2,1,2
+f55r,herbal-A,C1 -> C2 -> C2,2,1,3
+f55r,herbal-A,C2 -> C1 -> C1,2,1,3
+f55r,herbal-A,C4 -> C1 -> C2 -> C1 -> C2 -> C2,3,4,6
+f55r,herbal-A,C2 -> C3 -> C1 -> C2,3,3,4
+f55r,herbal-A,C0 -> C2 -> C2,2,1,3
+f55r,herbal-A,C2 -> C0 -> C1 -> C2,3,3,4
+f55r,herbal-A,C0 -> C2 -> C2 -> C2 -> C2 -> C1 -> C2 -> C2,3,3,8
+f55r,herbal-A,C2 -> C2 -> C2,1,0,3
+f55r,herbal-A,C2 -> C0 -> C0 -> C2,2,2,4
+f55r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f55r,herbal-A,C3 -> C0 -> C0 -> C1 -> C2 -> C2,4,3,6
+f55r,herbal-A,C2 -> C2 -> C3 -> C1,3,2,4
+f55r,herbal-A,C3 -> C2 -> C2,2,1,3
+f55v,herbal-A,C3 -> C2,2,1,2
+f55v,herbal-A,C2 -> C2 -> C2,1,0,3
+f55v,herbal-A,C0 -> C3 -> C2,3,2,3
+f55v,herbal-A,C3 -> C2,2,1,2
+f55v,herbal-A,C1 -> C3,2,1,2
+f55v,herbal-A,C2 -> C2 -> C0 -> C1,3,2,4
+f55v,herbal-A,C1 -> C0 -> C1,2,2,3
+f55v,herbal-A,C2 -> C0 -> C2,2,2,3
+f55v,herbal-A,C1 -> C1 -> C2 -> C2,2,1,4
+f55v,herbal-A,C0 -> C2 -> C4 -> C2 -> C2,3,3,5
+f56r,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f56r,herbal-A,C0 -> C0 -> C0 -> C4 -> C2,3,2,5
+f56r,herbal-A,C0 -> C4 -> C0 -> C0,2,2,4
+f56r,herbal-A,C0 -> C0 -> C4 -> C0,2,2,4
+f56r,herbal-A,C0 -> C0 -> C2,2,1,3
+f56r,herbal-A,C0 -> C0 -> C0,1,0,3
+f56r,herbal-A,C0 -> C0 -> C0,1,0,3
+f56r,herbal-A,C0 -> C0 -> C4 -> C2,3,2,4
+f56r,herbal-A,C0 -> C4,2,1,2
+f56r,herbal-A,C0 -> C0 -> C0,1,0,3
+f56r,herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0,2,2,6
+f56r,herbal-A,C0 -> C4 -> C1 -> C0 -> C0,3,3,5
+f56r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2 -> C2,2,1,7
+f56r,herbal-A,C0 -> C0 -> C0,1,0,3
+f56r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f56r,herbal-A,C0 -> C0 -> C3,2,1,3
+f56r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f56v,herbal-A,C3 -> C0 -> C4 -> C0 -> C0 -> C0 -> C0,3,3,7
+f56v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f56v,herbal-A,C0 -> C4 -> C0 -> C0,2,2,4
+f56v,herbal-A,C4 -> C3,2,1,2
+f56v,herbal-A,C0 -> C0 -> C0,1,0,3
+f56v,herbal-A,C0 -> C3 -> C0 -> C0 -> C0 -> C0,2,2,6
+f56v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f56v,herbal-A,C0 -> C0 -> C0,1,0,3
+f56v,herbal-A,C0 -> C1 -> C1 -> C1,2,1,4
+f56v,herbal-A,C0 -> C0 -> C4 -> C0,2,2,4
+f56v,herbal-A,C1 -> C0 -> C4,3,2,3
+f56v,herbal-A,C0 -> C0,1,0,2
+f56v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f56v,herbal-A,C0 -> C0 -> C4,2,1,3
+f56v,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f57r,cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C0,2,2,5
+f57r,cosmo/zodiac,C1 -> C0,2,1,2
+f57r,cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C0 -> C4 -> C1,4,3,7
+f57r,cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C1 -> C3,3,5,8
+f57r,cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C1 -> C2 -> C0,3,3,7
+f57r,cosmo/zodiac,C0 -> C3,2,1,2
+f57r,cosmo/zodiac,C0 -> C2 -> C2 -> C2,2,1,4
+f57r,cosmo/zodiac,C1 -> C1 -> C3 -> C1 -> C2,3,3,5
+f57r,cosmo/zodiac,C1 -> C1 -> C1,1,0,3
+f57r,cosmo/zodiac,C1 -> C1,1,0,2
+f57v,cosmo/zodiac,C3 -> C1 -> C0 -> C3 -> C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,4,8,12
+f57v,cosmo/zodiac,C3 -> C1 -> C3 -> C3 -> C0 -> C2,4,4,6
+f57v,cosmo/zodiac,C2 -> C1 -> C1,2,1,3
+f58r,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0 -> C2,2,3,6
+f58r,cosmo/zodiac,C2 -> C3 -> C2 -> C2 -> C2 -> C1 -> C3,3,4,7
+f58r,cosmo/zodiac,C1 -> C2 -> C2,2,1,3
+f58r,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C2 -> C2,2,3,6
+f58r,cosmo/zodiac,C1 -> C0 -> C2 -> C0 -> C2 -> C0,3,5,6
+f58r,cosmo/zodiac,C1 -> C2 -> C3 -> C2 -> C2,3,3,5
+f58r,cosmo/zodiac,C2 -> C0 -> C1,3,2,3
+f58r,cosmo/zodiac,C1 -> C1 -> C0,2,1,3
+f58r,cosmo/zodiac,C0 -> C1,2,1,2
+f58r,cosmo/zodiac,C0 -> C0 -> C0 -> C2 -> C2 -> C2,2,1,6
+f58r,cosmo/zodiac,C1 -> C2 -> C1 -> C2 -> C2 -> C2,2,3,6
+f58r,cosmo/zodiac,C0 -> C2,2,1,2
+f58r,cosmo/zodiac,C0 -> C2 -> C1 -> C1 -> C0 -> C0 -> C2,3,4,7
+f58r,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C2,2,3,5
+f58r,cosmo/zodiac,C0 -> C0 -> C3 -> C0 -> C1 -> C2 -> C0,4,5,7
+f58r,cosmo/zodiac,C3 -> C3 -> C2 -> C0 -> C3 -> C2,3,4,6
+f58r,cosmo/zodiac,C3 -> C3 -> C2,2,1,3
+f58r,cosmo/zodiac,C2 -> C0,2,1,2
+f58r,cosmo/zodiac,C2 -> C2 -> C1 -> C2 -> C2 -> C0,3,3,6
+f58r,cosmo/zodiac,C0 -> C0 -> C2,2,1,3
+f58r,cosmo/zodiac,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f58r,cosmo/zodiac,C0 -> C0 -> C2 -> C0,2,2,4
+f58r,cosmo/zodiac,C1 -> C2 -> C0 -> C0 -> C0 -> C2,3,3,6
+f58r,cosmo/zodiac,C2 -> C0 -> C2 -> C0 -> C1,3,4,5
+f58r,cosmo/zodiac,C1 -> C2 -> C1 -> C0 -> C1,3,4,5
+f58r,cosmo/zodiac,C1 -> C0 -> C1 -> C1,2,2,4
+f58r,cosmo/zodiac,C0 -> C0 -> C1,2,1,3
+f58r,cosmo/zodiac,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f58r,cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0,3,3,5
+f58r,cosmo/zodiac,C2 -> C0 -> C2,2,2,3
+f58r,cosmo/zodiac,C2 -> C0 -> C3 -> C2,3,3,4
+f58r,cosmo/zodiac,C2 -> C0 -> C1,3,2,3
+f58r,cosmo/zodiac,C0 -> C0 -> C1 -> C1 -> C3,3,2,5
+f58r,cosmo/zodiac,C0 -> C0 -> C2,2,1,3
+f58r,cosmo/zodiac,C0 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,6
+f58r,cosmo/zodiac,C2 -> C2 -> C3 -> C2 -> C0,3,3,5
+f58r,cosmo/zodiac,C0 -> C0 -> C0 -> C3 -> C0 -> C0,2,2,6
+f58r,cosmo/zodiac,C0 -> C3 -> C3,2,1,3
+f58r,cosmo/zodiac,C0 -> C4 -> C1,3,2,3
+f58v,cosmo/zodiac,C0 -> C0,1,0,2
+f58v,cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C2 -> C2,2,1,6
+f58v,cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0 -> C2,3,4,6
+f58v,cosmo/zodiac,C3 -> C2 -> C1 -> C3,3,3,4
+f58v,cosmo/zodiac,C0 -> C2 -> C2,2,1,3
+f58v,cosmo/zodiac,C2 -> C0 -> C0 -> C2 -> C0,2,3,5
+f58v,cosmo/zodiac,C0 -> C2 -> C2 -> C0,2,2,4
+f58v,cosmo/zodiac,C1 -> C2 -> C1 -> C2 -> C0,3,4,5
+f58v,cosmo/zodiac,C1 -> C2 -> C0 -> C1 -> C0 -> C0 -> C3,4,5,7
+f58v,cosmo/zodiac,C2 -> C1 -> C1,2,1,3
+f58v,cosmo/zodiac,C2 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,2,7
+f58v,cosmo/zodiac,C1 -> C1 -> C1,1,0,3
+f58v,cosmo/zodiac,C1 -> C2 -> C0 -> C2 -> C2,3,3,5
+f58v,cosmo/zodiac,C2 -> C1 -> C2,2,2,3
+f58v,cosmo/zodiac,C2 -> C1 -> C1,2,1,3
+f58v,cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C1,2,1,5
+f58v,cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C0 -> C2,3,4,6
+f58v,cosmo/zodiac,C1 -> C0 -> C1 -> C0 -> C3 -> C1 -> C1,3,5,7
+f58v,cosmo/zodiac,C1 -> C0 -> C2 -> C0 -> C1 -> C1,3,4,6
+f58v,cosmo/zodiac,C1 -> C1 -> C1 -> C2,2,1,4
+f58v,cosmo/zodiac,C1 -> C2 -> C2 -> C2 -> C0 -> C1,3,3,6
+f58v,cosmo/zodiac,C1 -> C0 -> C1 -> C1,2,2,4
+f58v,cosmo/zodiac,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f58v,cosmo/zodiac,C0 -> C0 -> C2 -> C1 -> C1 -> C0 -> C1,3,4,7
+f58v,cosmo/zodiac,C0 -> C1 -> C1 -> C2 -> C2,3,2,5
+f58v,cosmo/zodiac,C0 -> C4,2,1,2
+f58v,cosmo/zodiac,C0 -> C0 -> C2,2,1,3
+f58v,cosmo/zodiac,C2 -> C2 -> C4 -> C1 -> C1 -> C0,4,3,6
+f58v,cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0 -> C1,3,4,6
+f58v,cosmo/zodiac,C2 -> C0 -> C2 -> C0 -> C0 -> C3,3,4,6
+f58v,cosmo/zodiac,C1 -> C1 -> C0 -> C2 -> C0 -> C3,4,4,6
+f58v,cosmo/zodiac,C1 -> C2 -> C1 -> C0,3,3,4
+f58v,cosmo/zodiac,C2 -> C1 -> C1 -> C1 -> C2 -> C2,2,2,6
+f58v,cosmo/zodiac,C1 -> C0 -> C1 -> C2 -> C1 -> C2,3,5,6
+f58v,cosmo/zodiac,C1 -> C0 -> C0 -> C2 -> C2,3,2,5
+f58v,cosmo/zodiac,C1 -> C1 -> C1 -> C0 -> C3 -> C3,3,2,6
+f58v,cosmo/zodiac,C1 -> C2,2,1,2
+f58v,cosmo/zodiac,C0 -> C0 -> C1 -> C1,2,1,4
+f5r,herbal-A,C0 -> C2 -> C0,2,2,3
+f5r,herbal-A,C1 -> C1 -> C0 -> C4 -> C0,3,3,5
+f5r,herbal-A,C2 -> C0 -> C3 -> C0 -> C0 -> C0,3,3,6
+f5r,herbal-A,C2 -> C0 -> C2 -> C0 -> C0,2,3,5
+f5r,herbal-A,C0 -> C0 -> C0 -> C0 -> C3 -> C0,2,2,6
+f5r,herbal-A,C0 -> C0 -> C4 -> C0,2,2,4
+f5r,herbal-A,C0 -> C3 -> C0 -> C0,2,2,4
+f5v,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f5v,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f5v,herbal-A,C0 -> C0,1,0,2
+f5v,herbal-A,C0 -> C1 -> C0 -> C0 -> C0,2,2,5
+f5v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f5v,herbal-A,C0 -> C0,1,0,2
+f65v,cosmo/zodiac,C1 -> C2,2,1,2
+f65v,cosmo/zodiac,C1 -> C0,2,1,2
+f65v,cosmo/zodiac,C0 -> C1 -> C0,2,2,3
+f65v,cosmo/zodiac,C2 -> C1 -> C0 -> C1,3,3,4
+f65v,cosmo/zodiac,C1 -> C1 -> C1 -> C0 -> C0 -> C1,2,2,6
+f65v,cosmo/zodiac,C0 -> C1 -> C1,2,1,3
+f66r,cosmo/zodiac,C1 -> C2 -> C3 -> C1 -> C0 -> C3,4,5,6
+f66r,cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,2,8
+f66r,cosmo/zodiac,C2 -> C1 -> C3 -> C0 -> C3 -> C1 -> C2,4,6,7
+f66r,cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C1,2,4,7
+f66r,cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,7
+f66r,cosmo/zodiac,C0 -> C1 -> C3 -> C1 -> C2,4,4,5
+f66r,cosmo/zodiac,C0 -> C2 -> C0,2,2,3
+f66r,cosmo/zodiac,C0 -> C0 -> C0 -> C2,2,1,4
+f66r,cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,3,7
+f66r,cosmo/zodiac,C3 -> C1 -> C3 -> C0 -> C0,3,3,5
+f66r,cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C0 -> C3 -> C3,3,3,7
+f66r,cosmo/zodiac,C4 -> C1 -> C3 -> C1 -> C1 -> C1,3,3,6
+f66r,cosmo/zodiac,C3 -> C2,2,1,2
+f66r,cosmo/zodiac,C0 -> C2 -> C2 -> C1,3,2,4
+f66r,cosmo/zodiac,C0 -> C3 -> C1 -> C0 -> C2,4,4,5
+f66r,cosmo/zodiac,C1 -> C2 -> C1 -> C0 -> C2 -> C0,3,5,6
+f66r,cosmo/zodiac,C0 -> C1 -> C1 -> C0 -> C1,2,3,5
+f66r,cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C1,2,1,5
+f66r,cosmo/zodiac,C1 -> C2 -> C3 -> C1 -> C3,3,4,5
+f66r,cosmo/zodiac,C2 -> C1 -> C1 -> C2 -> C0 -> C0,3,3,6
+f66r,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0 -> C0,2,2,6
+f66r,cosmo/zodiac,C1 -> C0 -> C0 -> C3 -> C4,4,3,5
+f66r,cosmo/zodiac,C1 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3 -> C3,4,6,8
+f66r,cosmo/zodiac,C1 -> C1 -> C3 -> C1 -> C2,3,3,5
+f66r,cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C1,3,3,5
+f66r,cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,6
+f66r,cosmo/zodiac,C1 -> C1 -> C0 -> C0 -> C0 -> C1,2,2,6
+f66r,cosmo/zodiac,C1 -> C1 -> C1,1,0,3
+f66r,cosmo/zodiac,C0 -> C3 -> C2 -> C1,4,3,4
+f66r,cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C0,2,1,5
+f66r,cosmo/zodiac,C3 -> C1 -> C1,2,1,3
+f66r,cosmo/zodiac,C3 -> C2 -> C3,2,2,3
+f66v,cosmo/zodiac,C3 -> C0 -> C1,3,2,3
+f66v,cosmo/zodiac,C2 -> C1 -> C2 -> C2 -> C2,2,2,5
+f66v,cosmo/zodiac,C1 -> C2 -> C2 -> C1,2,2,4
+f66v,cosmo/zodiac,C1 -> C3 -> C3 -> C2 -> C2,3,2,5
+f66v,cosmo/zodiac,C1 -> C1 -> C2 -> C2,2,1,4
+f66v,cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C3 -> C2,3,2,6
+f66v,cosmo/zodiac,C1 -> C3 -> C3 -> C2 -> C0 -> C3,4,4,6
+f66v,cosmo/zodiac,C0 -> C0 -> C3 -> C2 -> C3,3,3,5
+f66v,cosmo/zodiac,C1 -> C1 -> C1 -> C0,2,1,4
+f66v,cosmo/zodiac,C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3 -> C0,3,4,8
+f66v,cosmo/zodiac,C0 -> C0 -> C3 -> C0 -> C2 -> C2,3,3,6
+f66v,cosmo/zodiac,C3 -> C0 -> C2 -> C0 -> C3 -> C3,3,4,6
+f66v,cosmo/zodiac,C0 -> C2 -> C1 -> C0 -> C0,3,3,5
+f67r1,cosmo/zodiac,C1 -> C1,1,0,2
+f67r1,cosmo/zodiac,C1 -> C3,2,1,2
+f67r1,cosmo/zodiac,C0 -> C3 -> C1,3,2,3
+f67r1,cosmo/zodiac,C0 -> C3 -> C4,3,2,3
+f67r1,cosmo/zodiac,C1 -> C0 -> C3 -> C2 -> C2 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C3 -> C2 -> C2 -> C2,4,9,15
+f67r1,cosmo/zodiac,C0 -> C0 -> C2 -> C3 -> C2 -> C3 -> C1 -> C3 -> C3 -> C2 -> C0 -> C3 -> C3 -> C3 -> C4 -> C0 -> C0,5,11,17
+f67r1,cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C3 -> C0 -> C4 -> C1 -> C3 -> C2,5,9,16
+f67r2,cosmo/zodiac,C0 -> C2,2,1,2
+f67r2,cosmo/zodiac,C2 -> C2 -> C0,2,1,3
+f67r2,cosmo/zodiac,C1 -> C2,2,1,2
+f67r2,cosmo/zodiac,C0 -> C0,1,0,2
+f67r2,cosmo/zodiac,C1 -> C0 -> C0,2,1,3
+f67r2,cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1,2,2,5
+f67v1,cosmo/zodiac,C3 -> C0 -> C3,2,2,3
+f67v1,cosmo/zodiac,C0 -> C0,1,0,2
+f67v1,cosmo/zodiac,C3 -> C1,2,1,2
+f67v1,cosmo/zodiac,C3 -> C2,2,1,2
+f67v1,cosmo/zodiac,C2 -> C4 -> C3,3,2,3
+f67v1,cosmo/zodiac,C2 -> C1 -> C0,3,2,3
+f67v2,cosmo/zodiac,C3 -> C0,2,1,2
+f67v2,cosmo/zodiac,C3 -> C2,2,1,2
+f68r1,cosmo/zodiac,C0 -> C2 -> C0 -> C0 -> C0 -> C0 -> C0,2,2,7
+f68r1,cosmo/zodiac,C2 -> C1 -> C4 -> C3 -> C2 -> C0 -> C0,5,5,7
+f68r1,cosmo/zodiac,C1 -> C0,2,1,2
+f68r1,cosmo/zodiac,C2 -> C2 -> C2,1,0,3
+f68r1,cosmo/zodiac,C0 -> C2,2,1,2
+f68r2,cosmo/zodiac,C1 -> C0 -> C1 -> C0 -> C0,2,3,5
+f68r2,cosmo/zodiac,C0 -> C2 -> C1 -> C0 -> C0,3,3,5
+f68r2,cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C2,3,3,7
+f68r2,cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C3 -> C3,3,3,6
+f68r2,cosmo/zodiac,C0 -> C3 -> C0 -> C0 -> C0,2,2,5
+f68r2,cosmo/zodiac,C3 -> C0 -> C2,3,2,3
+f68r2,cosmo/zodiac,C3 -> C2 -> C2 -> C0 -> C2 -> C0 -> C2,3,5,7
+f68r3,cosmo/zodiac,C1 -> C0 -> C0 -> C0 -> C1 -> C3 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1 -> C1 -> C3 -> C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3,3,13,24
+f68r3,cosmo/zodiac,C2 -> C2,1,0,2
+f68r3,cosmo/zodiac,C1 -> C0 -> C2,3,2,3
+f68r3,cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f68r3,cosmo/zodiac,C0 -> C2 -> C2,2,1,3
+f68r3,cosmo/zodiac,C0 -> C0 -> C0,1,0,3
+f68r3,cosmo/zodiac,C0 -> C2 -> C1 -> C4 -> C2,4,4,5
+f68r3,cosmo/zodiac,C0 -> C1 -> C3 -> C0,3,3,4
+f68r3,cosmo/zodiac,C0 -> C0,1,0,2
+f68r3,cosmo/zodiac,C3 -> C1 -> C3,2,2,3
+f68r3,cosmo/zodiac,C4 -> C1 -> C4 -> C2,3,3,4
+f68v1,cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C1 -> C3 -> C0 -> C4,5,15,21
+f68v1,cosmo/zodiac,C2 -> C3 -> C3 -> C3 -> C0 -> C1 -> C0 -> C3 -> C3 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C3 -> C1 -> C3 -> C3,4,12,22
+f68v1,cosmo/zodiac,C0 -> C3 -> C2,3,2,3
+f68v1,cosmo/zodiac,C1 -> C3 -> C3,2,1,3
+f68v1,cosmo/zodiac,C1 -> C0,2,1,2
+f68v2,cosmo/zodiac,C1 -> C0 -> C1 -> C0,2,3,4
+f68v2,cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f68v2,cosmo/zodiac,C1 -> C1 -> C1 -> C1,1,0,4
+f68v2,cosmo/zodiac,C1 -> C0 -> C1 -> C1 -> C1 -> C0 -> C3,3,4,7
+f68v2,cosmo/zodiac,C1 -> C0 -> C3,3,2,3
+f68v2,cosmo/zodiac,C3 -> C1 -> C1 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C2 -> C3 -> C3 -> C2 -> C4 -> C3 -> C0 -> C0 -> C1 -> C0 -> C0,5,11,21
+f68v3,cosmo/zodiac,C1 -> C3 -> C0 -> C0 -> C0 -> C0 -> C4 -> C0 -> C3 -> C0,4,6,10
+f68v3,cosmo/zodiac,C0 -> C1 -> C3 -> C2 -> C2 -> C1,4,4,6
+f68v3,cosmo/zodiac,C1 -> C3,2,1,2
+f68v3,cosmo/zodiac,C3 -> C3,1,0,2
+f68v3,cosmo/zodiac,C3 -> C2,2,1,2
+f68v3,cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C3 -> C2,3,2,6
+f68v3,cosmo/zodiac,C0 -> C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C0 -> C0 -> C0 -> C2,3,6,11
+f68v3,cosmo/zodiac,C0 -> C0 -> C0 -> C3 -> C3,2,1,5
+f68v3,cosmo/zodiac,C4 -> C2,2,1,2
+f68v3,cosmo/zodiac,C2 -> C0 -> C0 -> C3 -> C2 -> C3 -> C3 -> C4 -> C3 -> C0 -> C0 -> C2 -> C1 -> C4 -> C4 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C0 -> C2 -> C0 -> C2,5,19,27
+f68v3,cosmo/zodiac,C0 -> C1 -> C0,2,2,3
+f68v3,cosmo/zodiac,C2 -> C1,2,1,2
+f68v3,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0,2,2,5
+f68v3,cosmo/zodiac,C0 -> C1 -> C0 -> C0,2,2,4
+f69r,cosmo/zodiac,C3 -> C1 -> C4 -> C1 -> C1 -> C2 -> C2,4,4,7
+f69r,cosmo/zodiac,C0 -> C2,2,1,2
+f69r,cosmo/zodiac,C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C2,3,4,7
+f69r,cosmo/zodiac,C0 -> C0,1,0,2
+f69r,cosmo/zodiac,C3 -> C0 -> C2,3,2,3
+f69r,cosmo/zodiac,C3 -> C3,1,0,2
+f69r,cosmo/zodiac,C0 -> C0,1,0,2
+f69r,cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0,2,2,5
+f69r,cosmo/zodiac,C3 -> C2,2,1,2
+f69r,cosmo/zodiac,C3 -> C2,2,1,2
+f69r,cosmo/zodiac,C0 -> C1,2,1,2
+f69r,cosmo/zodiac,C3 -> C1,2,1,2
+f69r,cosmo/zodiac,C2 -> C0 -> C2 -> C0,2,3,4
+f69r,cosmo/zodiac,C3 -> C0,2,1,2
+f69r,cosmo/zodiac,C0 -> C1,2,1,2
+f69r,cosmo/zodiac,C0 -> C2 -> C3 -> C0 -> C3,3,4,5
+f69r,cosmo/zodiac,C3 -> C0 -> C2,3,2,3
+f69r,cosmo/zodiac,C1 -> C4,2,1,2
+f69r,cosmo/zodiac,C0 -> C2,2,1,2
+f69v,cosmo/zodiac,C3 -> C2 -> C2 -> C0 -> C3 -> C3 -> C2 -> C1 -> C1 -> C4 -> C2 -> C1 -> C2 -> C3 -> C3 -> C2 -> C2 -> C0 -> C3 -> C2 -> C3 -> C0 -> C2,5,17,23
+f69v,cosmo/zodiac,C0 -> C4 -> C0 -> C1 -> C0 -> C2 -> C2 -> C0 -> C0 -> C4 -> C0 -> C4,4,9,12
+f69v,cosmo/zodiac,C2 -> C2 -> C2 -> C0 -> C3 -> C0 -> C1 -> C2 -> C3 -> C0 -> C3 -> C0 -> C2 -> C3 -> C3 -> C4 -> C3 -> C3 -> C3,5,13,19
+f6r,herbal-A,C0 -> C0 -> C0 -> C2,2,1,4
+f6r,herbal-A,C0 -> C0 -> C0 -> C1,2,1,4
+f6r,herbal-A,C0 -> C0,1,0,2
+f6r,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f6r,herbal-A,C0 -> C0 -> C0,1,0,3
+f6r,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f6r,herbal-A,C0 -> C1,2,1,2
+f6r,herbal-A,C0 -> C0 -> C2,2,1,3
+f6r,herbal-A,C0 -> C2 -> C0,2,2,3
+f6v,herbal-A,C3 -> C0 -> C2 -> C2 -> C2 -> C0,3,3,6
+f6v,herbal-A,C0 -> C2,2,1,2
+f6v,herbal-A,C2 -> C2,1,0,2
+f6v,herbal-A,C0 -> C1,2,1,2
+f6v,herbal-A,C0 -> C0 -> C2,2,1,3
+f6v,herbal-A,C0 -> C0,1,0,2
+f6v,herbal-A,C0 -> C0,1,0,2
+f6v,herbal-A,C0 -> C2 -> C3 -> C4 -> C0 -> C0,4,4,6
+f6v,herbal-A,C0 -> C0 -> C0,1,0,3
+f6v,herbal-A,C0 -> C3 -> C0,2,2,3
+f6v,herbal-A,C1 -> C0 -> C0,2,1,3
+f6v,herbal-A,C0 -> C0 -> C2,2,1,3
+f6v,herbal-A,C0 -> C0,1,0,2
+f6v,herbal-A,C0 -> C4 -> C0,2,2,3
+f70r1,cosmo/zodiac,C1 -> C3 -> C3 -> C3 -> C0 -> C2 -> C3 -> C3 -> C3,4,4,9
+f70r1,cosmo/zodiac,C3 -> C0 -> C0 -> C1 -> C2 -> C0 -> C3 -> C3 -> C3 -> C0 -> C0 -> C0 -> C1 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1 -> C3 -> C3 -> C0,4,13,23
+f70r1,cosmo/zodiac,C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C1 -> C2 -> C1 -> C3 -> C2 -> C0 -> C3 -> C3 -> C3 -> C0 -> C2 -> C2 -> C3 -> C0,4,14,20
+f70r2,cosmo/zodiac,C4 -> C0 -> C2 -> C1 -> C2 -> C1,4,5,6
+f70r2,cosmo/zodiac,C0 -> C0 -> C0 -> C4 -> C2,3,2,5
+f70r2,cosmo/zodiac,C0 -> C1 -> C0 -> C0,2,2,4
+f70r2,cosmo/zodiac,C1 -> C1 -> C0 -> C1 -> C2,3,3,5
+f70r2,cosmo/zodiac,C2 -> C4 -> C3 -> C2 -> C2,3,3,5
+f70r2,cosmo/zodiac,C1 -> C0 -> C0 -> C0 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C0 -> C2 -> C3 -> C3 -> C3 -> C2 -> C2,4,6,18
+f70r2,cosmo/zodiac,C2 -> C3 -> C0 -> C0 -> C4 -> C3 -> C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C3,5,11,18
+f70r2,cosmo/zodiac,C3 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0 -> C0 -> C0 -> C3 -> C3 -> C2 -> C0 -> C1 -> C3 -> C0 -> C0 -> C0,4,11,18
+f70r2,cosmo/zodiac,C4 -> C0 -> C3 -> C2 -> C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C4 -> C2 -> C1 -> C0 -> C0 -> C0,5,9,17
+f70r2,cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C0 -> C0,2,3,6
+f70r2,cosmo/zodiac,C4 -> C0 -> C0 -> C3,3,2,4
+f70r2,cosmo/zodiac,C1 -> C1 -> C1 -> C3,2,1,4
+f70r2,cosmo/zodiac,C1 -> C0 -> C2 -> C0,3,3,4
+f70r2,cosmo/zodiac,C3 -> C2 -> C2 -> C2,2,1,4
+f70r2,cosmo/zodiac,C1 -> C1,1,0,2
+f70r2,cosmo/zodiac,C0 -> C0,1,0,2
+f70v1,cosmo/zodiac,C3 -> C0 -> C0 -> C0 -> C0 -> C4 -> C3 -> C0 -> C2 -> C3 -> C3 -> C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C1 -> C1,5,16,23
+f70v1,cosmo/zodiac,C1 -> C2 -> C0 -> C3 -> C0 -> C0 -> C1 -> C2 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3,4,7,14
+f70v1,cosmo/zodiac,C3 -> C2 -> C3,2,2,3
+f70v2,cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C3 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C3 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C3,4,17,26
+f70v2,cosmo/zodiac,C2 -> C2 -> C3 -> C3 -> C4 -> C2 -> C3 -> C0 -> C1 -> C3 -> C3 -> C3 -> C3 -> C0 -> C1 -> C1 -> C1,5,9,17
+f70v2,cosmo/zodiac,C2 -> C2 -> C2 -> C3 -> C2 -> C1 -> C2 -> C3 -> C3 -> C3,3,5,10
+f71r,cosmo/zodiac,C3 -> C1 -> C2 -> C0 -> C3 -> C3 -> C3 -> C4 -> C0 -> C3 -> C3 -> C3 -> C0 -> C2 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C3 -> C0 -> C0,5,15,23
+f71r,cosmo/zodiac,C3 -> C3 -> C3 -> C2 -> C1 -> C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C1 -> C3 -> C3 -> C1,3,6,16
+f71r,cosmo/zodiac,C3 -> C2 -> C2 -> C2 -> C3 -> C0 -> C1 -> C3 -> C0,4,6,9
+f71v,cosmo/zodiac,C3 -> C1 -> C3 -> C3 -> C0 -> C1 -> C0 -> C1 -> C0 -> C2 -> C2 -> C3 -> C2 -> C3 -> C3 -> C3 -> C3 -> C0 -> C2,4,13,19
+f71v,cosmo/zodiac,C2 -> C3 -> C1 -> C2 -> C3 -> C2 -> C4 -> C4 -> C2 -> C2 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3 -> C4 -> C2 -> C1 -> C2 -> C0 -> C1,5,17,22
+f71v,cosmo/zodiac,C2 -> C2,1,0,2
+f71v,cosmo/zodiac,C1 -> C3 -> C2 -> C2 -> C2 -> C3 -> C2 -> C0 -> C3,4,6,9
+f72r1,cosmo/zodiac,C3 -> C2 -> C0 -> C3 -> C3 -> C1 -> C3 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C2 -> C3 -> C2 -> C2 -> C2 -> C0 -> C3 -> C3 -> C3 -> C2,4,17,27
+f72r1,cosmo/zodiac,C3 -> C3 -> C1 -> C0 -> C2 -> C2 -> C0 -> C2 -> C3 -> C0 -> C3 -> C2 -> C0 -> C2 -> C1 -> C1 -> C3 -> C0 -> C2 -> C1,4,16,20
+f72r1,cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C3 -> C2 -> C2 -> C2,3,3,8
+f72r1,cosmo/zodiac,C2 -> C2,1,0,2
+f72r2,cosmo/zodiac,C3 -> C0 -> C0 -> C3 -> C0 -> C3 -> C2 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,4,8,16
+f72r2,cosmo/zodiac,C2 -> C2 -> C3 -> C2 -> C2 -> C4 -> C2,3,4,7
+f72r2,cosmo/zodiac,C3 -> C3 -> C1 -> C3 -> C0 -> C0 -> C3 -> C2 -> C2 -> C4 -> C2 -> C0 -> C4 -> C3 -> C2 -> C0 -> C3 -> C3 -> C0 -> C2 -> C3,5,16,21
+f72r3,cosmo/zodiac,C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C3 -> C1 -> C3 -> C3 -> C2 -> C0 -> C3 -> C0 -> C3 -> C3 -> C0 -> C1 -> C3 -> C2 -> C0 -> C3 -> C1 -> C4 -> C3 -> C1 -> C3 -> C0 -> C0 -> C0 -> C1 -> C0,5,24,33
+f72r3,cosmo/zodiac,C2 -> C3 -> C1 -> C3 -> C3 -> C3 -> C2 -> C1 -> C0 -> C3 -> C3 -> C2 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C3,4,16,23
+f72r3,cosmo/zodiac,C3 -> C3 -> C1 -> C2 -> C3 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1 -> C1 -> C0 -> C0,4,7,14
+f72r3,cosmo/zodiac,C3 -> C1 -> C3,2,2,3
+f72v1,cosmo/zodiac,C3 -> C2 -> C2 -> C3 -> C3 -> C1 -> C3 -> C0 -> C4 -> C0 -> C3 -> C3 -> C2 -> C1 -> C2 -> C1 -> C0 -> C2 -> C1 -> C2 -> C3 -> C0 -> C3,5,19,23
+f72v1,cosmo/zodiac,C2 -> C0 -> C3 -> C1 -> C2 -> C2 -> C2 -> C1 -> C3 -> C3,4,6,10
+f72v1,cosmo/zodiac,C2 -> C3 -> C3 -> C3,2,1,4
+f72v2,cosmo/zodiac,C2 -> C2 -> C2 -> C3 -> C2 -> C0 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C3 -> C1 -> C0 -> C3 -> C1 -> C0 -> C3 -> C4 -> C1 -> C1 -> C3 -> C1 -> C0,5,18,25
+f72v2,cosmo/zodiac,C3 -> C3 -> C3 -> C0 -> C2 -> C0 -> C3 -> C1 -> C0 -> C3 -> C3 -> C1 -> C1 -> C0 -> C2 -> C0 -> C0 -> C0 -> C3,4,12,19
+f72v2,cosmo/zodiac,C2 -> C1 -> C0 -> C3 -> C3 -> C0 -> C0 -> C3,4,5,8
+f72v3,cosmo/zodiac,C2 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C3 -> C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C3 -> C3 -> C3 -> C0 -> C4 -> C1 -> C2 -> C3 -> C0,5,16,29
+f72v3,cosmo/zodiac,C2 -> C2 -> C3 -> C1 -> C0 -> C3 -> C3 -> C3 -> C1 -> C1 -> C3 -> C0 -> C1 -> C3 -> C3 -> C4 -> C3 -> C2 -> C3 -> C2 -> C2 -> C3,5,15,22
+f72v3,cosmo/zodiac,C3 -> C2 -> C3 -> C2 -> C1 -> C3 -> C0,4,6,7
+f73r,cosmo/zodiac,C3 -> C0 -> C2 -> C2 -> C3 -> C2 -> C4 -> C3 -> C4 -> C3,4,8,10
+f73r,cosmo/zodiac,C3 -> C3 -> C3 -> C3 -> C3 -> C3,1,0,6
+f73r,cosmo/zodiac,C3 -> C3 -> C3 -> C0 -> C3 -> C0 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C1 -> C0 -> C3,3,7,15
+f73v,cosmo/zodiac,C3 -> C3 -> C0 -> C2 -> C0 -> C1 -> C2 -> C0 -> C3 -> C3 -> C0 -> C1 -> C3 -> C3 -> C0 -> C4 -> C1,5,13,17
+f73v,cosmo/zodiac,C3 -> C2 -> C2 -> C2,2,1,4
+f73v,cosmo/zodiac,C2 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0 -> C3 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1 -> C2 -> C0 -> C1,4,12,17
+f75r,balneo,C3 -> C1 -> C1 -> C1 -> C2 -> C1,3,3,6
+f75r,balneo,C0 -> C2 -> C2 -> C1 -> C2 -> C3,4,4,6
+f75r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C3,3,3,6
+f75r,balneo,C1 -> C4 -> C1 -> C1,2,2,4
+f75r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f75r,balneo,C1 -> C1 -> C2 -> C1 -> C2,2,3,5
+f75r,balneo,C1 -> C3 -> C1 -> C2 -> C1,3,4,5
+f75r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1,2,2,6
+f75r,balneo,C1 -> C1 -> C1,1,0,3
+f75r,balneo,C1 -> C1 -> C2,2,1,3
+f75r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f75r,balneo,C1 -> C3 -> C3,2,1,3
+f75r,balneo,C1 -> C4 -> C1 -> C1,2,2,4
+f75r,balneo,C1 -> C1 -> C3 -> C1 -> C1,2,2,5
+f75r,balneo,C1 -> C1 -> C1 -> C3,2,1,4
+f75r,balneo,C1 -> C3,2,1,2
+f75r,balneo,C1 -> C1 -> C0,2,1,3
+f75r,balneo,C1 -> C0 -> C1 -> C2 -> C2 -> C2,3,3,6
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75r,balneo,C2 -> C3 -> C1 -> C1 -> C2,3,3,5
+f75r,balneo,C1 -> C2 -> C1,2,2,3
+f75r,balneo,C3 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C2,3,4,8
+f75r,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C4 -> C1 -> C1,3,4,8
+f75r,balneo,C1 -> C1 -> C2 -> C1 -> C2 -> C1,2,4,6
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f75r,balneo,C2 -> C2 -> C2 -> C2,1,0,4
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75r,balneo,C1 -> C1 -> C2 -> C2,2,1,4
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75r,balneo,C1 -> C1 -> C3,2,1,3
+f75r,balneo,C1 -> C2 -> C1 -> C1,2,2,4
+f75r,balneo,C1 -> C1 -> C1,1,0,3
+f75r,balneo,C1 -> C1 -> C1,1,0,3
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75r,balneo,C3 -> C1 -> C2 -> C2,3,2,4
+f75r,balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2,3,2,8
+f75r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C2,2,3,8
+f75r,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C0 -> C1,2,4,7
+f75r,balneo,C1 -> C3 -> C1 -> C1,2,2,4
+f75r,balneo,C1 -> C1 -> C2 -> C1 -> C1,2,2,5
+f75r,balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,2,6
+f75r,balneo,C4 -> C1 -> C1 -> C2 -> C1,3,3,5
+f75r,balneo,C2 -> C2 -> C1 -> C3 -> C1,3,3,5
+f75v,balneo,C1 -> C3 -> C2,3,2,3
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75v,balneo,C1 -> C4 -> C4 -> C1,2,2,4
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f75v,balneo,C1 -> C1 -> C1,1,0,3
+f75v,balneo,C0 -> C1 -> C1 -> C1,2,1,4
+f75v,balneo,C1 -> C1 -> C1,1,0,3
+f75v,balneo,C1 -> C1 -> C2 -> C2 -> C2,2,1,5
+f75v,balneo,C1 -> C4 -> C2 -> C2 -> C1,3,3,5
+f75v,balneo,C1 -> C0 -> C1 -> C1 -> C4 -> C1,3,4,6
+f75v,balneo,C1 -> C1 -> C4 -> C1 -> C1,2,2,5
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C0,4,3,9
+f75v,balneo,C1 -> C1 -> C2 -> C2,2,1,4
+f75v,balneo,C1 -> C3 -> C1 -> C1 -> C4,3,3,5
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C3,2,1,5
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,2,2,7
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,6
+f75v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,6
+f75v,balneo,C1 -> C2 -> C1,2,2,3
+f75v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f75v,balneo,C1 -> C0,2,1,2
+f75v,balneo,C1 -> C1 -> C2,2,1,3
+f75v,balneo,C1 -> C2,2,1,2
+f75v,balneo,C3 -> C4 -> C1,3,2,3
+f75v,balneo,C1 -> C1,1,0,2
+f75v,balneo,C1 -> C1,1,0,2
+f75v,balneo,C2 -> C1 -> C1 -> C0,3,2,4
+f75v,balneo,C1 -> C2 -> C1,2,2,3
+f75v,balneo,C1 -> C0 -> C2,3,2,3
+f75v,balneo,C3 -> C4,2,1,2
+f75v,balneo,C2 -> C1 -> C3 -> C3 -> C1 -> C1 -> C2,3,4,7
+f75v,balneo,C1 -> C3,2,1,2
+f76r,balneo,C2 -> C2 -> C2,1,0,3
+f76r,balneo,C1 -> C1 -> C1 -> C2 -> C3 -> C2 -> C2,3,3,7
+f76r,balneo,C1 -> C1 -> C0 -> C1,2,2,4
+f76r,balneo,C1 -> C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C3 -> C1,3,5,9
+f76r,balneo,C0 -> C1 -> C3 -> C2 -> C1 -> C1,4,4,6
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C3,2,3,10
+f76r,balneo,C4 -> C2 -> C1 -> C0 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,5,8,10
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3,2,1,8
+f76r,balneo,C1 -> C1 -> C3 -> C2 -> C0 -> C1 -> C1 -> C1,4,4,8
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,3,7
+f76r,balneo,C2 -> C1 -> C2 -> C1 -> C1 -> C1,2,3,6
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,2,9
+f76r,balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C1,2,2,6
+f76r,balneo,C4 -> C1 -> C2 -> C4 -> C4 -> C4,3,3,6
+f76r,balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C2 -> C1,3,4,7
+f76r,balneo,C1 -> C2 -> C0 -> C1 -> C4 -> C1 -> C2,4,6,7
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,2,1,9
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C0 -> C1,2,2,10
+f76r,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0,2,2,7
+f76r,balneo,C3 -> C2 -> C4 -> C1 -> C0 -> C0 -> C1 -> C1 -> C0,5,6,9
+f76r,balneo,C1 -> C1 -> C0 -> C2 -> C1 -> C1,3,3,6
+f76r,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,8
+f76r,balneo,C1 -> C1 -> C2 -> C3 -> C0 -> C2 -> C1 -> C2 -> C2,4,6,9
+f76r,balneo,C1 -> C1 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0,3,3,8
+f76r,balneo,C3 -> C4 -> C1 -> C2,4,3,4
+f76r,balneo,C1 -> C1 -> C2 -> C2,2,1,4
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,9
+f76r,balneo,C4 -> C4 -> C2 -> C1 -> C1 -> C2,3,3,6
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,3,2,7
+f76r,balneo,C1 -> C0 -> C1 -> C2 -> C2,3,3,5
+f76r,balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C2,2,3,7
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,3,8
+f76r,balneo,C2 -> C1 -> C1 -> C1 -> C2,2,2,5
+f76r,balneo,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,3,4,7
+f76r,balneo,C2 -> C0 -> C2 -> C1,3,3,4
+f76r,balneo,C1 -> C1 -> C2 -> C3 -> C1 -> C2 -> C2 -> C1 -> C2,3,6,9
+f76r,balneo,C1 -> C1 -> C2,2,1,3
+f76r,balneo,C1 -> C1 -> C1,1,0,3
+f76r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2,2,3,6
+f76r,balneo,C1 -> C3 -> C2 -> C1 -> C1 -> C1 -> C2 -> C3,3,5,8
+f76r,balneo,C1 -> C3 -> C2 -> C0,4,3,4
+f76r,balneo,C1 -> C1 -> C3 -> C3,2,1,4
+f76r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f76r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C3,2,1,7
+f76r,balneo,C3 -> C3 -> C1 -> C1 -> C1 -> C4 -> C1 -> C3,3,4,8
+f76r,balneo,C1 -> C1 -> C2 -> C0 -> C1,3,3,5
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f76v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,8
+f76v,balneo,C1 -> C1 -> C2 -> C1 -> C3 -> C3 -> C0 -> C1,4,5,8
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f76v,balneo,C1 -> C3 -> C1 -> C3,2,3,4
+f76v,balneo,C3 -> C1 -> C1 -> C0,3,2,4
+f76v,balneo,C0 -> C0 -> C1 -> C1 -> C2,3,2,5
+f76v,balneo,C1 -> C0 -> C3,3,2,3
+f76v,balneo,C1 -> C2 -> C1 -> C1 -> C3 -> C3 -> C3,3,3,7
+f76v,balneo,C0 -> C3 -> C0 -> C1 -> C1 -> C1,3,3,6
+f76v,balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,7
+f76v,balneo,C3 -> C2 -> C2 -> C3 -> C4 -> C1,4,4,6
+f76v,balneo,C1 -> C1 -> C4 -> C1 -> C1 -> C1,2,2,6
+f76v,balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,8
+f76v,balneo,C1 -> C1 -> C1,1,0,3
+f76v,balneo,C0 -> C1 -> C3 -> C3 -> C3 -> C1 -> C2,4,4,7
+f76v,balneo,C1 -> C1 -> C3 -> C2,3,2,4
+f76v,balneo,C1 -> C0 -> C1 -> C1,2,2,4
+f76v,balneo,C1 -> C1 -> C1 -> C3 -> C2,3,2,5
+f76v,balneo,C1 -> C1 -> C1 -> C3 -> C4 -> C1 -> C2,4,4,7
+f76v,balneo,C1 -> C3 -> C0 -> C2 -> C1 -> C1 -> C1,4,4,7
+f76v,balneo,C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C2 -> C1,3,5,8
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0 -> C2,3,3,8
+f76v,balneo,C2 -> C1,2,1,2
+f76v,balneo,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f76v,balneo,C1 -> C1,1,0,2
+f76v,balneo,C0 -> C1,2,1,2
+f76v,balneo,C3 -> C2 -> C1 -> C1 -> C1,3,2,5
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C4,2,1,5
+f76v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f76v,balneo,C1 -> C0 -> C2 -> C2,3,2,4
+f76v,balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C1 -> C2,3,3,7
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f76v,balneo,C2 -> C2 -> C2 -> C1 -> C1 -> C3,3,2,6
+f76v,balneo,C1 -> C1 -> C2 -> C0 -> C2,3,3,5
+f76v,balneo,C2 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C3,4,4,8
+f76v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f76v,balneo,C0 -> C4 -> C4 -> C1,3,2,4
+f77r,balneo,C1 -> C1 -> C1 -> C0 -> C2 -> C1 -> C3,4,4,7
+f77r,balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,3,9
+f77r,balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C3,2,3,6
+f77r,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1,2,2,6
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f77r,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,7
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f77r,balneo,C1 -> C3 -> C1 -> C1 -> C1,2,2,5
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C4,2,1,6
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,7
+f77r,balneo,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,7
+f77r,balneo,C1 -> C0 -> C3 -> C4 -> C1 -> C1,4,4,6
+f77r,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f77r,balneo,C0 -> C1,2,1,2
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f77r,balneo,C1 -> C1 -> C1 -> C2 -> C1,2,2,5
+f77r,balneo,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f77r,balneo,C1 -> C1,1,0,2
+f77r,balneo,C3 -> C1 -> C1 -> C2,3,2,4
+f77r,balneo,C1 -> C2 -> C3,3,2,3
+f77r,balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1,2,2,6
+f77r,balneo,C0 -> C3 -> C4,3,2,3
+f77r,balneo,C1 -> C1 -> C3,2,1,3
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3,2,1,6
+f77r,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C3 -> C3,3,2,7
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C0,2,1,5
+f77r,balneo,C4 -> C1 -> C1 -> C1 -> C4,2,2,5
+f77r,balneo,C1 -> C1 -> C2 -> C1,2,2,4
+f77r,balneo,C4 -> C1 -> C1,2,1,3
+f77r,balneo,C2 -> C1 -> C1 -> C0 -> C0,3,2,5
+f77r,balneo,C0 -> C1 -> C2 -> C2,3,2,4
+f77r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f77r,balneo,C3 -> C1 -> C1 -> C1 -> C1,2,1,5
+f77r,balneo,C1 -> C1 -> C1 -> C4,2,1,4
+f77r,balneo,C1 -> C3 -> C2,3,2,3
+f77r,balneo,C2 -> C0 -> C3,3,2,3
+f77r,balneo,C0 -> C4,2,1,2
+f77v,balneo,C3 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,7
+f77v,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f77v,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C2,2,3,8
+f77v,balneo,C0 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,3,2,8
+f77v,balneo,C2 -> C1 -> C1 -> C1 -> C1,2,1,5
+f77v,balneo,C1 -> C1 -> C1,1,0,3
+f77v,balneo,C1 -> C0 -> C1 -> C1,2,2,4
+f77v,balneo,C1 -> C1 -> C2 -> C1,2,2,4
+f77v,balneo,C0 -> C1,2,1,2
+f77v,balneo,C1 -> C1 -> C1,1,0,3
+f77v,balneo,C1 -> C1 -> C1,1,0,3
+f77v,balneo,C1 -> C2 -> C1,2,2,3
+f77v,balneo,C1 -> C3 -> C1 -> C1 -> C3,2,3,5
+f77v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f77v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f77v,balneo,C1 -> C0 -> C1 -> C1 -> C2 -> C0,3,4,6
+f77v,balneo,C1 -> C1 -> C3 -> C3 -> C1 -> C1,2,2,6
+f77v,balneo,C1 -> C1 -> C0,2,1,3
+f77v,balneo,C2 -> C1 -> C1 -> C0,3,2,4
+f77v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f77v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f77v,balneo,C1 -> C1 -> C3 -> C1,2,2,4
+f77v,balneo,C1 -> C3 -> C1 -> C1 -> C2,3,3,5
+f77v,balneo,C2 -> C1,2,1,2
+f77v,balneo,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,3,7
+f77v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C4,3,2,6
+f77v,balneo,C2 -> C1 -> C4 -> C1,3,3,4
+f77v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f77v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C2,3,3,7
+f77v,balneo,C1 -> C2 -> C4 -> C1 -> C1 -> C1 -> C1,3,3,7
+f77v,balneo,C1 -> C1 -> C2,2,1,3
+f77v,balneo,C4 -> C1 -> C1 -> C0 -> C0,3,2,5
+f77v,balneo,C1 -> C0 -> C2 -> C1 -> C1 -> C1,3,3,6
+f77v,balneo,C1 -> C2 -> C1 -> C1,2,2,4
+f77v,balneo,C1 -> C1 -> C1 -> C1 -> C0,2,1,5
+f77v,balneo,C0 -> C1 -> C0 -> C2 -> C1 -> C1 -> C1,3,4,7
+f78r,balneo,C1 -> C1 -> C1 -> C2 -> C3,3,2,5
+f78r,balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C1,2,2,6
+f78r,balneo,C1 -> C0 -> C1 -> C2,3,3,4
+f78r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f78r,balneo,C3 -> C2 -> C1 -> C1,3,2,4
+f78r,balneo,C2 -> C2 -> C1 -> C1 -> C3,3,2,5
+f78r,balneo,C0 -> C3 -> C2 -> C3,3,3,4
+f78r,balneo,C1 -> C1 -> C2,2,1,3
+f78r,balneo,C3 -> C1 -> C1 -> C2,3,2,4
+f78r,balneo,C1 -> C1,1,0,2
+f78r,balneo,C1 -> C3,2,1,2
+f78r,balneo,C1 -> C2,2,1,2
+f78r,balneo,C0 -> C1,2,1,2
+f78r,balneo,C1 -> C1 -> C1,1,0,3
+f78r,balneo,C1 -> C1,1,0,2
+f78r,balneo,C1 -> C0 -> C2,3,2,3
+f78r,balneo,C2 -> C2 -> C0 -> C2 -> C0,2,3,5
+f78r,balneo,C1 -> C1 -> C1 -> C0 -> C2,3,2,5
+f78r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f78r,balneo,C1 -> C1 -> C2 -> C1 -> C2,2,3,5
+f78r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f78r,balneo,C1 -> C2,2,1,2
+f78r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f78r,balneo,C3 -> C1 -> C3,2,2,3
+f78r,balneo,C1 -> C1,1,0,2
+f78r,balneo,C1 -> C1 -> C1,1,0,3
+f78r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f78r,balneo,C1 -> C1 -> C1,1,0,3
+f78r,balneo,C2 -> C1 -> C1,2,1,3
+f78r,balneo,C3 -> C1 -> C1 -> C1,2,1,4
+f78r,balneo,C2 -> C1 -> C1 -> C2 -> C0,3,3,5
+f78r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f78r,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,2,2,7
+f78r,balneo,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f78v,balneo,C1 -> C1 -> C1,1,0,3
+f78v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f78v,balneo,C1 -> C1 -> C2 -> C1 -> C2,2,3,5
+f78v,balneo,C0 -> C1 -> C1 -> C2 -> C1,3,3,5
+f78v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f78v,balneo,C1 -> C0 -> C1 -> C1,2,2,4
+f78v,balneo,C4 -> C1 -> C3 -> C2 -> C1,4,4,5
+f78v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f78v,balneo,C1 -> C2,2,1,2
+f78v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f78v,balneo,C3 -> C1 -> C1,2,1,3
+f78v,balneo,C1 -> C1 -> C2,2,1,3
+f78v,balneo,C1 -> C1 -> C2,2,1,3
+f78v,balneo,C1 -> C2 -> C1 -> C1,2,2,4
+f78v,balneo,C0 -> C1 -> C1 -> C2 -> C4 -> C0 -> C1,4,5,7
+f78v,balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,6
+f78v,balneo,C1 -> C1 -> C1 -> C1 -> C0,2,1,5
+f78v,balneo,C1 -> C2,2,1,2
+f78v,balneo,C1 -> C1 -> C2 -> C1 -> C2,2,3,5
+f78v,balneo,C1 -> C1 -> C1,1,0,3
+f78v,balneo,C1 -> C1 -> C2 -> C1 -> C2,2,3,5
+f78v,balneo,C4 -> C1 -> C1,2,1,3
+f78v,balneo,C1 -> C3 -> C1 -> C1,2,2,4
+f78v,balneo,C0 -> C1 -> C2 -> C1,3,3,4
+f78v,balneo,C0 -> C2 -> C2 -> C0,2,2,4
+f78v,balneo,C0 -> C0 -> C1 -> C2,3,2,4
+f78v,balneo,C2 -> C3 -> C2,2,2,3
+f78v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f78v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,3,3,8
+f78v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f78v,balneo,C0 -> C1 -> C3 -> C1 -> C1,3,3,5
+f79r,balneo,C1 -> C1 -> C2 -> C2 -> C1,2,2,5
+f79r,balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C0 -> C3,3,4,7
+f79r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C2,2,3,7
+f79r,balneo,C0 -> C4 -> C1 -> C1,3,2,4
+f79r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f79r,balneo,C1 -> C3 -> C2 -> C4 -> C4 -> C1,4,4,6
+f79r,balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C0,2,1,6
+f79r,balneo,C0 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,3,3,8
+f79r,balneo,C1 -> C0 -> C2 -> C3,4,3,4
+f79r,balneo,C1 -> C4 -> C1 -> C2 -> C2 -> C2,3,3,6
+f79r,balneo,C4 -> C0 -> C1 -> C1 -> C1 -> C0,3,3,6
+f79r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79r,balneo,C2 -> C3 -> C2,2,2,3
+f79r,balneo,C2 -> C1 -> C1 -> C2 -> C1,2,3,5
+f79r,balneo,C1 -> C2 -> C1,2,2,3
+f79r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f79r,balneo,C1 -> C1 -> C2 -> C4 -> C2,3,3,5
+f79r,balneo,C0 -> C0 -> C1 -> C1 -> C1 -> C3 -> C2,4,3,7
+f79r,balneo,C4 -> C2 -> C0,3,2,3
+f79r,balneo,C1 -> C1 -> C4 -> C0 -> C2 -> C2,4,3,6
+f79r,balneo,C1 -> C2 -> C2,2,1,3
+f79r,balneo,C1 -> C2 -> C0 -> C0,3,2,4
+f79r,balneo,C1 -> C2 -> C4 -> C1,3,3,4
+f79r,balneo,C1 -> C2,2,1,2
+f79r,balneo,C0 -> C1 -> C0 -> C1,2,3,4
+f79r,balneo,C1 -> C1 -> C2 -> C1,2,2,4
+f79r,balneo,C1 -> C1 -> C1 -> C1 -> C4 -> C1,2,2,6
+f79r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79r,balneo,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f79r,balneo,C1 -> C4 -> C1 -> C0 -> C1,3,4,5
+f79r,balneo,C1 -> C0 -> C4,3,2,3
+f79r,balneo,C0 -> C1,2,1,2
+f79r,balneo,C0 -> C1,2,1,2
+f79r,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f79r,balneo,C1 -> C3 -> C0 -> C2 -> C2,4,3,5
+f79r,balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1,2,2,6
+f79r,balneo,C2 -> C1 -> C2 -> C1,2,3,4
+f79r,balneo,C1 -> C1 -> C0 -> C1 -> C2 -> C1,3,4,6
+f79r,balneo,C1 -> C0,2,1,2
+f79r,balneo,C1 -> C1 -> C2 -> C2 -> C2 -> C4 -> C0 -> C0 -> C0,4,3,9
+f79r,balneo,C0 -> C2 -> C1 -> C4,4,3,4
+f79r,balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C4 -> C0 -> C1,3,5,8
+f79r,balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C0,3,4,7
+f79r,balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C1,2,2,6
+f79v,balneo,C0 -> C2,2,1,2
+f79v,balneo,C1 -> C1,1,0,2
+f79v,balneo,C1 -> C2 -> C2,2,1,3
+f79v,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f79v,balneo,C1 -> C3 -> C1 -> C1,2,2,4
+f79v,balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,2,2,7
+f79v,balneo,C1 -> C1 -> C0 -> C1,2,2,4
+f79v,balneo,C1 -> C1 -> C2,2,1,3
+f79v,balneo,C1 -> C0 -> C1 -> C3 -> C1 -> C2,4,5,6
+f79v,balneo,C1 -> C1 -> C1 -> C3 -> C1,2,2,5
+f79v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f79v,balneo,C1 -> C4 -> C0 -> C1 -> C1,3,3,5
+f79v,balneo,C1 -> C1 -> C2 -> C2 -> C1,2,2,5
+f79v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f79v,balneo,C1 -> C0,2,1,2
+f79v,balneo,C2 -> C2 -> C2 -> C0 -> C1,3,2,5
+f79v,balneo,C1 -> C1 -> C1 -> C3 -> C1,2,2,5
+f79v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79v,balneo,C2 -> C1 -> C0,3,2,3
+f79v,balneo,C0 -> C1 -> C2 -> C2 -> C1,3,3,5
+f79v,balneo,C1 -> C1 -> C3 -> C3 -> C2,3,2,5
+f79v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f79v,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,2,2,7
+f79v,balneo,C1 -> C1 -> C1,1,0,3
+f79v,balneo,C2 -> C1 -> C4 -> C1,3,3,4
+f79v,balneo,C1 -> C1 -> C1 -> C2 -> C0,3,2,5
+f79v,balneo,C4 -> C2 -> C0 -> C2 -> C1 -> C1,4,4,6
+f79v,balneo,C1 -> C1,1,0,2
+f79v,balneo,C2 -> C1 -> C1 -> C2 -> C3,3,3,5
+f79v,balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1,2,2,6
+f79v,balneo,C1 -> C1,1,0,2
+f79v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f79v,balneo,C1 -> C2 -> C0 -> C1 -> C1 -> C1,3,3,6
+f79v,balneo,C1 -> C2 -> C1,2,2,3
+f79v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79v,balneo,C1 -> C2 -> C1 -> C1,2,2,4
+f79v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f79v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f79v,balneo,C1 -> C1 -> C1,1,0,3
+f7r,herbal-A,C0 -> C1 -> C2,3,2,3
+f7r,herbal-A,C0 -> C0 -> C2,2,1,3
+f7r,herbal-A,C4 -> C0 -> C4 -> C0 -> C0,2,3,5
+f7r,herbal-A,C0 -> C1 -> C0 -> C2,3,3,4
+f7r,herbal-A,C0 -> C0 -> C0,1,0,3
+f7r,herbal-A,C0 -> C4 -> C0 -> C2 -> C3,4,4,5
+f7r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f7r,herbal-A,C4 -> C0 -> C2 -> C0,3,3,4
+f7r,herbal-A,C1 -> C0 -> C0 -> C0 -> C0,2,1,5
+f7v,herbal-A,C1 -> C0 -> C0 -> C0,2,1,4
+f7v,herbal-A,C0 -> C1,2,1,2
+f7v,herbal-A,C0 -> C2 -> C0 -> C4 -> C0,3,4,5
+f7v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f7v,herbal-A,C0 -> C0 -> C4 -> C4,2,1,4
+f7v,herbal-A,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f7v,herbal-A,C0 -> C0 -> C0,1,0,3
+f7v,herbal-A,C1 -> C0 -> C1 -> C4 -> C0,3,4,5
+f7v,herbal-A,C0 -> C0,1,0,2
+f80r,balneo,C2 -> C1,2,1,2
+f80r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1,2,4,8
+f80r,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,3,4,11
+f80r,balneo,C1 -> C2 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2,3,4,8
+f80r,balneo,C1 -> C1 -> C3 -> C1 -> C4 -> C1 -> C2 -> C0,5,6,8
+f80r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,2,1,8
+f80r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C1,3,3,9
+f80r,balneo,C0 -> C1 -> C3 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,3,5,9
+f80r,balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C2,3,6,9
+f80r,balneo,C1 -> C1 -> C2 -> C0 -> C2 -> C1 -> C1 -> C1,3,4,8
+f80r,balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C0 -> C2 -> C2,3,3,9
+f80r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,8
+f80r,balneo,C1 -> C1 -> C2,2,1,3
+f80r,balneo,C4 -> C2 -> C0 -> C2 -> C1 -> C3,5,5,6
+f80r,balneo,C1 -> C3 -> C2 -> C3,3,3,4
+f80r,balneo,C1 -> C1 -> C0 -> C1 -> C2,3,3,5
+f80r,balneo,C2 -> C2 -> C3,2,1,3
+f80r,balneo,C1 -> C0 -> C1 -> C2,3,3,4
+f80r,balneo,C4 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,7
+f80r,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C1,2,4,7
+f80r,balneo,C1 -> C3 -> C4 -> C2 -> C2 -> C1,4,4,6
+f80r,balneo,C1 -> C3 -> C1 -> C1 -> C2,3,3,5
+f80r,balneo,C1 -> C2 -> C2 -> C1,2,2,4
+f80r,balneo,C1 -> C1 -> C1,1,0,3
+f80r,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,3,9
+f80r,balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,6
+f80r,balneo,C2 -> C1 -> C1 -> C1 -> C0,3,2,5
+f80r,balneo,C0 -> C1 -> C0 -> C1 -> C1 -> C1,2,3,6
+f80r,balneo,C1 -> C1 -> C3 -> C2 -> C1,3,3,5
+f80r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f80r,balneo,C2 -> C1 -> C1 -> C1 -> C3,3,2,5
+f80r,balneo,C3 -> C3 -> C1 -> C1 -> C3 -> C1,2,3,6
+f80r,balneo,C1 -> C1 -> C3 -> C2 -> C1 -> C1,3,3,6
+f80r,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C3,3,3,6
+f80r,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C3,3,2,6
+f80r,balneo,C1 -> C4 -> C1 -> C1,2,2,4
+f80r,balneo,C2 -> C2 -> C4 -> C1,3,2,4
+f80r,balneo,C0 -> C4 -> C2 -> C1 -> C0 -> C1 -> C4,4,6,7
+f80r,balneo,C4 -> C4 -> C1 -> C2 -> C2,3,2,5
+f80r,balneo,C4 -> C1 -> C2 -> C0 -> C4 -> C2,4,5,6
+f80r,balneo,C0 -> C2 -> C2 -> C4,3,2,4
+f80r,balneo,C1 -> C1 -> C0,2,1,3
+f80r,balneo,C1 -> C0 -> C2,3,2,3
+f80v,balneo,C1 -> C1 -> C0,2,1,3
+f80v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f80v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f80v,balneo,C1 -> C1 -> C1 -> C0,2,1,4
+f80v,balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C0,3,2,6
+f80v,balneo,C1 -> C2 -> C4 -> C1 -> C2,3,4,5
+f80v,balneo,C0 -> C2 -> C2 -> C1 -> C2,3,3,5
+f80v,balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C3,3,3,6
+f80v,balneo,C2 -> C2,1,0,2
+f80v,balneo,C1 -> C1 -> C2 -> C2 -> C1,2,2,5
+f80v,balneo,C4 -> C1 -> C1 -> C2,3,2,4
+f80v,balneo,C2 -> C1 -> C2 -> C2,2,2,4
+f80v,balneo,C1 -> C1 -> C4 -> C1,2,2,4
+f80v,balneo,C1 -> C1 -> C0 -> C0 -> C1,2,2,5
+f80v,balneo,C1 -> C1 -> C0 -> C0 -> C2 -> C1 -> C1,3,3,7
+f80v,balneo,C0 -> C4 -> C1 -> C2 -> C3,5,4,5
+f80v,balneo,C0 -> C3 -> C4 -> C1,4,3,4
+f80v,balneo,C1 -> C1 -> C2 -> C2 -> C0,3,2,5
+f80v,balneo,C1 -> C0 -> C1 -> C1 -> C1,2,2,5
+f80v,balneo,C1 -> C2 -> C2 -> C1,2,2,4
+f80v,balneo,C1 -> C2 -> C2 -> C1,2,2,4
+f80v,balneo,C1 -> C1 -> C1,1,0,3
+f80v,balneo,C0 -> C1,2,1,2
+f80v,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f80v,balneo,C1 -> C1 -> C1,1,0,3
+f80v,balneo,C2 -> C1,2,1,2
+f80v,balneo,C2 -> C0 -> C1 -> C1,3,2,4
+f80v,balneo,C1 -> C1,1,0,2
+f80v,balneo,C4 -> C1 -> C3 -> C2 -> C1 -> C2,4,5,6
+f80v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f80v,balneo,C1 -> C3 -> C4 -> C2 -> C1 -> C2,4,5,6
+f80v,balneo,C1 -> C0 -> C1 -> C1 -> C2 -> C1,3,4,6
+f80v,balneo,C2 -> C1 -> C0 -> C2,3,3,4
+f80v,balneo,C1 -> C2 -> C1 -> C0,3,3,4
+f80v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f80v,balneo,C0 -> C1 -> C1 -> C3 -> C1 -> C1,3,3,6
+f80v,balneo,C4 -> C0 -> C1 -> C1 -> C4,3,3,5
+f80v,balneo,C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C0,3,3,7
+f80v,balneo,C2 -> C2 -> C1 -> C3 -> C1,3,3,5
+f81r,balneo,C1 -> C0,2,1,2
+f81r,balneo,C0 -> C1 -> C4 -> C1,3,3,4
+f81r,balneo,C1 -> C1,1,0,2
+f81r,balneo,C0 -> C1 -> C1 -> C1 -> C3,3,2,5
+f81r,balneo,C1 -> C1 -> C1,1,0,3
+f81r,balneo,C3 -> C1 -> C1 -> C1,2,1,4
+f81r,balneo,C1 -> C1 -> C1,1,0,3
+f81r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f81r,balneo,C4 -> C0 -> C0 -> C2 -> C1 -> C2,4,4,6
+f81r,balneo,C1 -> C1,1,0,2
+f81r,balneo,C1 -> C1 -> C3 -> C3,2,1,4
+f81r,balneo,C2 -> C1 -> C3,3,2,3
+f81r,balneo,C4 -> C2 -> C1 -> C4,3,3,4
+f81r,balneo,C1 -> C0 -> C1 -> C1,2,2,4
+f81r,balneo,C1 -> C2 -> C2 -> C2 -> C1,2,2,5
+f81r,balneo,C1 -> C3 -> C0 -> C1,3,3,4
+f81r,balneo,C1 -> C1 -> C1,1,0,3
+f81r,balneo,C1 -> C1 -> C1 -> C4 -> C3,3,2,5
+f81r,balneo,C1 -> C0 -> C4 -> C2,4,3,4
+f81r,balneo,C1 -> C3 -> C1 -> C2 -> C1,3,4,5
+f81r,balneo,C1 -> C1,1,0,2
+f81r,balneo,C1 -> C1 -> C0 -> C3,3,2,4
+f81r,balneo,C1 -> C1 -> C2,2,1,3
+f81r,balneo,C0 -> C1,2,1,2
+f81r,balneo,C3 -> C0 -> C1,3,2,3
+f81r,balneo,C1 -> C2 -> C2 -> C3 -> C2,3,3,5
+f81r,balneo,C1 -> C2 -> C1 -> C3,3,3,4
+f81r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f81v,balneo,C1 -> C1 -> C1,1,0,3
+f81v,balneo,C1 -> C1 -> C1 -> C0,2,1,4
+f81v,balneo,C1 -> C1 -> C2 -> C1 -> C2 -> C0,3,4,6
+f81v,balneo,C2 -> C1 -> C1 -> C3,3,2,4
+f81v,balneo,C2 -> C0 -> C2,2,2,3
+f81v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f81v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f81v,balneo,C1 -> C0 -> C2,3,2,3
+f81v,balneo,C1 -> C1 -> C1,1,0,3
+f81v,balneo,C2 -> C4 -> C3 -> C1 -> C1 -> C1 -> C2 -> C1,4,5,8
+f81v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C0,2,1,6
+f81v,balneo,C1 -> C2 -> C2,2,1,3
+f81v,balneo,C3 -> C1 -> C1 -> C1,2,1,4
+f81v,balneo,C1 -> C1 -> C2,2,1,3
+f81v,balneo,C1 -> C4 -> C1,2,2,3
+f81v,balneo,C0 -> C1 -> C1 -> C1,2,1,4
+f81v,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f81v,balneo,C1 -> C0 -> C1 -> C4 -> C4 -> C1 -> C2 -> C2,4,5,8
+f81v,balneo,C3 -> C1 -> C1 -> C0,3,2,4
+f81v,balneo,C0 -> C3 -> C1 -> C2,4,3,4
+f81v,balneo,C1 -> C1 -> C2,2,1,3
+f81v,balneo,C1 -> C2 -> C3 -> C2,3,3,4
+f81v,balneo,C2 -> C2 -> C2 -> C1 -> C1 -> C2,2,2,6
+f81v,balneo,C1 -> C2 -> C1 -> C0 -> C2,3,4,5
+f81v,balneo,C1 -> C1 -> C2,2,1,3
+f81v,balneo,C1 -> C1,1,0,2
+f81v,balneo,C1 -> C3,2,1,2
+f82r,balneo,C0 -> C1 -> C4 -> C1,3,3,4
+f82r,balneo,C1 -> C1 -> C0 -> C2 -> C1,3,3,5
+f82r,balneo,C1 -> C3 -> C2 -> C2,3,2,4
+f82r,balneo,C0 -> C1 -> C1 -> C3 -> C4,4,3,5
+f82r,balneo,C1 -> C4 -> C1 -> C1 -> C1,2,2,5
+f82r,balneo,C1 -> C1 -> C1 -> C2,2,1,4
+f82r,balneo,C1 -> C1 -> C4 -> C4,2,1,4
+f82r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f82r,balneo,C2 -> C1 -> C1 -> C3 -> C1,3,3,5
+f82r,balneo,C2 -> C2 -> C2 -> C1,2,1,4
+f82r,balneo,C1 -> C1 -> C1,1,0,3
+f82r,balneo,C1 -> C1 -> C0 -> C1,2,2,4
+f82r,balneo,C0 -> C4 -> C1 -> C1,3,2,4
+f82r,balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,6
+f82r,balneo,C4 -> C1 -> C4 -> C1,2,3,4
+f82r,balneo,C1 -> C0 -> C1 -> C1,2,2,4
+f82r,balneo,C1 -> C1,1,0,2
+f82r,balneo,C1 -> C1 -> C2 -> C3 -> C3 -> C1 -> C1,3,3,7
+f82r,balneo,C1 -> C1 -> C1,1,0,3
+f82r,balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C4 -> C1,4,5,8
+f82r,balneo,C4 -> C1 -> C1 -> C0 -> C0,3,2,5
+f82r,balneo,C1 -> C1 -> C2 -> C1,2,2,4
+f82r,balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,6
+f82r,balneo,C0 -> C0 -> C1 -> C1,2,1,4
+f82r,balneo,C1 -> C2 -> C1 -> C4,3,3,4
+f82r,balneo,C0 -> C0 -> C4,2,1,3
+f82r,balneo,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f82r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f82r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,3,3,7
+f82r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C4,2,1,6
+f82r,balneo,C1 -> C1 -> C4 -> C1 -> C2 -> C1 -> C3,4,5,7
+f82r,balneo,C1 -> C2 -> C1,2,2,3
+f82v,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1,2,2,6
+f82v,balneo,C1 -> C3 -> C1 -> C1 -> C1,2,2,5
+f82v,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,3,3,7
+f82v,balneo,C1 -> C1 -> C2 -> C1 -> C0 -> C2 -> C0,3,5,7
+f82v,balneo,C4 -> C1,2,1,2
+f82v,balneo,C1 -> C1 -> C1 -> C0,2,1,4
+f82v,balneo,C1 -> C4 -> C1 -> C4 -> C1 -> C2,3,5,6
+f82v,balneo,C1 -> C1 -> C2 -> C2 -> C1 -> C1 -> C2,2,3,7
+f82v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,7
+f82v,balneo,C0 -> C1 -> C2 -> C1 -> C2 -> C2 -> C3 -> C2 -> C2,4,6,9
+f82v,balneo,C1 -> C1,1,0,2
+f82v,balneo,C4 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2,3,2,7
+f82v,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C3,3,3,6
+f82v,balneo,C2 -> C1,2,1,2
+f82v,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f82v,balneo,C1 -> C0 -> C0 -> C2 -> C1 -> C1,3,3,6
+f82v,balneo,C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,7
+f82v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f82v,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f82v,balneo,C4 -> C1 -> C1 -> C1 -> C1 -> C2,3,2,6
+f82v,balneo,C4 -> C1 -> C1 -> C1,2,1,4
+f82v,balneo,C1 -> C4 -> C2 -> C2 -> C1,3,3,5
+f82v,balneo,C4 -> C1,2,1,2
+f82v,balneo,C2 -> C4 -> C4 -> C1,3,2,4
+f82v,balneo,C1 -> C3 -> C2 -> C2 -> C2,3,2,5
+f82v,balneo,C4 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,3,3,7
+f82v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f82v,balneo,C4 -> C0 -> C2,3,2,3
+f82v,balneo,C1 -> C1 -> C0,2,1,3
+f82v,balneo,C1 -> C1 -> C0 -> C2 -> C2,3,2,5
+f82v,balneo,C1 -> C0 -> C1 -> C1 -> C3,3,3,5
+f82v,balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C1,3,3,8
+f82v,balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,2,4,9
+f82v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f83r,balneo,C1 -> C3 -> C1,2,2,3
+f83r,balneo,C3 -> C2,2,1,2
+f83r,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C1,2,4,7
+f83r,balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,2,2,7
+f83r,balneo,C1 -> C1,1,0,2
+f83r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f83r,balneo,C1 -> C1 -> C4 -> C1 -> C1,2,2,5
+f83r,balneo,C1 -> C2 -> C3 -> C2 -> C1 -> C1 -> C3 -> C3,3,5,8
+f83r,balneo,C0 -> C1 -> C1,2,1,3
+f83r,balneo,C0 -> C0 -> C1 -> C1 -> C1 -> C1,2,1,6
+f83r,balneo,C1 -> C3 -> C1 -> C1 -> C1,2,2,5
+f83r,balneo,C4 -> C1 -> C0 -> C1 -> C1 -> C1,3,3,6
+f83r,balneo,C1 -> C1 -> C1 -> C3 -> C1 -> C1,2,2,6
+f83r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,6
+f83r,balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1,3,4,7
+f83r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1,2,2,9
+f83r,balneo,C3 -> C3 -> C2 -> C1,3,2,4
+f83r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f83r,balneo,C4 -> C1 -> C1 -> C1 -> C1,2,1,5
+f83r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f83r,balneo,C3 -> C1 -> C1 -> C1,2,1,4
+f83r,balneo,C2 -> C2 -> C4 -> C4 -> C1 -> C2,3,3,6
+f83r,balneo,C1 -> C1 -> C1,1,0,3
+f83r,balneo,C1 -> C1,1,0,2
+f83r,balneo,C1 -> C1,1,0,2
+f83r,balneo,C1 -> C1,1,0,2
+f83r,balneo,C1 -> C0,2,1,2
+f83r,balneo,C3 -> C3 -> C2 -> C2,2,1,4
+f83r,balneo,C0 -> C1 -> C1,2,1,3
+f83r,balneo,C0 -> C1,2,1,2
+f83r,balneo,C1 -> C1 -> C2,2,1,3
+f83r,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,2,7
+f83r,balneo,C2 -> C1,2,1,2
+f83r,balneo,C0 -> C1 -> C2,3,2,3
+f83r,balneo,C2 -> C2 -> C1,2,1,3
+f83r,balneo,C0 -> C2,2,1,2
+f83r,balneo,C1 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1,3,4,7
+f83r,balneo,C0 -> C2,2,1,2
+f83r,balneo,C3 -> C1 -> C1 -> C1 -> C1 -> C1,2,1,6
+f83r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f83r,balneo,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f83r,balneo,C3 -> C1 -> C2 -> C1,3,3,4
+f83v,balneo,C1 -> C2 -> C2 -> C1 -> C3,3,3,5
+f83v,balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1,2,2,7
+f83v,balneo,C1 -> C4 -> C1 -> C1 -> C1,2,2,5
+f83v,balneo,C4 -> C1 -> C1 -> C1 -> C2 -> C0,4,3,6
+f83v,balneo,C1 -> C0 -> C0 -> C0,2,1,4
+f83v,balneo,C1 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C2,4,6,8
+f83v,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,2,7
+f83v,balneo,C1 -> C3 -> C1 -> C0 -> C1 -> C1 -> C1,3,4,7
+f83v,balneo,C1 -> C1 -> C2 -> C1 -> C1,2,2,5
+f83v,balneo,C1 -> C1 -> C2 -> C2 -> C3 -> C3,3,2,6
+f83v,balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C4,4,4,8
+f83v,balneo,C0 -> C0 -> C1 -> C1 -> C2,3,2,5
+f83v,balneo,C1 -> C1 -> C0 -> C0 -> C1,2,2,5
+f83v,balneo,C2 -> C1 -> C0 -> C1 -> C1 -> C0,3,4,6
+f83v,balneo,C2 -> C0 -> C1 -> C1,3,2,4
+f83v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f83v,balneo,C1 -> C3 -> C0 -> C1 -> C1,3,3,5
+f83v,balneo,C2 -> C1 -> C1 -> C1 -> C1,2,1,5
+f83v,balneo,C0 -> C0 -> C1 -> C1 -> C3,3,2,5
+f83v,balneo,C0 -> C1 -> C1,2,1,3
+f83v,balneo,C2 -> C1 -> C4 -> C1,3,3,4
+f83v,balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C3,3,3,7
+f83v,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1,2,2,6
+f83v,balneo,C1 -> C1 -> C0,2,1,3
+f83v,balneo,C0 -> C1 -> C0,2,2,3
+f83v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C0,2,1,6
+f83v,balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C1 -> C2,3,4,9
+f83v,balneo,C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C0 -> C1,3,5,8
+f83v,balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,2,2,7
+f83v,balneo,C1 -> C2 -> C3 -> C4,4,3,4
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f84r,balneo,C1 -> C2 -> C1 -> C1 -> C1,2,2,5
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C4 -> C1,3,3,9
+f84r,balneo,C1 -> C0 -> C1 -> C1 -> C1,2,2,5
+f84r,balneo,C1 -> C1 -> C1,1,0,3
+f84r,balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,7
+f84r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C3,2,1,6
+f84r,balneo,C1 -> C0 -> C3 -> C2 -> C4 -> C2 -> C1 -> C1 -> C1 -> C1,5,6,10
+f84r,balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2,3,3,9
+f84r,balneo,C0 -> C1 -> C0 -> C1 -> C3 -> C1,3,5,6
+f84r,balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C4 -> C1 -> C4 -> C1,3,7,10
+f84r,balneo,C1 -> C2 -> C2 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,3,4,9
+f84r,balneo,C0 -> C2 -> C1 -> C1,3,2,4
+f84r,balneo,C2 -> C2 -> C1 -> C0,3,2,4
+f84r,balneo,C1 -> C1 -> C3 -> C2 -> C1,3,3,5
+f84r,balneo,C2 -> C1 -> C2 -> C3 -> C1 -> C1,3,4,6
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f84r,balneo,C2 -> C1 -> C1 -> C2,2,2,4
+f84r,balneo,C0 -> C2 -> C1 -> C0 -> C3,4,4,5
+f84r,balneo,C1 -> C1 -> C3 -> C1 -> C2,3,3,5
+f84r,balneo,C1 -> C3 -> C0 -> C1,3,3,4
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C4,3,2,8
+f84r,balneo,C1 -> C0 -> C1 -> C1 -> C1,2,2,5
+f84r,balneo,C0 -> C1,2,1,2
+f84r,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f84r,balneo,C1 -> C1 -> C1,1,0,3
+f84r,balneo,C1 -> C1 -> C2 -> C3,3,2,4
+f84r,balneo,C2 -> C2 -> C1 -> C1 -> C1 -> C1,2,1,6
+f84r,balneo,C1 -> C1 -> C1,1,0,3
+f84r,balneo,C1 -> C2 -> C2,2,1,3
+f84r,balneo,C0 -> C1 -> C1,2,1,3
+f84r,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f84v,balneo,C2 -> C2,1,0,2
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f84v,balneo,C4 -> C2,2,1,2
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f84v,balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,2,2,7
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f84v,balneo,C1 -> C1 -> C3 -> C2 -> C1 -> C3,3,4,6
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f84v,balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,3,3,7
+f84v,balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,2,2,7
+f84v,balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1,2,4,8
+f84v,balneo,C1 -> C2,2,1,2
+f84v,balneo,C1 -> C1 -> C1 -> C1,1,0,4
+f84v,balneo,C1 -> C1 -> C2,2,1,3
+f84v,balneo,C2 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2,3,7
+f84v,balneo,C1 -> C0 -> C1,2,2,3
+f84v,balneo,C4 -> C1,2,1,2
+f84v,balneo,C1 -> C2 -> C2 -> C1 -> C1,2,2,5
+f84v,balneo,C1 -> C1 -> C1,1,0,3
+f84v,balneo,C1 -> C1 -> C1,1,0,3
+f84v,balneo,C1 -> C1 -> C1,1,0,3
+f84v,balneo,C1 -> C1 -> C1 -> C3,2,1,4
+f84v,balneo,C1 -> C1 -> C1 -> C0,2,1,4
+f84v,balneo,C2 -> C2 -> C2 -> C2 -> C2,1,0,5
+f84v,balneo,C1 -> C1 -> C1,1,0,3
+f84v,balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C3,3,3,6
+f84v,balneo,C1 -> C1 -> C2 -> C4 -> C1,3,3,5
+f84v,balneo,C0 -> C2 -> C1 -> C1 -> C1 -> C1,3,2,6
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f84v,balneo,C2 -> C1 -> C1 -> C1 -> C2 -> C1,2,3,6
+f84v,balneo,C4 -> C1 -> C1 -> C1 -> C3,3,2,5
+f84v,balneo,C1 -> C1,1,0,2
+f84v,balneo,C3 -> C1 -> C1 -> C3 -> C1,2,3,5
+f84v,balneo,C3 -> C0 -> C1,3,2,3
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1,1,0,5
+f84v,balneo,C1 -> C1,1,0,2
+f84v,balneo,C1 -> C1 -> C2 -> C1,2,2,4
+f84v,balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1,0,6
+f84v,balneo,C1 -> C1 -> C2,2,1,3
+f85r1,rosettes,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,3,4,7
+f85r1,rosettes,C0 -> C0 -> C0,1,0,3
+f85r1,rosettes,C1 -> C2 -> C0 -> C1,3,3,4
+f85r1,rosettes,C1 -> C1 -> C4,2,1,3
+f85r1,rosettes,C2 -> C2 -> C0,2,1,3
+f85r1,rosettes,C1 -> C3 -> C1 -> C2,3,3,4
+f85r1,rosettes,C1 -> C4 -> C2 -> C2 -> C0 -> C0,4,3,6
+f85r1,rosettes,C0 -> C1 -> C2 -> C4,4,3,4
+f85r1,rosettes,C1 -> C0 -> C1,2,2,3
+f85r1,rosettes,C4 -> C1 -> C3 -> C1 -> C1,3,3,5
+f85r1,rosettes,C0 -> C2 -> C1,3,2,3
+f85r1,rosettes,C4 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,7
+f85r1,rosettes,C1 -> C1 -> C3 -> C1 -> C2,3,3,5
+f85r1,rosettes,C0 -> C2 -> C0 -> C1 -> C1 -> C0 -> C1,3,5,7
+f85r1,rosettes,C1 -> C1,1,0,2
+f85r1,rosettes,C0 -> C0 -> C3 -> C0 -> C1,3,3,5
+f85r1,rosettes,C1 -> C1 -> C1 -> C2 -> C1 -> C1,2,2,6
+f85r1,rosettes,C3 -> C2 -> C1,3,2,3
+f85r1,rosettes,C1 -> C2,2,1,2
+f85r1,rosettes,C1 -> C2 -> C1 -> C1,2,2,4
+f85r1,rosettes,C3 -> C2 -> C0 -> C1 -> C3,4,4,5
+f85r1,rosettes,C4 -> C2 -> C0 -> C2 -> C2 -> C0 -> C2,3,5,7
+f85r1,rosettes,C1 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3,4,6,7
+f85r1,rosettes,C3 -> C2 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,3,3,8
+f85r1,rosettes,C1 -> C2 -> C0,3,2,3
+f85r1,rosettes,C0 -> C1 -> C2 -> C0 -> C3,4,4,5
+f85r1,rosettes,C1 -> C2 -> C1 -> C2,2,3,4
+f85r1,rosettes,C1 -> C0 -> C0 -> C0 -> C1 -> C1 -> C2,3,3,7
+f85r1,rosettes,C3 -> C0 -> C1,3,2,3
+f85r1,rosettes,C1 -> C3 -> C1 -> C2 -> C2,3,3,5
+f85r1,rosettes,C1 -> C1 -> C0,2,1,3
+f85r1,rosettes,C1 -> C1 -> C0 -> C1,2,2,4
+f85r1,rosettes,C1 -> C1 -> C1 -> C1 -> C2,2,1,5
+f85r1,rosettes,C2 -> C2 -> C2 -> C0 -> C1,3,2,5
+f85r1,rosettes,C1 -> C1 -> C1 -> C0 -> C0,2,1,5
+f85r2,rosettes,C1 -> C2 -> C2 -> C2 -> C2 -> C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,3,6,16
+f85r2,rosettes,C1 -> C1 -> C2 -> C0,3,2,4
+f85r2,rosettes,C2 -> C1 -> C4,3,2,3
+f85r2,rosettes,C1 -> C0,2,1,2
+f85r2,rosettes,C3 -> C4,2,1,2
+f85r2,rosettes,C3 -> C1 -> C2,3,2,3
+f85r2,rosettes,C1 -> C2 -> C1,2,2,3
+f85r2,rosettes,C1 -> C1,1,0,2
+f85r2,rosettes,C0 -> C1,2,1,2
+f85r2,rosettes,C1 -> C1,1,0,2
+f85r2,rosettes,C0 -> C0,1,0,2
+f85r2,rosettes,C3 -> C3 -> C2 -> C3 -> C3,2,2,5
+f85r2,rosettes,C0 -> C1 -> C0,2,2,3
+f85r2,rosettes,C0 -> C0,1,0,2
+f85r2,rosettes,C1 -> C0,2,1,2
+f85r2,rosettes,C1 -> C0 -> C3,3,2,3
+f85r2,rosettes,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f86v3,rosettes,C1 -> C1 -> C1,1,0,3
+f86v3,rosettes,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,2,2,7
+f86v3,rosettes,C0 -> C3 -> C2 -> C3 -> C1 -> C0 -> C1 -> C3,4,7,8
+f86v3,rosettes,C3 -> C3 -> C4 -> C2 -> C4 -> C2,3,4,6
+f86v3,rosettes,C0 -> C1 -> C3 -> C1 -> C1 -> C0,3,4,6
+f86v3,rosettes,C0 -> C0 -> C2 -> C1 -> C0,3,3,5
+f86v3,rosettes,C0 -> C1 -> C0,2,2,3
+f86v3,rosettes,C0 -> C4,2,1,2
+f86v3,rosettes,C1 -> C2 -> C0,3,2,3
+f86v3,rosettes,C4 -> C2 -> C1 -> C0 -> C2 -> C0 -> C2,4,6,7
+f86v3,rosettes,C2 -> C0,2,1,2
+f86v3,rosettes,C0 -> C2,2,1,2
+f86v3,rosettes,C1 -> C1 -> C2 -> C1 -> C0 -> C0,3,3,6
+f86v3,rosettes,C1 -> C1 -> C1,1,0,3
+f86v3,rosettes,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,2,1,7
+f86v3,rosettes,C4 -> C1 -> C2 -> C1 -> C0,4,4,5
+f86v3,rosettes,C0 -> C1 -> C1 -> C1 -> C2 -> C2,3,2,6
+f86v3,rosettes,C1 -> C4 -> C1 -> C3 -> C3,3,3,5
+f86v3,rosettes,C3 -> C3,1,0,2
+f86v3,rosettes,C4 -> C1 -> C1,2,1,3
+f86v3,rosettes,C2 -> C4,2,1,2
+f86v3,rosettes,C1 -> C0 -> C4 -> C1 -> C1,3,3,5
+f86v3,rosettes,C1 -> C1 -> C0,2,1,3
+f86v3,rosettes,C2 -> C1 -> C2 -> C2,2,2,4
+f86v3,rosettes,C1 -> C1 -> C1,1,0,3
+f86v3,rosettes,C4 -> C2 -> C1,3,2,3
+f86v3,rosettes,C1 -> C1,1,0,2
+f86v3,rosettes,C1 -> C2 -> C2,2,1,3
+f86v3,rosettes,C2 -> C2,1,0,2
+f86v3,rosettes,C3 -> C2,2,1,2
+f86v3,rosettes,C0 -> C1 -> C0 -> C1,2,3,4
+f86v4,rosettes,C0 -> C3 -> C1 -> C2 -> C3 -> C2 -> C2 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1,4,12,16
+f86v4,rosettes,C3 -> C1 -> C3 -> C3 -> C0 -> C1 -> C0 -> C3 -> C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C3 -> C1 -> C2 -> C1 -> C2 -> C1,4,16,20
+f86v4,rosettes,C4 -> C1 -> C2 -> C3 -> C3 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C0,5,9,16
+f86v4,rosettes,C3 -> C1 -> C1 -> C3 -> C1 -> C0 -> C0 -> C0 -> C3 -> C1 -> C2 -> C0 -> C2,4,9,13
+f86v4,rosettes,C1 -> C1 -> C1 -> C1,1,0,4
+f86v4,rosettes,C0 -> C1 -> C0,2,2,3
+f86v4,rosettes,C2 -> C0 -> C2 -> C0,2,3,4
+f86v5,rosettes,C0 -> C0 -> C0,1,0,3
+f86v5,rosettes,C1 -> C0 -> C1 -> C0 -> C2,3,4,5
+f86v5,rosettes,C2 -> C4 -> C2,2,2,3
+f86v5,rosettes,C1 -> C1 -> C0,2,1,3
+f86v5,rosettes,C2 -> C2 -> C2 -> C2,1,0,4
+f86v5,rosettes,C1 -> C4 -> C1,2,2,3
+f86v5,rosettes,C2 -> C1 -> C2,2,2,3
+f86v5,rosettes,C3 -> C1,2,1,2
+f86v5,rosettes,C3 -> C2 -> C2,2,1,3
+f86v5,rosettes,C1 -> C0 -> C2,3,2,3
+f86v5,rosettes,C4 -> C1 -> C0 -> C2 -> C2 -> C2,4,3,6
+f86v5,rosettes,C1 -> C0 -> C1 -> C0 -> C2 -> C2,3,4,6
+f86v5,rosettes,C2 -> C2,1,0,2
+f86v5,rosettes,C2 -> C1 -> C1,2,1,3
+f86v5,rosettes,C0 -> C2 -> C2,2,1,3
+f86v5,rosettes,C0 -> C0 -> C0 -> C1 -> C4,3,2,5
+f86v5,rosettes,C2 -> C0 -> C2 -> C2 -> C2,2,2,5
+f86v5,rosettes,C0 -> C0 -> C1,2,1,3
+f86v5,rosettes,C2 -> C0,2,1,2
+f86v5,rosettes,C0 -> C1 -> C0 -> C1 -> C4,3,4,5
+f86v5,rosettes,C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C2 -> C2,4,5,9
+f86v5,rosettes,C3 -> C4 -> C0 -> C1 -> C2 -> C0 -> C0,5,5,7
+f86v5,rosettes,C1 -> C2 -> C1 -> C0 -> C4,4,4,5
+f86v5,rosettes,C1 -> C2 -> C2,2,1,3
+f86v5,rosettes,C3 -> C3 -> C2,2,1,3
+f86v5,rosettes,C2 -> C0 -> C0,2,1,3
+f86v5,rosettes,C0 -> C0 -> C0 -> C2 -> C2,2,1,5
+f86v5,rosettes,C0 -> C1 -> C1 -> C2 -> C0,3,3,5
+f86v5,rosettes,C1 -> C1,1,0,2
+f86v5,rosettes,C2 -> C1 -> C0 -> C1 -> C3,4,4,5
+f86v5,rosettes,C0 -> C1 -> C2 -> C2 -> C2,3,2,5
+f86v5,rosettes,C1 -> C1,1,0,2
+f86v5,rosettes,C1 -> C0 -> C1 -> C1,2,2,4
+f86v5,rosettes,C1 -> C1 -> C1 -> C2 -> C2,2,1,5
+f86v5,rosettes,C2 -> C0 -> C2,2,2,3
+f86v6,rosettes,C3 -> C1 -> C3 -> C2,3,3,4
+f86v6,rosettes,C1 -> C0 -> C3 -> C2 -> C2,4,3,5
+f86v6,rosettes,C1 -> C2,2,1,2
+f86v6,rosettes,C0 -> C4 -> C2 -> C2 -> C2,3,2,5
+f86v6,rosettes,C0 -> C0 -> C1 -> C2 -> C1 -> C0 -> C4,4,5,7
+f86v6,rosettes,C2 -> C1 -> C2 -> C4 -> C2 -> C1 -> C1 -> C2,3,6,8
+f86v6,rosettes,C0 -> C2 -> C1,3,2,3
+f86v6,rosettes,C0 -> C1 -> C0,2,2,3
+f86v6,rosettes,C0 -> C4 -> C2 -> C2 -> C2 -> C1 -> C1 -> C0,4,4,8
+f86v6,rosettes,C2 -> C1,2,1,2
+f86v6,rosettes,C0 -> C1 -> C3 -> C2,4,3,4
+f86v6,rosettes,C1 -> C0 -> C1 -> C1,2,2,4
+f86v6,rosettes,C4 -> C0 -> C1 -> C1 -> C1,3,2,5
+f86v6,rosettes,C1 -> C3 -> C1,2,2,3
+f86v6,rosettes,C0 -> C1 -> C1 -> C0 -> C0 -> C2,3,3,6
+f86v6,rosettes,C1 -> C1 -> C1 -> C1 -> C1 -> C2,2,1,6
+f86v6,rosettes,C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C1 -> C0,3,3,8
+f86v6,rosettes,C1 -> C2 -> C0 -> C2 -> C1 -> C1,3,4,6
+f86v6,rosettes,C2 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2 -> C2,3,3,8
+f86v6,rosettes,C1 -> C3,2,1,2
+f86v6,rosettes,C3 -> C1 -> C2 -> C2,3,2,4
+f86v6,rosettes,C1 -> C2 -> C2 -> C1 -> C4 -> C2 -> C1 -> C1,3,5,8
+f86v6,rosettes,C3 -> C1 -> C1,2,1,3
+f86v6,rosettes,C1 -> C0,2,1,2
+f86v6,rosettes,C2 -> C0 -> C1 -> C1 -> C1 -> C2,3,3,6
+f86v6,rosettes,C1 -> C0 -> C1,2,2,3
+f86v6,rosettes,C2 -> C2 -> C2 -> C1,2,1,4
+f86v6,rosettes,C2 -> C3,2,1,2
+f86v6,rosettes,C0 -> C1 -> C1 -> C0 -> C1,2,3,5
+f86v6,rosettes,C0 -> C1 -> C0 -> C1 -> C3 -> C2,4,5,6
+f86v6,rosettes,C2 -> C1 -> C2 -> C1 -> C0 -> C0,3,4,6
+f86v6,rosettes,C1 -> C2 -> C0 -> C1,3,3,4
+f86v6,rosettes,C2 -> C1 -> C2 -> C2 -> C2 -> C0 -> C1,3,4,7
+f86v6,rosettes,C1 -> C0 -> C0 -> C0 -> C0 -> C2 -> C2,3,2,7
+f86v6,rosettes,C0 -> C1 -> C0 -> C0,2,2,4
+f86v6,rosettes,C2 -> C2 -> C1 -> C2 -> C2,2,2,5
+f86v6,rosettes,C0 -> C2 -> C1 -> C1 -> C2,3,3,5
+f86v6,rosettes,C0 -> C1 -> C1 -> C1 -> C1,2,1,5
+f86v6,rosettes,C1 -> C1 -> C1,1,0,3
+f86v6,rosettes,C2 -> C0 -> C2,2,2,3
+f86v6,rosettes,C0 -> C1 -> C0 -> C0 -> C2 -> C1,3,4,6
+f87r,pharm-herbal,C0 -> C3,2,1,2
+f87r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f87r,pharm-herbal,C1 -> C0,2,1,2
+f87r,pharm-herbal,C3 -> C0,2,1,2
+f87r,pharm-herbal,C0 -> C0,1,0,2
+f87r,pharm-herbal,C0 -> C0 -> C0 -> C3,2,1,4
+f87r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f87r,pharm-herbal,C0 -> C3,2,1,2
+f87r,pharm-herbal,C3 -> C3,1,0,2
+f87r,pharm-herbal,C0 -> C1 -> C1,2,1,3
+f87r,pharm-herbal,C0 -> C2,2,1,2
+f87r,pharm-herbal,C0 -> C0,1,0,2
+f87r,pharm-herbal,C1 -> C0 -> C1,2,2,3
+f87r,pharm-herbal,C0 -> C0 -> C3,2,1,3
+f87r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f87r,pharm-herbal,C0 -> C3 -> C0,2,2,3
+f87v,pharm-herbal,C0 -> C0,1,0,2
+f87v,pharm-herbal,C0 -> C3 -> C1,3,2,3
+f87v,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f87v,pharm-herbal,C0 -> C1,2,1,2
+f87v,pharm-herbal,C3 -> C2,2,1,2
+f87v,pharm-herbal,C0 -> C1,2,1,2
+f87v,pharm-herbal,C1 -> C0 -> C0,2,1,3
+f87v,pharm-herbal,C0 -> C0,1,0,2
+f88r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1,0,6
+f88r,pharm-herbal,C0 -> C3 -> C0,2,2,3
+f88r,pharm-herbal,C4 -> C0 -> C0 -> C0,2,1,4
+f88r,pharm-herbal,C0 -> C1 -> C0 -> C0 -> C3 -> C0,3,4,6
+f88r,pharm-herbal,C0 -> C0 -> C1 -> C0,2,2,4
+f88r,pharm-herbal,C2 -> C0 -> C0 -> C0,2,1,4
+f88r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C4,2,1,6
+f88r,pharm-herbal,C0 -> C0 -> C4 -> C1,3,2,4
+f88r,pharm-herbal,C4 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0,2,1,7
+f88r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C3,2,1,5
+f88r,pharm-herbal,C2 -> C0 -> C0,2,1,3
+f88r,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f88r,pharm-herbal,C0 -> C2 -> C1 -> C0 -> C2,3,4,5
+f88r,pharm-herbal,C2 -> C3 -> C3 -> C0 -> C0,3,2,5
+f88v,pharm-herbal,C0 -> C3,2,1,2
+f88v,pharm-herbal,C0 -> C0,1,0,2
+f88v,pharm-herbal,C0 -> C0 -> C0 -> C1 -> C3 -> C0 -> C0,3,3,7
+f88v,pharm-herbal,C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1,3,4,7
+f88v,pharm-herbal,C0 -> C0 -> C3 -> C0 -> C0 -> C0,2,2,6
+f88v,pharm-herbal,C0 -> C1 -> C0 -> C0 -> C3,3,3,5
+f88v,pharm-herbal,C0 -> C3 -> C0 -> C0,2,2,4
+f88v,pharm-herbal,C1 -> C0 -> C2,3,2,3
+f88v,pharm-herbal,C1 -> C3 -> C0,3,2,3
+f88v,pharm-herbal,C1 -> C0 -> C3 -> C0,3,3,4
+f88v,pharm-herbal,C0 -> C1 -> C0,2,2,3
+f88v,pharm-herbal,C0 -> C3 -> C0 -> C0,2,2,4
+f88v,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f88v,pharm-herbal,C0 -> C0,1,0,2
+f88v,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2 -> C1 -> C0,3,3,7
+f88v,pharm-herbal,C3 -> C0 -> C2 -> C0,3,3,4
+f88v,pharm-herbal,C0 -> C0 -> C3,2,1,3
+f89r1,pharm-herbal,C0 -> C0 -> C1 -> C0,2,2,4
+f89r1,pharm-herbal,C0 -> C3,2,1,2
+f89r1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f89r1,pharm-herbal,C1 -> C1 -> C0 -> C0,2,1,4
+f89r1,pharm-herbal,C3 -> C1 -> C1,2,1,3
+f89r1,pharm-herbal,C0 -> C0 -> C1 -> C1,2,1,4
+f89r1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f89r1,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f89r1,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C4,3,2,5
+f89r1,pharm-herbal,C3 -> C0 -> C0 -> C0,2,1,4
+f89r1,pharm-herbal,C2 -> C0 -> C3 -> C1 -> C0 -> C1,4,5,6
+f89r1,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f89r1,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C1,2,1,5
+f89r1,pharm-herbal,C1 -> C1 -> C3,2,1,3
+f89r2,pharm-herbal,C0 -> C0,1,0,2
+f89r2,pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0,3,3,8
+f89r2,pharm-herbal,C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0,3,5,9
+f89r2,pharm-herbal,C0 -> C4 -> C2 -> C0 -> C1 -> C1 -> C0 -> C1 -> C1,4,6,9
+f89r2,pharm-herbal,C3 -> C2,2,1,2
+f89r2,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1 -> C4 -> C0,3,5,8
+f89r2,pharm-herbal,C0 -> C1 -> C0 -> C1 -> C4 -> C0 -> C3 -> C3,4,6,8
+f89r2,pharm-herbal,C0 -> C1 -> C0 -> C4 -> C0 -> C1 -> C0 -> C4 -> C1 -> C3,4,9,10
+f89r2,pharm-herbal,C0 -> C1 -> C0 -> C0 -> C0 -> C3,3,3,6
+f89r2,pharm-herbal,C0 -> C4 -> C1 -> C1,3,2,4
+f89r2,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C4 -> C0 -> C2 -> C4,4,6,9
+f89r2,pharm-herbal,C2 -> C2,1,0,2
+f89r2,pharm-herbal,C0 -> C0 -> C0 -> C1 -> C2 -> C3 -> C1 -> C2,4,5,8
+f89r2,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C1 -> C0 -> C0 -> C0 -> C0 -> C3,3,5,11
+f89r2,pharm-herbal,C1 -> C0 -> C0 -> C2 -> C0 -> C0,3,3,6
+f89v1,pharm-herbal,C0 -> C3 -> C0 -> C3 -> C2 -> C2,3,4,6
+f89v1,pharm-herbal,C0 -> C1 -> C3,3,2,3
+f89v1,pharm-herbal,C1 -> C0 -> C0 -> C0,2,1,4
+f89v1,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f89v1,pharm-herbal,C0 -> C3,2,1,2
+f89v1,pharm-herbal,C1 -> C2 -> C2 -> C0 -> C2,3,3,5
+f89v1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f89v1,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f89v1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f89v1,pharm-herbal,C4 -> C0 -> C2 -> C0,3,3,4
+f89v1,pharm-herbal,C1 -> C0 -> C0 -> C2,3,2,4
+f89v1,pharm-herbal,C1 -> C4 -> C1 -> C0 -> C3,4,4,5
+f89v1,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f89v1,pharm-herbal,C0 -> C3 -> C0 -> C0,2,2,4
+f89v2,pharm-herbal,C0 -> C0 -> C3 -> C3 -> C2,3,2,5
+f89v2,pharm-herbal,C2 -> C0,2,1,2
+f89v2,pharm-herbal,C1 -> C0 -> C0,2,1,3
+f89v2,pharm-herbal,C2 -> C3 -> C2,2,2,3
+f89v2,pharm-herbal,C1 -> C4 -> C0,3,2,3
+f89v2,pharm-herbal,C0 -> C0 -> C4 -> C0 -> C2 -> C2,3,3,6
+f89v2,pharm-herbal,C1 -> C1 -> C0 -> C0 -> C1,2,2,5
+f89v2,pharm-herbal,C4 -> C2 -> C0 -> C0 -> C0 -> C0 -> C2 -> C2,3,3,8
+f89v2,pharm-herbal,C1 -> C3 -> C0 -> C1 -> C0 -> C3,3,5,6
+f89v2,pharm-herbal,C2 -> C0 -> C0 -> C3,3,2,4
+f89v2,pharm-herbal,C0 -> C2 -> C0,2,2,3
+f89v2,pharm-herbal,C0 -> C2 -> C3 -> C2 -> C2 -> C0 -> C0,3,4,7
+f89v2,pharm-herbal,C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C4 -> C0,3,3,8
+f8r,herbal-A,C0 -> C2 -> C0 -> C0 -> C0 -> C0,2,2,6
+f8r,herbal-A,C4 -> C0,2,1,2
+f8r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,6
+f8r,herbal-A,C0 -> C0,1,0,2
+f8r,herbal-A,C0 -> C0 -> C4 -> C1 -> C0,3,3,5
+f8r,herbal-A,C4 -> C0 -> C4,2,2,3
+f8r,herbal-A,C3 -> C2 -> C2,2,1,3
+f8r,herbal-A,C0 -> C0 -> C1 -> C2 -> C2 -> C2 -> C0,3,3,7
+f8r,herbal-A,C2 -> C0 -> C0 -> C2,2,2,4
+f8r,herbal-A,C0 -> C0,1,0,2
+f8r,herbal-A,C2 -> C0 -> C3 -> C0 -> C0,3,3,5
+f8r,herbal-A,C0 -> C1,2,1,2
+f8r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f8r,herbal-A,C0 -> C0 -> C0 -> C1 -> C1 -> C0 -> C0,2,2,7
+f8r,herbal-A,C4 -> C1 -> C2 -> C0,4,3,4
+f8r,herbal-A,C0 -> C1,2,1,2
+f8r,herbal-A,C0 -> C0 -> C0,1,0,3
+f8r,herbal-A,C0 -> C0 -> C1 -> C0 -> C0,2,2,5
+f8v,herbal-A,C0 -> C0 -> C0,1,0,3
+f8v,herbal-A,C0 -> C0 -> C2,2,1,3
+f8v,herbal-A,C0 -> C2 -> C2 -> C2,2,1,4
+f8v,herbal-A,C0 -> C0 -> C2 -> C0,2,2,4
+f8v,herbal-A,C0 -> C2 -> C0 -> C2 -> C3 -> C0,3,5,6
+f8v,herbal-A,C0 -> C0 -> C3 -> C0 -> C0 -> C0,2,2,6
+f8v,herbal-A,C1 -> C2 -> C0 -> C2 -> C2,3,3,5
+f8v,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f8v,herbal-A,C0 -> C0 -> C1 -> C2,3,2,4
+f8v,herbal-A,C0 -> C0,1,0,2
+f8v,herbal-A,C0 -> C0 -> C1 -> C0,2,2,4
+f8v,herbal-A,C0 -> C0 -> C0,1,0,3
+f8v,herbal-A,C0 -> C0 -> C0,1,0,3
+f90r1,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f90r1,pharm-herbal,C0 -> C0 -> C1,2,1,3
+f90r1,pharm-herbal,C1 -> C2,2,1,2
+f90r1,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f90r1,pharm-herbal,C0 -> C2 -> C0 -> C0 -> C0,2,2,5
+f90r1,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C0,2,2,6
+f90r1,pharm-herbal,C0 -> C2 -> C1 -> C0 -> C3 -> C0 -> C0,4,5,7
+f90r1,pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0,2,2,5
+f90r1,pharm-herbal,C0 -> C2,2,1,2
+f90r2,pharm-herbal,C1 -> C0 -> C0,2,1,3
+f90r2,pharm-herbal,C4 -> C0,2,1,2
+f90r2,pharm-herbal,C1 -> C0 -> C0 -> C0 -> C2,3,2,5
+f90r2,pharm-herbal,C3 -> C1,2,1,2
+f90r2,pharm-herbal,C0 -> C0,1,0,2
+f90v1,pharm-herbal,C0 -> C3 -> C0 -> C1 -> C0,3,4,5
+f90v1,pharm-herbal,C0 -> C0 -> C3 -> C3,2,1,4
+f90v1,pharm-herbal,C0 -> C0,1,0,2
+f90v1,pharm-herbal,C0 -> C0 -> C4,2,1,3
+f90v1,pharm-herbal,C0 -> C0 -> C0 -> C1,2,1,4
+f90v1,pharm-herbal,C4 -> C0 -> C1,3,2,3
+f90v1,pharm-herbal,C1 -> C0,2,1,2
+f90v1,pharm-herbal,C0 -> C0 -> C1,2,1,3
+f90v1,pharm-herbal,C1 -> C3 -> C1 -> C0 -> C3,3,4,5
+f90v1,pharm-herbal,C0 -> C1 -> C3 -> C3,3,2,4
+f90v2,pharm-herbal,C0 -> C1,2,1,2
+f90v2,pharm-herbal,C0 -> C1 -> C3 -> C2 -> C0 -> C3,4,5,6
+f90v2,pharm-herbal,C0 -> C3 -> C1,3,2,3
+f90v2,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f90v2,pharm-herbal,C0 -> C1 -> C1 -> C0 -> C0 -> C0,2,2,6
+f90v2,pharm-herbal,C1 -> C1 -> C0 -> C0 -> C0 -> C0,2,1,6
+f90v2,pharm-herbal,C0 -> C3,2,1,2
+f93r,pharm-herbal,C2 -> C0,2,1,2
+f93r,pharm-herbal,C4 -> C0,2,1,2
+f93r,pharm-herbal,C0 -> C3 -> C0,2,2,3
+f93r,pharm-herbal,C0 -> C1 -> C0 -> C0,2,2,4
+f93r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f93r,pharm-herbal,C0 -> C2,2,1,2
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93r,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f93r,pharm-herbal,C3 -> C0,2,1,2
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f93r,pharm-herbal,C0 -> C0 -> C0 -> C3,2,1,4
+f93r,pharm-herbal,C0 -> C1,2,1,2
+f93r,pharm-herbal,C0 -> C2,2,1,2
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93r,pharm-herbal,C0 -> C3,2,1,2
+f93r,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f93r,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f93r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f93r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f93r,pharm-herbal,C1 -> C0,2,1,2
+f93r,pharm-herbal,C0 -> C0,1,0,2
+f93v,pharm-herbal,C1 -> C0,2,1,2
+f93v,pharm-herbal,C2 -> C3,2,1,2
+f93v,pharm-herbal,C0 -> C0,1,0,2
+f93v,pharm-herbal,C0 -> C0 -> C2 -> C0 -> C2 -> C0,2,4,6
+f93v,pharm-herbal,C0 -> C1 -> C0 -> C0,2,2,4
+f93v,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f93v,pharm-herbal,C2 -> C1,2,1,2
+f93v,pharm-herbal,C0 -> C1,2,1,2
+f93v,pharm-herbal,C0 -> C0 -> C0 -> C3 -> C4 -> C1,4,3,6
+f93v,pharm-herbal,C0 -> C0 -> C0 -> C4,2,1,4
+f94r,pharm-herbal,C1 -> C3 -> C1 -> C2,3,3,4
+f94r,pharm-herbal,C0 -> C2 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,7
+f94r,pharm-herbal,C0 -> C1 -> C1 -> C1 -> C2 -> C0 -> C1,3,4,7
+f94r,pharm-herbal,C0 -> C2 -> C1 -> C3 -> C0,4,4,5
+f94r,pharm-herbal,C3 -> C2 -> C1,3,2,3
+f94r,pharm-herbal,C0 -> C2 -> C2 -> C1 -> C2 -> C2,3,3,6
+f94r,pharm-herbal,C1 -> C2 -> C1 -> C2,2,3,4
+f94r,pharm-herbal,C2 -> C2,1,0,2
+f94v,pharm-herbal,C1 -> C3 -> C2 -> C1 -> C2 -> C3,3,5,6
+f94v,pharm-herbal,C4 -> C0 -> C0 -> C3,3,2,4
+f94v,pharm-herbal,C1 -> C3 -> C2 -> C1 -> C2,3,4,5
+f94v,pharm-herbal,C2 -> C2 -> C2 -> C2,1,0,4
+f94v,pharm-herbal,C3 -> C3 -> C1,2,1,3
+f94v,pharm-herbal,C2 -> C1 -> C1,2,1,3
+f94v,pharm-herbal,C2 -> C2 -> C0 -> C2,2,2,4
+f94v,pharm-herbal,C1 -> C1 -> C2 -> C1 -> C0,3,3,5
+f94v,pharm-herbal,C0 -> C2 -> C0 -> C2,2,3,4
+f94v,pharm-herbal,C1 -> C1,1,0,2
+f94v,pharm-herbal,C0 -> C0,1,0,2
+f94v,pharm-herbal,C1 -> C1 -> C1 -> C2,2,1,4
+f95r1,pharm-herbal,C1 -> C3 -> C1 -> C2,3,3,4
+f95r1,pharm-herbal,C2 -> C2 -> C2 -> C2,1,0,4
+f95r1,pharm-herbal,C2 -> C3 -> C3,2,1,3
+f95r1,pharm-herbal,C2 -> C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C2,3,4,9
+f95r1,pharm-herbal,C1 -> C3 -> C3 -> C2 -> C0,4,3,5
+f95r1,pharm-herbal,C4 -> C0 -> C1 -> C1 -> C0,3,3,5
+f95r1,pharm-herbal,C1 -> C1 -> C1,1,0,3
+f95r1,pharm-herbal,C2 -> C3 -> C1 -> C2 -> C2 -> C1,3,4,6
+f95r1,pharm-herbal,C1 -> C3 -> C2 -> C2 -> C2 -> C3 -> C2 -> C2,3,4,8
+f95r1,pharm-herbal,C2 -> C0 -> C1 -> C1 -> C4 -> C1,4,4,6
+f95r1,pharm-herbal,C2 -> C0 -> C0 -> C2 -> C0 -> C1,3,4,6
+f95r2,pharm-herbal,C1 -> C2 -> C2,2,1,3
+f95r2,pharm-herbal,C0 -> C2 -> C0 -> C2 -> C2 -> C2 -> C1 -> C2,3,5,8
+f95r2,pharm-herbal,C0 -> C2 -> C0 -> C2 -> C2 -> C2,2,3,6
+f95r2,pharm-herbal,C0 -> C2 -> C2,2,1,3
+f95r2,pharm-herbal,C0 -> C1 -> C2 -> C2 -> C1,3,3,5
+f95r2,pharm-herbal,C0 -> C2 -> C2 -> C2 -> C1 -> C2 -> C1,3,4,7
+f95r2,pharm-herbal,C1 -> C2 -> C1 -> C1 -> C3 -> C2,3,4,6
+f95r2,pharm-herbal,C0 -> C2 -> C1 -> C1 -> C2 -> C2 -> C2,3,3,7
+f95r2,pharm-herbal,C2 -> C0 -> C1 -> C2 -> C2,3,3,5
+f95v1,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f95v1,pharm-herbal,C1 -> C0 -> C3 -> C3 -> C2,4,3,5
+f95v1,pharm-herbal,C1 -> C1 -> C3 -> C1 -> C2 -> C1 -> C1,3,4,7
+f95v1,pharm-herbal,C0 -> C1 -> C1 -> C2,3,2,4
+f95v1,pharm-herbal,C2 -> C2 -> C2,1,0,3
+f95v1,pharm-herbal,C0 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1 -> C2 -> C1,3,5,9
+f95v1,pharm-herbal,C0 -> C1 -> C2 -> C2 -> C0 -> C1 -> C2,3,5,7
+f95v1,pharm-herbal,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C2 -> C2,2,5,8
+f95v1,pharm-herbal,C2 -> C1 -> C4,3,2,3
+f95v1,pharm-herbal,C1 -> C0 -> C2 -> C1 -> C3 -> C2 -> C1 -> C2,4,7,8
+f95v1,pharm-herbal,C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2,3,2,7
+f95v1,pharm-herbal,C0 -> C0 -> C2 -> C1 -> C1,3,2,5
+f95v1,pharm-herbal,C1 -> C0 -> C1 -> C1 -> C1 -> C2,3,3,6
+f95v2,pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0,2,2,5
+f95v2,pharm-herbal,C1 -> C4 -> C2 -> C2 -> C0 -> C1,4,4,6
+f95v2,pharm-herbal,C1 -> C2 -> C2 -> C2 -> C2 -> C2,2,1,6
+f95v2,pharm-herbal,C1 -> C2 -> C1,2,2,3
+f95v2,pharm-herbal,C0 -> C2 -> C2,2,1,3
+f95v2,pharm-herbal,C1 -> C2 -> C2,2,1,3
+f96r,pharm-herbal,C3 -> C0,2,1,2
+f96r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f96r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f96r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f96r,pharm-herbal,C3 -> C0,2,1,2
+f96r,pharm-herbal,C3 -> C0 -> C3 -> C0 -> C1,3,4,5
+f96r,pharm-herbal,C0 -> C0 -> C2,2,1,3
+f96r,pharm-herbal,C0 -> C2 -> C0 -> C0 -> C0,2,2,5
+f96r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f96r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f96r,pharm-herbal,C2 -> C0,2,1,2
+f96r,pharm-herbal,C0 -> C1 -> C0,2,2,3
+f96r,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f96v,pharm-herbal,C0 -> C2,2,1,2
+f96v,pharm-herbal,C0 -> C1,2,1,2
+f99r,pharm-herbal,C3 -> C0,2,1,2
+f99r,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f99r,pharm-herbal,C0 -> C2 -> C0 -> C0 -> C1 -> C0,3,4,6
+f99r,pharm-herbal,C0 -> C0 -> C4 -> C0 -> C3,3,3,5
+f99r,pharm-herbal,C1 -> C0 -> C0 -> C0 -> C3,3,2,5
+f99r,pharm-herbal,C0 -> C0 -> C1 -> C0 -> C1,2,3,5
+f99r,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C0,2,2,8
+f99r,pharm-herbal,C3 -> C1 -> C0 -> C0 -> C0 -> C0,3,2,6
+f99r,pharm-herbal,C1 -> C0 -> C0 -> C0,2,1,4
+f99r,pharm-herbal,C0 -> C1 -> C2 -> C4 -> C0,4,4,5
+f99r,pharm-herbal,C3 -> C3 -> C1 -> C1,2,1,4
+f99r,pharm-herbal,C1 -> C2 -> C4 -> C0,4,3,4
+f99r,pharm-herbal,C0 -> C0 -> C0 -> C3,2,1,4
+f99r,pharm-herbal,C1 -> C1 -> C0,2,1,3
+f99r,pharm-herbal,C1 -> C1 -> C1 -> C3 -> C1 -> C1,2,2,6
+f99r,pharm-herbal,C0 -> C1,2,1,2
+f99v,pharm-herbal,C0 -> C3,2,1,2
+f99v,pharm-herbal,C0 -> C0 -> C0 -> C0,1,0,4
+f99v,pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0,1,0,5
+f99v,pharm-herbal,C0 -> C0 -> C0,1,0,3
+f99v,pharm-herbal,C1 -> C0 -> C2 -> C1,3,3,4
+f99v,pharm-herbal,C3 -> C0 -> C0 -> C0 -> C1,3,2,5
+f99v,pharm-herbal,C1 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1,3,4,8
+f99v,pharm-herbal,C0 -> C0 -> C0 -> C1 -> C3,3,2,5
+f99v,pharm-herbal,C1 -> C0 -> C1 -> C1 -> C3,3,3,5
+f99v,pharm-herbal,C3 -> C0 -> C2 -> C2 -> C0 -> C0 -> C0,3,3,7
+f99v,pharm-herbal,C0 -> C1,2,1,2
+f99v,pharm-herbal,C1 -> C0 -> C0 -> C0,2,1,4
+f99v,pharm-herbal,C4 -> C0 -> C0 -> C0 -> C0,2,1,5
+f99v,pharm-herbal,C0 -> C4 -> C0,2,2,3
+f99v,pharm-herbal,C1 -> C0 -> C1,2,2,3
+f99v,pharm-herbal,C0 -> C0,1,0,2
+f99v,pharm-herbal,C0 -> C0 -> C2 -> C2,2,1,4
+f9r,herbal-A,C0 -> C0,1,0,2
+f9r,herbal-A,C0 -> C0 -> C0 -> C0,1,0,4
+f9r,herbal-A,C0 -> C2 -> C0 -> C3,3,3,4
+f9r,herbal-A,C0 -> C2 -> C0 -> C0 -> C2,2,3,5
+f9r,herbal-A,C0 -> C0 -> C0 -> C0 -> C2,2,1,5
+f9r,herbal-A,C2 -> C1 -> C2,2,2,3
+f9r,herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2,2,1,6
+f9r,herbal-A,C0 -> C0 -> C2,2,1,3
+f9r,herbal-A,C0 -> C2,2,1,2
+f9v,herbal-A,C0 -> C0,1,0,2
+f9v,herbal-A,C2 -> C0 -> C0 -> C0,2,1,4
+f9v,herbal-A,C2 -> C2,1,0,2
+f9v,herbal-A,C2 -> C0,2,1,2
+f9v,herbal-A,C0 -> C2 -> C0 -> C0 -> C1,3,3,5
+f9v,herbal-A,C0 -> C2 -> C2,2,1,3
+f9v,herbal-A,C0 -> C0 -> C2,2,1,3
+f9v,herbal-A,C0 -> C0 -> C0,1,0,3
+f9v,herbal-A,C0 -> C0,1,0,2
+f9v,herbal-A,C0 -> C2,2,1,2
