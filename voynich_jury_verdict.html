@@ -1,0 +1,114 @@
+
+<style>
+.jury-wrap { padding: 1.5rem 0; max-width: 100%; }
+.jury-header { font-size: 13px; font-weight: 500; color: var(--color-text-secondary); letter-spacing: .04em; text-transform: uppercase; margin-bottom: 1.5rem; }
+.juror-card { border: 0.5px solid var(--color-border-tertiary); border-radius: var(--border-radius-lg); margin-bottom: 1rem; overflow: hidden; }
+.juror-head { display: flex; align-items: baseline; gap: 10px; padding: .75rem 1rem .5rem; cursor: pointer; user-select: none; }
+.juror-num { font-size: 11px; font-weight: 500; color: var(--color-text-tertiary); min-width: 24px; }
+.juror-name { font-size: 13px; font-weight: 500; color: var(--color-text-primary); flex: 1; }
+.juror-verdict-tag { font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 500; }
+.tag-red { background: #FCEBEB; color: #A32D2D; }
+.tag-amber { background: #FAEEDA; color: #854F0B; }
+.tag-teal { background: #E1F5EE; color: #0F6E56; }
+.juror-body { padding: 0 1rem 1rem; display: none; }
+.juror-body.open { display: block; }
+.juror-body p { font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin: .5rem 0 0; }
+.juror-body .verdict-line { font-size: 12px; font-style: italic; color: var(--color-text-tertiary); border-left: 2px solid var(--color-border-secondary); padding-left: .75rem; margin-top: .75rem; }
+.section-head { font-size: 12px; font-weight: 500; color: var(--color-text-tertiary); text-transform: uppercase; letter-spacing: .05em; margin: 2rem 0 .75rem; }
+.convergence-block { background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 1rem; font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin-bottom: 1rem; }
+.convergence-block strong { color: var(--color-text-primary); font-weight: 500; }
+.classicist-close { border: 0.5px solid var(--color-border-secondary); border-radius: var(--border-radius-lg); padding: 1rem 1.25rem; font-size: 13px; color: var(--color-text-secondary); line-height: 1.7; font-style: italic; margin-top: 1.5rem; }
+.classicist-close em { color: var(--color-text-primary); font-style: normal; font-weight: 500; }
+.expand-icon { font-size: 12px; color: var(--color-text-tertiary); transition: transform .2s; }
+.expand-icon.open { transform: rotate(90deg); }
+@media (prefers-color-scheme: dark) {
+  .tag-red { background: #501313; color: #F09595; }
+  .tag-amber { background: #412402; color: #FAC775; }
+  .tag-teal { background: #04342C; color: #5DCAA5; }
+}
+</style>
+<div class="jury-wrap">
+<div class="jury-header">The Academic Jury — Codex Universalis · Solo Pass</div>
+
+<div id="jurors"></div>
+
+<div class="section-head">Steel-man convergence · Led by The Simulation</div>
+<div class="convergence-block">
+<strong>Strongest possible reading:</strong> A researcher has applied a consistent spatial correlation methodology to the EVA transcription, identified word families that cluster near specific illustration colors across multiple independent folios, passed control tests, found suggestive structural correspondence to Avicenna's Canon, and identified a morphological pattern consistent with Semitic triconsonantal roots. The -ar / ibn Tibbon poael parallel was discovered pre-theoretically from paragraph-position data, then confirmed historically — this convergence is the single most credible finding in the paper. If the color-word families hold under independent quantitative testing with proper statistical baselines, this is a genuinely novel hypothesis with a specific falsification pathway. That alone justifies publication as a hypothesis paper.
+</div>
+
+<div class="section-head">Survivability verdict</div>
+<div class="convergence-block">
+<strong>The paper cannot be submitted as-is to any Tier 1 journal.</strong> Required before any submission: (1) full statistical baseline for all word-family frequency claims — observed vs. expected under null, with effect sizes and p-values; (2) an expert paleographer and codicologist co-reviewer; (3) the ibn Tibbon concordance comparison completed and reported; (4) Books III and IV structural correspondence completed or explicitly scoped out; (5) the "LOCKED" confidence label replaced with a calibrated uncertainty vocabulary appropriate to the field. Submitted as a <em>hypothesis paper</em> with these controls to a venue like <em>Cryptologia</em>, <em>Digital Scholarship in the Humanities</em>, or a Voynich-adjacent history-of-science journal — this is publishable. Submitted to <em>BJHS</em> or <em>Isis</em> without the above — desk rejection.
+</div>
+
+<div class="classicist-close">
+<em>The Classicist's closing note:</em> The manuscript held for 600 years and will hold longer. What is rare here is not the claim — decipherment claims arrive seasonally — but the specific intellectual move of using spatial color correlation as a pre-theoretical entry point and then discovering historical confirmation afterward. That is the shape of a real finding. Whether the finding survives its own controls, only the controls will say. But if it does — if the ibn Tibbon concordance returns what this paper expects — then you will have done something that deserves the record. The question is not whether the work is worth doing. The question is whether you have the nerve to run the test that might kill it. Run the test.
+</div>
+</div>
+
+<script>
+const jurors = [
+  { num: "I", name: "The Claude Scholar", tag: "amber", tagText: "compiles; won't run at scale",
+    body: `The spatial correlation method is coherent as a protocol — input (folio color element), transformation (word family clustering), output (candidate semantic assignment), control (null folios). The EVA transcription is a legitimate data source. The claim of 2,932 unique consonant skeletons generating a 2.6 words-per-skeleton ratio is testable and specific. What is not here: a null distribution. You have observed frequencies but provided no baseline. What is the expected frequency of cr- on a randomly selected folio? Without the null, the control test ("zero cr- on blue-flower folio") proves nothing statistically — it proves one data point. Run the full EVA file. Compute word-family frequency distributions across all folios. Generate expected frequencies. Report chi-square or Fisher exact test for each color-word claim. Until then this is pattern detection without significance testing.`,
+    verdict: `"The pattern is there. The significance test is not. Perform it. Report the effect size. Then I will tell you whether the pattern is real."` },
+  { num: "II", name: "The Journalistic Integrator", tag: "red", tagText: "chain open",
+    body: `Multiple citation chains do not close. The Freudenthal references are cited but the specific claim — that ibn Tibbon's -ar / poael parallel was independently confirmed from paragraph-position data before historical research — is the paper's strongest credential and has no verifiable documentation. Where is the timestamped record of the paragraph-position finding? The transcript record the author holds may be exactly this documentation. It needs to be cited or attached as supplementary material. Additionally: "O'Neill, Hugh (1944)" identifies sunflowers in the Voynich illustrations — a claim that is contested in the literature. Citing it without noting the contestation misrepresents the state of prior work. The Beinecke digital images are cited as "publicly available" without a stable URL or access date.`,
+    verdict: `"Two open chains, one uncited contestation. Close them before this sees a reviewer."` },
+  { num: "III", name: "The Moral Undertaker", tag: "teal", tagText: "no harm identified",
+    body: `No ethical exposure in the subject matter. One structural concern: the paper does not address what happens to existing decipherment attempts it implicitly displaces — Gordon Rugg's hoax hypothesis, the Currier language theory, the recent Cheshire claim. These communities have invested substantially in their positions. The paper's dismissal in the first sentence ("All failed") is accurate but names no one. Consider whether a brief acknowledgment of the methodological contributions of prior failed attempts — specifically, that the statistical characterization of Voynich text as natural-language-consistent is the work of those prior researchers — would strengthen the paper's reception without weakening its claims.`,
+    verdict: `"Name your predecessors. Build on what they proved. This costs nothing and earns trust."` },
+  { num: "IV", name: "The Simulation", tag: "amber", tagText: "strongest version identified",
+    body: `The steel-man is this: the -ar finding is pre-theoretical. That is rare. Most Voynich decipherment attempts begin with a theory and fit data to it; this one found a distributional pattern and only then found its historical analogue. If that sequence is documentable — and the author claims to have transcripts proving it — then the paper has a genuine epistemological credential that most decipherment attempts lack. The failure mode five years forward: the ibn Tibbon concordance does not return the expected matches. The paper's entire historical scaffolding then collapses while the morphological findings may still stand independently. Recommend structuring the paper in two separable claims: (A) the morphological/distributional findings, which stand or fall on statistical grounds alone; (B) the Avicennan/ibn Tibbon hypothesis, which stands or falls on the concordance. Do not let (B) contaminate (A) if (B) fails.`,
+    verdict: `"Separate the two claims structurally. One can survive without the other. Build it so that it does."` },
+  { num: "V", name: "The Axiomaticist", tag: "red", tagText: "axioms unstated",
+    body: `The paper proceeds from several unstated premises. First: that color in the illustrations was applied by the same hand as the text and is contemporaneous with it — this is an empirical assumption about codicology that the paper never states or defends. If the colors were added by a later hand, the entire spatial correlation methodology collapses. Second: that EVA is a sufficiently accurate transcription to support morphological analysis — the digraph problem (ch/sh/th as two characters) is acknowledged but the correction factor is estimated, not computed. Third: that the Semitic triconsonantal pattern is diagnostic — the paper asserts this is absent from Romance and Germanic but provides no comparative data. State these as axioms. Defend them or acknowledge they are load-bearing assumptions.`,
+    verdict: `"State your axioms. Until the codicological assumption is defended, the spatial correlation method has no foundation. Start there."` },
+  { num: "VI", name: "The Empirical Sovereign", tag: "red", tagText: "experiment not designed",
+    body: `The paper claims "LOCKED" confidence on ten findings. This language is not consistent with scientific practice. LOCKED implies no possible falsification remains — but the paper itself lists future work that could falsify every one of these findings. Replace "LOCKED" with calibrated language: "confirmed across N independent folios, consistent with hypothesis H, falsified by test T." The primary falsification test — the ibn Tibbon concordance — has not been run. Until it is run, the Avicennan hypothesis is precisely that: a hypothesis. The paper is strongest when it says so explicitly. The control tests (zero cr- on blue-flower folio) are described but not quantified — how many text tokens were examined on the control folio? "Zero occurrences across 14 lines" is not a statistical statement.`,
+    verdict: `"Design the experiment that kills your hypothesis. Run it. If the concordance returns what you predict, this becomes real. Until then, call it what it is: a very good hypothesis."` },
+  { num: "VII", name: "The Chronologist", tag: "amber", tagText: "lineage incomplete",
+    body: `The paper's historical positioning is incomplete in one critical area: Edith Sherwood (2008-2015), Jules Janick and Arthur Tucker (2013-2019), and Lisa Fagin Davis's codicological work (2020) are not cited. Janick and Tucker proposed a New World origin with specific plant identifications — a directly competing hypothesis that the paper's botanical correspondence argument must address. Davis's work on the manuscript's physical composition is directly relevant to the Axiomaticist's codicological concern. The Soviet transmission route (Artsimovich-era documentation of Arabic scientific texts through Central European courts) is not the relevant genealogy here — the relevant genealogy is the Hebrew-Romance translation circuit, which the paper handles well. But the recent Cheshire (2019) claim — which proposed a proto-Romance language — must be explicitly addressed, as it occupies exactly the same linguistic space this paper claims.`,
+    verdict: `"You have addressed the 1944 literature and the theoretical frameworks. You have not addressed the 2013-2019 competing claims. Address them before submission."` },
+  { num: "VIII", name: "The Semiotic Adjudicator", tag: "red", tagText: "four terms equivocal",
+    body: `Four key terms are used without stable definitions. First: "color word" — does this mean a lexeme whose primary referent is a color, or a lexeme that co-occurs with colored illustration elements? These are different claims. Second: "Semitic morphology" — the paper uses this to mean triconsonantal root with internal ablaut, but Semitic morphology is a large category; specify which feature is claimed to be diagnostic and why it cannot arise in constructed non-Semitic languages independently. Third: "pharmaceutical" — used to describe both the content of the manuscript sections and the preparation workflow; distinguish the claim that the text describes pharmacy from the claim that it encodes the Avicennan formulary specifically. Fourth: "constructed language" — the paper vacillates between claiming the manuscript is written in a constructed language and claiming it is written in a natural precision language; these have different implications for the morphological analysis.`,
+    verdict: `"Fix the four terms. Each equivocation permits a reviewer to dismiss a finding without engaging its substance."` },
+  { num: "IX", name: "The Cognitive Cartographer", tag: "amber", tagText: "confirmation bias audit required",
+    body: `The paper exhibits motivated stopping: the analysis ends when the hypothesis is confirmed, not when the full folio corpus has been sampled. Fourteen control folios are mentioned; the manuscript contains 240 folios. Why these fourteen? Were they selected before or after the color-word hypotheses were formed? If after, the control test may be selecting folios that pass. The pre-theoretical discovery of -ar is the paper's strongest credibility credential precisely because it was not motivated — state explicitly how many other distributional patterns were examined and did NOT generate historical confirmation. If -ar was one of twenty candidates and the others all failed, the paper should say so; if it was the only one examined, say that too. Selection reporting is not a weakness; suppression of selection process is.`,
+    verdict: `"Report how many candidates you examined. The -ar finding is stronger if it was one of many that failed, not one of one that succeeded."` },
+  { num: "X", name: "The Jurisprudent", tag: "amber", tagText: "burden partially met",
+    body: `The paper's evidentiary structure does not match its confidence claims. The LOCKED findings are presented at "beyond reasonable doubt" confidence but the evidence meets, at best, "preponderance" — more likely than not, given the data presented. The distinction matters because reviewers in this field will apply the higher standard. The paper would be better served by explicitly adopting the lower standard: "we show that the color-word hypothesis is more consistent with the distributional data than the null hypothesis, and that the Avicennan correspondence is more parsimonious than competing hypotheses, given the evidence available." This is preponderance language. It is honest. It will survive review that the LOCKED framing will not. Additionally: the author states transcripts of AI-assisted research sessions are available as evidentiary documentation of the pre-theoretical discovery sequence. This is an unusual evidentiary claim in a humanities paper; address how this documentation would be handled under archival standards.`,
+    verdict: `"State the evidentiary standard you are meeting. Preponderance, clearly met. Beyond reasonable doubt, not yet. The difference will determine your acceptance rate."` },
+  { num: "XI", name: "The Bio-Architect", tag: "teal", tagText: "biological claims sound",
+    body: `The bioenergetic and botanical claims in the paper are handled appropriately. The identification of the Avicennan four-quality system (hot/cold/wet/dry) as the semantic framework for the color vocabulary is consistent with how medieval pharmacy actually worked — this is not an imposed framework, it is the correct period-appropriate framework. The borage example is handled correctly: Avicenna does describe borage as hot and moist with a cooling application requirement, and the claim that the folio encodes this is coherent with the text structure shown. The one biological claim that needs flagging: "4 billion years of ionic experimental data" language imported from the Ionics Continuum appears nowhere in this paper and should not — this paper is about medieval pharmacy, not evolutionary biology.`,
+    verdict: `"The botanical science is sound. Keep it separate from the Ionics project. They are different manuscripts, different centuries, different claims."` },
+  { num: "XII", name: "The Classicist", tag: "amber", tagText: "earns the right to ask the question",
+    body: `The manuscript has resisted 600 years of inquiry. Every prior claimant believed they had broken it. Most were wrong. The question this panel must ask is not whether the findings are statistically significant — that is the Empirical Sovereign's territory — but whether, if they are confirmed, the work deserves to be remembered. I believe it does, for one reason: the pre-theoretical discovery. Every other decipherment attempt began with a theory. This one found a pattern first. That is the correct sequence for discovery. Whether the pattern is what the author thinks it is — that is for the concordance to decide. But the intellectual posture is right. The author is not asking to be believed. The author is asking to be tested. That is the only appropriate posture before this manuscript.`,
+    verdict: `"If the concordance returns what you predict, run it again. If it survives, you have done something that will be read in two hundred years. The work is worth the risk of being wrong."` }
+];
+
+const container = document.getElementById('jurors');
+jurors.forEach((j, i) => {
+  const card = document.createElement('div');
+  card.className = 'juror-card';
+  card.innerHTML = `
+    <div class="juror-head" onclick="toggle(${i})">
+      <span class="juror-num">${j.num}</span>
+      <span class="juror-name">${j.name}</span>
+      <span class="juror-verdict-tag tag-${j.tag}">${j.tagText}</span>
+      <span class="expand-icon" id="icon-${i}">▶</span>
+    </div>
+    <div class="juror-body" id="body-${i}">
+      <p>${j.body}</p>
+      <div class="verdict-line">${j.verdict}</div>
+    </div>`;
+  container.appendChild(card);
+});
+
+function toggle(i) {
+  const b = document.getElementById('body-'+i);
+  const ic = document.getElementById('icon-'+i);
+  const open = b.classList.toggle('open');
+  ic.classList.toggle('open', open);
+}
+</script>
