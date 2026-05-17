@@ -1,0 +1,2356 @@
+section,trajectory,count
+herbal-A,C0 -> C0,111
+herbal-A,C0 -> C0 -> C0,85
+herbal-A,C0 -> C0 -> C0 -> C0,50
+herbal-A,C0 -> C0 -> C2,38
+balneo,C1 -> C1 -> C1,35
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0,31
+balneo,C1 -> C1 -> C1 -> C1,31
+herbal-A,C0 -> C2,30
+balneo,C1 -> C1 -> C1 -> C1 -> C1,28
+balneo,C1 -> C1,23
+pharm-herbal,C0 -> C0,22
+herbal-A,C2 -> C0,20
+herbal-A,C0 -> C1,18
+herbal-A,C0 -> C2 -> C0,18
+pharm-herbal,C0 -> C0 -> C0,18
+herbal-A,C2 -> C2,17
+balneo,C1 -> C1 -> C2,16
+herbal-A,C0 -> C0 -> C0 -> C2,16
+herbal-A,C0 -> C0 -> C1,14
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1,14
+herbal-A,C1 -> C0,13
+pharm-herbal,C0 -> C3,12
+herbal-A,C1 -> C0 -> C0,11
+pharm-herbal,C0 -> C0 -> C0 -> C0,11
+herbal-A,C0 -> C2 -> C2,10
+balneo,C1 -> C1 -> C1 -> C1 -> C2,10
+herbal-A,C2 -> C0 -> C0,10
+balneo,C0 -> C1,10
+herbal-A,C0 -> C0 -> C1 -> C0,9
+pharm-herbal,C0 -> C1,9
+herbal-A,C0 -> C0 -> C2 -> C2,9
+stars,C1 -> C1,9
+herbal-A,C3 -> C0,9
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2,9
+herbal-A,C2 -> C1,8
+herbal-A,C0 -> C0 -> C2 -> C0,8
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0,8
+stars,C0 -> C1,8
+balneo,C1 -> C2 -> C1,7
+herbal-A,C2 -> C0 -> C0 -> C0,7
+balneo,C1 -> C2,7
+cosmo/zodiac,C0 -> C0,7
+herbal-A,C0 -> C1 -> C2,7
+pharm-herbal,C0 -> C0 -> C2,7
+stars,C1 -> C1 -> C1 -> C1,6
+stars,C1 -> C1 -> C1,6
+balneo,C1 -> C1 -> C1 -> C2,6
+rosettes,C1 -> C1,6
+pharm-herbal,C3 -> C0,6
+herbal-A,C1 -> C1,6
+balneo,C2 -> C1,6
+herbal-A,C0 -> C1 -> C0,6
+stars,C0 -> C2 -> C2,6
+balneo,C1 -> C1 -> C0,6
+herbal-A,C2 -> C2 -> C2,6
+herbal-A,C1 -> C2 -> C1,6
+herbal-A,C2 -> C2 -> C0,6
+cosmo/zodiac,C3 -> C2,6
+stars,C1 -> C2 -> C0,6
+stars,C1 -> C3,6
+stars,C3 -> C1,6
+herbal-A,C2 -> C3,5
+herbal-A,C0 -> C0 -> C4,5
+balneo,C1 -> C1 -> C2 -> C1 -> C2,5
+cosmo/zodiac,C0 -> C2,5
+herbal-A,C1 -> C2,5
+herbal-A,C0 -> C1 -> C1,5
+stars,C0 -> C0 -> C0,5
+herbal-A,C0 -> C0 -> C3,5
+stars,C1 -> C1 -> C1 -> C1 -> C1,5
+balneo,C1 -> C0 -> C1 -> C1,5
+herbal-A,C0 -> C4 -> C0,5
+herbal-A,C0 -> C4,5
+pharm-herbal,C1 -> C0,5
+herbal-A,C1 -> C0 -> C2,5
+pharm-herbal,C0 -> C2,5
+stars,C0 -> C0,5
+herbal-A,C0 -> C0 -> C0 -> C1,5
+stars,C1 -> C1 -> C0,5
+herbal-A,C1 -> C0 -> C0 -> C0,5
+herbal-A,C0 -> C3 -> C0,5
+balneo,C1 -> C1 -> C2 -> C1,5
+herbal-A,C0 -> C4 -> C0 -> C0,5
+stars,C2 -> C0,5
+stars,C0 -> C3,5
+balneo,C1 -> C0,5
+balneo,C1 -> C1 -> C1 -> C0,4
+balneo,C1 -> C2 -> C2,4
+balneo,C3 -> C1 -> C1 -> C1,4
+herbal-A,C3 -> C0 -> C0,4
+balneo,C1 -> C3,4
+herbal-A,C0 -> C0 -> C0 -> C2 -> C2,4
+herbal-A,C0 -> C0 -> C0 -> C1 -> C0,4
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2,4
+balneo,C1 -> C0 -> C2,4
+herbal-A,C2 -> C0 -> C2,4
+herbal-A,C4 -> C0,4
+herbal-A,C1 -> C1 -> C1 -> C2,4
+herbal-A,C0 -> C0 -> C4 -> C0,4
+herbal-A,C0 -> C2 -> C2 -> C2,4
+cosmo/zodiac,C1 -> C0,4
+herbal-A,C4 -> C2,4
+pharm-herbal,C0 -> C1 -> C0 -> C0,4
+pharm-herbal,C1 -> C0 -> C0 -> C0,4
+rosettes,C0 -> C1 -> C0,4
+rosettes,C1 -> C1 -> C1,4
+stars,C1 -> C0 -> C1 -> C1,4
+balneo,C0 -> C1 -> C1,4
+stars,C1 -> C1 -> C2 -> C2,4
+herbal-A,C0 -> C2 -> C0 -> C0,4
+balneo,C1 -> C2 -> C1 -> C1,4
+balneo,C1 -> C2 -> C1 -> C1 -> C1,4
+stars,C2 -> C1 -> C2,4
+herbal-A,C1 -> C2 -> C2 -> C2,4
+stars,C3 -> C1 -> C3,4
+stars,C3 -> C2,4
+herbal-A,C2 -> C0 -> C0 -> C2,4
+herbal-A,C0 -> C2 -> C1 -> C0,3
+herbal-A,C4 -> C0 -> C2,3
+pharm-herbal,C0 -> C0 -> C3,3
+balneo,C1 -> C0 -> C1 -> C1 -> C1,3
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2,3
+herbal-A,C0 -> C0 -> C0 -> C1 -> C0 -> C0,3
+cosmo/zodiac,C1 -> C1,3
+cosmo/zodiac,C2 -> C1 -> C1,3
+herbal-A,C0 -> C2 -> C2 -> C0,3
+balneo,C2 -> C1 -> C4 -> C1,3
+herbal-A,C1 -> C3,3
+herbal-A,C0 -> C0 -> C2 -> C0 -> C2,3
+cosmo/zodiac,C1 -> C2,3
+herbal-A,C0 -> C1 -> C0 -> C2,3
+herbal-A,C1 -> C0 -> C1,3
+cosmo/zodiac,C2 -> C2,3
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,3
+pharm-herbal,C0 -> C1 -> C0,3
+balneo,C1 -> C1 -> C0 -> C1,3
+balneo,C1 -> C3 -> C1 -> C1 -> C1,3
+balneo,C1 -> C3 -> C1 -> C1,3
+pharm-herbal,C0 -> C3 -> C0,3
+pharm-herbal,C0 -> C3 -> C0 -> C0,3
+pharm-herbal,C0 -> C0 -> C1,3
+pharm-herbal,C1 -> C0 -> C0,3
+herbal-A,C2 -> C1 -> C2,3
+pharm-herbal,C1 -> C0 -> C1,3
+pharm-herbal,C2 -> C0,3
+herbal-A,C0 -> C1 -> C0 -> C0,3
+herbal-A,C0 -> C0 -> C0 -> C3,3
+rosettes,C1 -> C0,3
+balneo,C0 -> C2,3
+rosettes,C1 -> C1 -> C0,3
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2,3
+balneo,C1 -> C1 -> C1 -> C1 -> C0,3
+cosmo/zodiac,C0 -> C1,3
+stars,C0 -> C0 -> C1,3
+cosmo/zodiac,C3 -> C0 -> C2,3
+stars,C0 -> C1 -> C1,3
+stars,C0 -> C1 -> C2 -> C2,3
+stars,C0 -> C1 -> C2 -> C2 -> C2,3
+pharm-herbal,C0 -> C0 -> C0 -> C3,3
+stars,C0 -> C2 -> C3,3
+cosmo/zodiac,C0 -> C0 -> C2,3
+stars,C1 -> C0 -> C0,3
+balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1,3
+stars,C1 -> C0 -> C3,3
+stars,C1 -> C0 -> C3 -> C1,3
+balneo,C1 -> C2 -> C2 -> C1,3
+herbal-A,C2 -> C2 -> C2 -> C0,3
+stars,C1 -> C1 -> C0 -> C1 -> C1,3
+herbal-A,C0 -> C4 -> C2,3
+herbal-A,C1 -> C1 -> C3,3
+herbal-A,C1 -> C2 -> C2,3
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,3
+herbal-A,C4 -> C0 -> C0,3
+stars,C1 -> C1 -> C1 -> C3,3
+stars,C1 -> C1 -> C2 -> C0,3
+herbal-A,C0 -> C1 -> C2 -> C0,3
+balneo,C4 -> C1,3
+pharm-herbal,C0 -> C0 -> C1 -> C0,3
+herbal-A,C3 -> C2,3
+stars,C2 -> C0 -> C2,3
+stars,C2 -> C1,3
+stars,C2 -> C1 -> C1,3
+stars,C2 -> C1 -> C1 -> C1,3
+stars,C2 -> C1 -> C1 -> C1 -> C1,3
+balneo,C1 -> C1 -> C2 -> C2,3
+stars,C2 -> C2,3
+stars,C2 -> C2 -> C2,3
+cosmo/zodiac,C1 -> C1 -> C1,3
+stars,C3 -> C1 -> C0,3
+balneo,C1 -> C1 -> C2 -> C2 -> C1,3
+balneo,C1 -> C4 -> C1 -> C1,3
+stars,C3 -> C3,3
+stars,C4 -> C0 -> C1,3
+stars,C4 -> C1 -> C1 -> C1,3
+stars,C4 -> C1 -> C1 -> C1 -> C1,3
+pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0,3
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,3
+herbal-A,C3 -> C0 -> C1,2
+cosmo/zodiac,C1 -> C3,2
+herbal-A,C0 -> C2 -> C4 -> C2 -> C2,2
+balneo,C1 -> C1 -> C2 -> C1 -> C1,2
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,2
+balneo,C0 -> C0 -> C1 -> C1 -> C2,2
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C1,2
+herbal-A,C0 -> C3,2
+balneo,C4 -> C1 -> C1,2
+balneo,C4 -> C1 -> C1 -> C0 -> C0,2
+herbal-A,C0 -> C0 -> C3 -> C0,2
+herbal-A,C0 -> C4 -> C2 -> C2,2
+herbal-A,C0 -> C3 -> C0 -> C0,2
+herbal-A,C0 -> C0 -> C0 -> C4,2
+herbal-A,C3 -> C2 -> C2,2
+stars,C4 -> C2 -> C1 -> C1,2
+herbal-A,C3 -> C3 -> C2 -> C2,2
+herbal-A,C0 -> C3 -> C0 -> C2,2
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,2
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2,2
+cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0,2
+herbal-A,C0 -> C0 -> C1 -> C0 -> C0,2
+herbal-A,C0 -> C0 -> C1 -> C0 -> C0 -> C0,2
+cosmo/zodiac,C2 -> C0 -> C1,2
+herbal-A,C2 -> C0 -> C1 -> C0,2
+herbal-A,C0 -> C0 -> C4 -> C0 -> C4,2
+herbal-A,C1 -> C0 -> C0 -> C2,2
+herbal-A,C3 -> C0 -> C2,2
+herbal-A,C3 -> C3,2
+balneo,C1 -> C1 -> C3,2
+herbal-A,C0 -> C3 -> C3,2
+cosmo/zodiac,C3 -> C0,2
+herbal-A,C0 -> C0 -> C4 -> C2,2
+herbal-A,C0 -> C0 -> C4 -> C4,2
+balneo,C1 -> C3 -> C0 -> C1,2
+herbal-A,C0 -> C0 -> C2 -> C0 -> C0,2
+cosmo/zodiac,C0 -> C1 -> C0,2
+cosmo/zodiac,C0 -> C1 -> C0 -> C0,2
+balneo,C0 -> C1 -> C4 -> C1,2
+balneo,C1 -> C1 -> C3 -> C2 -> C1,2
+herbal-A,C1 -> C0 -> C0 -> C2 -> C2,2
+balneo,C1 -> C1 -> C4 -> C1 -> C1,2
+balneo,C1 -> C1 -> C3 -> C3,2
+balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C1,2
+herbal-A,C0 -> C1 -> C0 -> C1,2
+herbal-A,C2 -> C2 -> C2 -> C2,2
+balneo,C1 -> C3 -> C1 -> C1 -> C2,2
+balneo,C1 -> C3 -> C1 -> C2 -> C1,2
+cosmo/zodiac,C3 -> C1,2
+balneo,C1 -> C3 -> C2,2
+pharm-herbal,C0 -> C1 -> C1,2
+pharm-herbal,C0 -> C1 -> C1 -> C0 -> C0 -> C0,2
+pharm-herbal,C0 -> C1 -> C3,2
+pharm-herbal,C0 -> C1 -> C3 -> C3,2
+herbal-A,C0 -> C1 -> C0 -> C2 -> C0,2
+pharm-herbal,C0 -> C2 -> C0 -> C0 -> C0,2
+pharm-herbal,C0 -> C2 -> C2,2
+balneo,C0 -> C4 -> C1 -> C1,2
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0,2
+herbal-A,C0 -> C1 -> C0 -> C4,2
+pharm-herbal,C0 -> C3 -> C1,2
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0,2
+cosmo/zodiac,C0 -> C2 -> C1 -> C0 -> C0,2
+cosmo/zodiac,C3 -> C1 -> C3,2
+herbal-A,C0 -> C1 -> C1 -> C0 -> C0,2
+pharm-herbal,C1 -> C1 -> C0,2
+pharm-herbal,C1 -> C1 -> C0 -> C0 -> C1,2
+pharm-herbal,C1 -> C1 -> C3,2
+pharm-herbal,C1 -> C2 -> C2,2
+pharm-herbal,C1 -> C3 -> C1 -> C2,2
+balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1,2
+pharm-herbal,C2 -> C0 -> C0 -> C0,2
+pharm-herbal,C2 -> C2,2
+pharm-herbal,C2 -> C2 -> C2 -> C2,2
+cosmo/zodiac,C0 -> C2 -> C2,2
+pharm-herbal,C3 -> C0 -> C0 -> C0 -> C1,2
+pharm-herbal,C3 -> C2,2
+pharm-herbal,C4 -> C0,2
+rosettes,C0 -> C0,2
+rosettes,C0 -> C0 -> C0,2
+herbal-A,C3 -> C1,2
+rosettes,C0 -> C2 -> C1,2
+balneo,C1 -> C4 -> C1 -> C1 -> C1,2
+rosettes,C1 -> C0 -> C1,2
+rosettes,C1 -> C0 -> C1 -> C1,2
+balneo,C1 -> C0 -> C1 -> C2,2
+balneo,C1 -> C4 -> C2 -> C2 -> C1,2
+balneo,C2 -> C0 -> C1 -> C1,2
+rosettes,C1 -> C1 -> C1 -> C2 -> C2,2
+rosettes,C1 -> C2,2
+rosettes,C1 -> C2 -> C0,2
+rosettes,C1 -> C2 -> C0 -> C1,2
+rosettes,C1 -> C2 -> C2,2
+rosettes,C2 -> C0,2
+rosettes,C2 -> C0 -> C2,2
+rosettes,C2 -> C2,2
+pharm-herbal,C0 -> C0 -> C3 -> C0 -> C0 -> C0,2
+cosmo/zodiac,C3 -> C2 -> C2 -> C2,2
+stars,C0 -> C0 -> C0 -> C0,2
+cosmo/zodiac,C3 -> C2 -> C3,2
+stars,C0 -> C0 -> C2,2
+herbal-A,C2 -> C0 -> C2 -> C0 -> C0,2
+stars,C0 -> C1 -> C0,2
+stars,C0 -> C1 -> C0 -> C0 -> C1,2
+balneo,C1 -> C1 -> C0 -> C0 -> C1,2
+stars,C0 -> C1 -> C1 -> C1 -> C1,2
+stars,C0 -> C1 -> C2,2
+balneo,C2 -> C1 -> C1 -> C0,2
+cosmo/zodiac,C3 -> C3,2
+stars,C0 -> C1 -> C2 -> C2 -> C2 -> C2,2
+stars,C0 -> C2,2
+stars,C0 -> C2 -> C0,2
+stars,C0 -> C2 -> C1,2
+herbal-A,C1 -> C2 -> C1 -> C2,2
+stars,C0 -> C2 -> C2 -> C2,2
+balneo,C2 -> C1 -> C1 -> C1 -> C1,2
+balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1,2
+stars,C0 -> C3 -> C0,2
+stars,C0 -> C3 -> C1,2
+stars,C1 -> C0,2
+balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,2
+stars,C1 -> C0 -> C0 -> C0,2
+stars,C1 -> C0 -> C1,2
+herbal-A,C0 -> C2 -> C0 -> C0 -> C0 -> C0,2
+stars,C1 -> C0 -> C1 -> C2 -> C1,2
+herbal-A,C3 -> C1 -> C1 -> C2,2
+herbal-A,C2 -> C0 -> C2 -> C3,2
+herbal-A,C1 -> C1 -> C0,2
+cosmo/zodiac,C1 -> C0 -> C1 -> C1,2
+herbal-A,C0 -> C2 -> C0 -> C2,2
+stars,C1 -> C1 -> C0 -> C2,2
+stars,C1 -> C1 -> C0 -> C3 -> C2 -> C2,2
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C0,2
+stars,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,2
+herbal-A,C2 -> C0 -> C3 -> C0 -> C0 -> C0,2
+balneo,C2 -> C2,2
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1,2
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1,2
+balneo,C2 -> C2 -> C1 -> C3 -> C1,2
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0,2
+stars,C1 -> C1 -> C1 -> C2 -> C1,2
+stars,C1 -> C1 -> C1 -> C2 -> C1 -> C2,2
+herbal-A,C0 -> C2 -> C1,2
+stars,C1 -> C1 -> C1 -> C3 -> C2,2
+stars,C1 -> C1 -> C2,2
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C1,2
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C4,2
+stars,C1 -> C1 -> C3 -> C2,2
+stars,C1 -> C1 -> C4,2
+stars,C1 -> C2,2
+herbal-A,C2 -> C4 -> C0,2
+stars,C1 -> C2 -> C1,2
+stars,C1 -> C2 -> C1 -> C1,2
+stars,C1 -> C2 -> C1 -> C2,2
+stars,C1 -> C2 -> C1 -> C3,2
+stars,C1 -> C2 -> C2 -> C1 -> C0,2
+stars,C1 -> C2 -> C2 -> C2,2
+balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1,2
+stars,C1 -> C3 -> C1 -> C2,2
+stars,C1 -> C3 -> C3,2
+balneo,C2 -> C3 -> C2,2
+stars,C2 -> C0 -> C1,2
+herbal-A,C0 -> C2 -> C1 -> C2,2
+stars,C2 -> C0 -> C2 -> C2 -> C2,2
+balneo,C3 -> C0 -> C1,2
+herbal-A,C1 -> C1 -> C1 -> C1,2
+balneo,C3 -> C1 -> C1 -> C0,2
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1,2
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,2
+balneo,C3 -> C1 -> C1 -> C2,2
+stars,C2 -> C2 -> C1,2
+herbal-A,C0 -> C2 -> C2 -> C0 -> C0 -> C0,2
+stars,C2 -> C2 -> C2 -> C1 -> C2,2
+stars,C2 -> C2 -> C2 -> C2,2
+stars,C2 -> C2 -> C2 -> C2 -> C2,2
+stars,C2 -> C2 -> C3,2
+stars,C3 -> C0 -> C1 -> C2 -> C1,2
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1,2
+cosmo/zodiac,C1 -> C1 -> C3 -> C1 -> C2,2
+stars,C3 -> C1 -> C0 -> C1,2
+stars,C3 -> C1 -> C1 -> C1,2
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C2,2
+stars,C3 -> C1 -> C1 -> C1 -> C3,2
+stars,C3 -> C1 -> C1 -> C3,2
+stars,C3 -> C1 -> C2 -> C1 -> C2,2
+balneo,C1 -> C1 -> C1 -> C2 -> C2,2
+stars,C3 -> C1 -> C3 -> C3,2
+pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0,2
+stars,C3 -> C2 -> C0,2
+stars,C3 -> C2 -> C0 -> C2,2
+stars,C3 -> C2 -> C1 -> C1,2
+stars,C3 -> C2 -> C1 -> C1 -> C1 -> C1,2
+herbal-A,C2 -> C1 -> C1,2
+balneo,C1 -> C1 -> C1 -> C3,2
+stars,C4 -> C1 -> C0 -> C1,2
+balneo,C1 -> C1 -> C1 -> C3 -> C1,2
+herbal-A,C0 -> C2 -> C3,2
+stars,C4 -> C4,2
+herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0,2
+herbal-A,C3 -> C0 -> C0 -> C2,2
+balneo,C0 -> C1 -> C1 -> C1,2
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1,2
+balneo,C1 -> C1 -> C1 -> C4 -> C3,1
+balneo,C1 -> C1 -> C2 -> C0 -> C1,1
+balneo,C1 -> C1 -> C2 -> C0 -> C2,1
+balneo,C1 -> C1 -> C2 -> C0 -> C2 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C2 -> C1 -> C0 -> C2 -> C0,1
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C4 -> C1 -> C4 -> C1,1
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C3,1
+balneo,C1 -> C1 -> C2 -> C1 -> C1 -> C4 -> C1 -> C1,1
+balneo,C1 -> C1 -> C2 -> C1 -> C2 -> C0,1
+balneo,C1 -> C1 -> C2 -> C1 -> C2 -> C1,1
+balneo,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C2 -> C1 -> C3 -> C3 -> C0 -> C1,1
+balneo,C1 -> C1 -> C2 -> C2 -> C0,1
+balneo,C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C0 -> C1,1
+balneo,C1 -> C1 -> C2 -> C2 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C2 -> C2 -> C2,1
+balneo,C1 -> C1 -> C2 -> C2 -> C2 -> C4 -> C0 -> C0 -> C0,1
+balneo,C1 -> C1 -> C2 -> C2 -> C3 -> C3,1
+balneo,C1 -> C1 -> C2 -> C3,1
+balneo,C1 -> C1 -> C2 -> C3 -> C0 -> C2 -> C1 -> C2 -> C2,1
+balneo,C1 -> C1 -> C2 -> C3 -> C1 -> C2 -> C2 -> C1 -> C2,1
+balneo,C1 -> C1 -> C2 -> C3 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C2 -> C4 -> C1,1
+balneo,C1 -> C1 -> C2 -> C4 -> C2,1
+balneo,C1 -> C1 -> C3 -> C1,1
+balneo,C1 -> C1 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1,1
+balneo,C1 -> C1 -> C3 -> C1 -> C2,1
+balneo,C1 -> C1 -> C3 -> C1 -> C4 -> C1 -> C2 -> C0,1
+balneo,C1 -> C1 -> C3 -> C2,1
+balneo,C1 -> C1 -> C3 -> C2 -> C0 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C2 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C2 -> C1 -> C3,1
+balneo,C1 -> C1 -> C3 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C3 -> C3 -> C2,1
+balneo,C1 -> C1 -> C4 -> C0 -> C2 -> C2,1
+balneo,C1 -> C1 -> C4 -> C1,1
+balneo,C1 -> C1 -> C4 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C4 -> C1 -> C2 -> C1 -> C3,1
+balneo,C1 -> C1 -> C4 -> C4,1
+balneo,C1 -> C2 -> C0 -> C0,1
+balneo,C1 -> C2 -> C0 -> C1 -> C1 -> C1,1
+balneo,C1 -> C2 -> C0 -> C1 -> C4 -> C1 -> C2,1
+balneo,C1 -> C2 -> C1 -> C0,1
+balneo,C1 -> C2 -> C1 -> C0 -> C2,1
+balneo,C1 -> C2 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2,1
+balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C3,1
+balneo,C1 -> C2 -> C1 -> C1 -> C3 -> C3 -> C3,1
+balneo,C1 -> C2 -> C1 -> C3,1
+balneo,C1 -> C2 -> C1 -> C4,1
+balneo,C1 -> C2 -> C2 -> C1 -> C1,1
+balneo,C1 -> C2 -> C2 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,1
+balneo,C1 -> C2 -> C2 -> C1 -> C3,1
+balneo,C1 -> C2 -> C2 -> C2 -> C1,1
+balneo,C1 -> C2 -> C2 -> C3 -> C2,1
+balneo,C1 -> C2 -> C3,1
+balneo,C1 -> C2 -> C3 -> C2,1
+balneo,C1 -> C2 -> C3 -> C2 -> C1 -> C1 -> C3 -> C3,1
+balneo,C1 -> C2 -> C3 -> C4,1
+balneo,C1 -> C2 -> C4 -> C1,1
+balneo,C1 -> C2 -> C4 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C2 -> C4 -> C1 -> C2,1
+balneo,C1 -> C3 -> C0 -> C1 -> C1,1
+balneo,C1 -> C3 -> C0 -> C2 -> C1 -> C1 -> C1,1
+balneo,C1 -> C3 -> C0 -> C2 -> C2,1
+balneo,C1 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1,1
+balneo,C1 -> C3 -> C1,1
+balneo,C1 -> C3 -> C1 -> C0 -> C1 -> C1 -> C1,1
+balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C3 -> C1 -> C1 -> C1 -> C3,1
+balneo,C1 -> C3 -> C1 -> C1 -> C3,1
+balneo,C1 -> C3 -> C1 -> C1 -> C4,1
+balneo,C1 -> C3 -> C1 -> C3,1
+balneo,C1 -> C3 -> C2 -> C0,1
+balneo,C1 -> C3 -> C2 -> C1 -> C1 -> C1 -> C2 -> C3,1
+balneo,C1 -> C3 -> C2 -> C2,1
+balneo,C1 -> C3 -> C2 -> C2 -> C2,1
+balneo,C1 -> C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C3 -> C1,1
+balneo,C1 -> C3 -> C2 -> C3,1
+balneo,C1 -> C3 -> C2 -> C4 -> C4 -> C1,1
+balneo,C1 -> C3 -> C3,1
+balneo,C1 -> C3 -> C4 -> C2 -> C1 -> C2,1
+balneo,C1 -> C3 -> C4 -> C2 -> C2 -> C1,1
+balneo,C1 -> C4 -> C0 -> C1 -> C1,1
+balneo,C1 -> C4 -> C1,1
+balneo,C1 -> C4 -> C1 -> C0 -> C1,1
+balneo,C1 -> C4 -> C1 -> C2 -> C2 -> C2,1
+balneo,C1 -> C4 -> C1 -> C4 -> C1 -> C2,1
+balneo,C1 -> C4 -> C4 -> C1,1
+balneo,C2 -> C0 -> C2,1
+balneo,C2 -> C0 -> C2 -> C1,1
+balneo,C2 -> C0 -> C3,1
+balneo,C2 -> C1 -> C0,1
+balneo,C2 -> C1 -> C0 -> C1 -> C1 -> C0,1
+balneo,C2 -> C1 -> C0 -> C2,1
+balneo,C2 -> C1 -> C1,1
+balneo,C2 -> C1 -> C1 -> C0 -> C0,1
+balneo,C2 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C3,1
+balneo,C2 -> C1 -> C1 -> C1 -> C0,1
+balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2,1
+balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C3,1
+balneo,C2 -> C1 -> C1 -> C1 -> C1 -> C3 -> C3,1
+balneo,C2 -> C1 -> C1 -> C1 -> C2,1
+balneo,C2 -> C1 -> C1 -> C1 -> C2 -> C1,1
+balneo,C2 -> C1 -> C1 -> C1 -> C3,1
+balneo,C2 -> C1 -> C1 -> C2,1
+balneo,C2 -> C1 -> C1 -> C2 -> C0,1
+balneo,C2 -> C1 -> C1 -> C2 -> C1,1
+balneo,C2 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,1
+balneo,C2 -> C1 -> C1 -> C2 -> C3,1
+balneo,C2 -> C1 -> C1 -> C3,1
+balneo,C2 -> C1 -> C1 -> C3 -> C1,1
+balneo,C2 -> C1 -> C2 -> C1,1
+balneo,C2 -> C1 -> C2 -> C1 -> C1 -> C1,1
+balneo,C2 -> C1 -> C2 -> C2,1
+balneo,C2 -> C1 -> C2 -> C3 -> C1 -> C1,1
+balneo,C2 -> C1 -> C3,1
+balneo,C2 -> C1 -> C3 -> C3 -> C1 -> C1 -> C2,1
+balneo,C2 -> C2 -> C0 -> C2 -> C0,1
+balneo,C2 -> C2 -> C1,1
+balneo,C2 -> C2 -> C1 -> C0,1
+balneo,C2 -> C2 -> C1 -> C1 -> C1 -> C1,1
+balneo,C2 -> C2 -> C1 -> C1 -> C3,1
+balneo,C2 -> C2 -> C2,1
+balneo,C2 -> C2 -> C2 -> C0 -> C1,1
+balneo,C2 -> C2 -> C2 -> C1,1
+balneo,C2 -> C2 -> C2 -> C1 -> C1 -> C2,1
+balneo,C2 -> C2 -> C2 -> C1 -> C1 -> C3,1
+balneo,C2 -> C2 -> C2 -> C2,1
+balneo,C2 -> C2 -> C2 -> C2 -> C2,1
+balneo,C2 -> C2 -> C3,1
+balneo,C2 -> C2 -> C4 -> C1,1
+balneo,C2 -> C2 -> C4 -> C4 -> C1 -> C2,1
+balneo,C2 -> C3 -> C1 -> C1 -> C2,1
+balneo,C2 -> C4 -> C3 -> C1 -> C1 -> C1 -> C2 -> C1,1
+balneo,C2 -> C4 -> C4 -> C1,1
+balneo,C3 -> C1 -> C1,1
+balneo,C3 -> C1 -> C1 -> C1 -> C1,1
+balneo,C3 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C3 -> C1 -> C1 -> C1 -> C2 -> C1,1
+balneo,C3 -> C1 -> C1 -> C3 -> C1,1
+balneo,C3 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C2,1
+balneo,C3 -> C1 -> C2 -> C1,1
+balneo,C3 -> C1 -> C2 -> C2,1
+balneo,C3 -> C1 -> C3,1
+balneo,C3 -> C2,1
+balneo,C3 -> C2 -> C1 -> C1,1
+balneo,C3 -> C2 -> C1 -> C1 -> C1,1
+balneo,C3 -> C2 -> C2 -> C3 -> C4 -> C1,1
+balneo,C3 -> C2 -> C4 -> C1 -> C0 -> C0 -> C1 -> C1 -> C0,1
+balneo,C3 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C3 -> C3 -> C1 -> C1 -> C1 -> C4 -> C1 -> C3,1
+balneo,C3 -> C3 -> C1 -> C1 -> C3 -> C1,1
+balneo,C3 -> C3 -> C2 -> C1,1
+balneo,C3 -> C3 -> C2 -> C2,1
+balneo,C3 -> C4,1
+balneo,C3 -> C4 -> C1,1
+balneo,C3 -> C4 -> C1 -> C2,1
+balneo,C4 -> C0 -> C0 -> C2 -> C1 -> C2,1
+balneo,C4 -> C0 -> C1 -> C1 -> C1 -> C0,1
+balneo,C4 -> C0 -> C1 -> C1 -> C4,1
+balneo,C4 -> C0 -> C2,1
+balneo,C4 -> C1 -> C0 -> C1 -> C1 -> C1,1
+balneo,C4 -> C1 -> C1 -> C1,1
+balneo,C4 -> C1 -> C1 -> C1 -> C1,1
+balneo,C4 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C4 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C4 -> C1 -> C1 -> C1 -> C2 -> C0,1
+balneo,C4 -> C1 -> C1 -> C1 -> C3,1
+balneo,C4 -> C1 -> C1 -> C1 -> C4,1
+balneo,C4 -> C1 -> C1 -> C2,1
+balneo,C4 -> C1 -> C1 -> C2 -> C1,1
+balneo,C4 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,1
+balneo,C4 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2,1
+balneo,C4 -> C1 -> C2 -> C0 -> C4 -> C2,1
+balneo,C4 -> C1 -> C2 -> C4 -> C4 -> C4,1
+balneo,C4 -> C1 -> C3 -> C2 -> C1,1
+balneo,C4 -> C1 -> C3 -> C2 -> C1 -> C2,1
+balneo,C4 -> C1 -> C4 -> C1,1
+balneo,C4 -> C2,1
+balneo,C4 -> C2 -> C0,1
+balneo,C4 -> C2 -> C0 -> C2 -> C1 -> C1,1
+balneo,C4 -> C2 -> C0 -> C2 -> C1 -> C3,1
+balneo,C4 -> C2 -> C1 -> C0 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,1
+balneo,C4 -> C2 -> C1 -> C4,1
+balneo,C4 -> C4 -> C1 -> C2 -> C2,1
+balneo,C4 -> C4 -> C2 -> C1 -> C1 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C0 -> C3 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C0 -> C3 -> C3,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C1 -> C1 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C3 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C3 -> C3,1
+cosmo/zodiac,C0 -> C0 -> C0 -> C4 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C1,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C1 -> C3,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0 -> C1,1
+cosmo/zodiac,C0 -> C0 -> C1 -> C2 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C1 -> C1 -> C0 -> C1,1
+cosmo/zodiac,C0 -> C0 -> C2 -> C3 -> C2 -> C3 -> C1 -> C3 -> C3 -> C2 -> C0 -> C3 -> C3 -> C3 -> C4 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C3 -> C0 -> C1 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C0 -> C3 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C0 -> C3 -> C2 -> C3,1
+cosmo/zodiac,C0 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C0 -> C1,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C0 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C1 -> C3 -> C0,1
+cosmo/zodiac,C0 -> C1 -> C3 -> C1 -> C2,1
+cosmo/zodiac,C0 -> C1 -> C3 -> C2 -> C2 -> C1,1
+cosmo/zodiac,C0 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C2 -> C0 -> C0 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C2 -> C1 -> C1 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C2 -> C1 -> C4 -> C2,1
+cosmo/zodiac,C0 -> C2 -> C2 -> C0,1
+cosmo/zodiac,C0 -> C2 -> C2 -> C1,1
+cosmo/zodiac,C0 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C2 -> C2 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C0 -> C2 -> C3 -> C0 -> C3,1
+cosmo/zodiac,C0 -> C3,1
+cosmo/zodiac,C0 -> C3 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C0 -> C3 -> C1,1
+cosmo/zodiac,C0 -> C3 -> C1 -> C0 -> C2,1
+cosmo/zodiac,C0 -> C3 -> C2,1
+cosmo/zodiac,C0 -> C3 -> C2 -> C1,1
+cosmo/zodiac,C0 -> C3 -> C3,1
+cosmo/zodiac,C0 -> C3 -> C4,1
+cosmo/zodiac,C0 -> C4,1
+cosmo/zodiac,C0 -> C4 -> C0 -> C1 -> C0 -> C2 -> C2 -> C0 -> C0 -> C4 -> C0 -> C4,1
+cosmo/zodiac,C0 -> C4 -> C1,1
+cosmo/zodiac,C1 -> C0 -> C0,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C0 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C0 -> C2 -> C3 -> C3 -> C3 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C0 -> C1 -> C3 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1 -> C1 -> C3 -> C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C1 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C1 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C0 -> C0 -> C3 -> C4,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C0 -> C0,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C0 -> C3 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C1 -> C1 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C1 -> C2 -> C1 -> C2,1
+cosmo/zodiac,C1 -> C0 -> C2,1
+cosmo/zodiac,C1 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C1 -> C0 -> C2 -> C0 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C0 -> C2 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C1 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C0 -> C3 -> C2 -> C2 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C3 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C1 -> C0 -> C0 -> C0 -> C1,1
+cosmo/zodiac,C1 -> C1 -> C0 -> C1 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C0 -> C2 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C0 -> C0 -> C1,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C0 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C1 -> C3,1
+cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C0 -> C2,1
+cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C1 -> C3 -> C0 -> C4,1
+cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C1,1
+cosmo/zodiac,C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C0 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C0 -> C1 -> C0 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C2 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C0 -> C3 -> C0 -> C0 -> C1 -> C2 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C0 -> C1,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C2 -> C0,1
+cosmo/zodiac,C1 -> C2 -> C1 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C2 -> C2 -> C1,1
+cosmo/zodiac,C1 -> C2 -> C2 -> C2 -> C0 -> C1,1
+cosmo/zodiac,C1 -> C2 -> C3 -> C1 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C2 -> C3 -> C1 -> C3,1
+cosmo/zodiac,C1 -> C2 -> C3 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C3 -> C0 -> C0 -> C0 -> C0 -> C4 -> C0 -> C3 -> C0,1
+cosmo/zodiac,C1 -> C3 -> C2 -> C2 -> C2 -> C3 -> C2 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C3 -> C3 -> C2 -> C0 -> C3,1
+cosmo/zodiac,C1 -> C3 -> C3 -> C2 -> C2,1
+cosmo/zodiac,C1 -> C3 -> C3 -> C3 -> C0 -> C2 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C3 -> C1 -> C3 -> C3 -> C2 -> C0 -> C3 -> C0 -> C3 -> C3 -> C0 -> C1 -> C3 -> C2 -> C0 -> C3 -> C1 -> C4 -> C3 -> C1 -> C3 -> C0 -> C0 -> C0 -> C1 -> C0,1
+cosmo/zodiac,C1 -> C4,1
+cosmo/zodiac,C2 -> C0,1
+cosmo/zodiac,C2 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,1
+cosmo/zodiac,C2 -> C0 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C2 -> C0 -> C0 -> C3 -> C2 -> C3 -> C3 -> C4 -> C3 -> C0 -> C0 -> C2 -> C1 -> C4 -> C4 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C0 -> C2 -> C0 -> C2,1
+cosmo/zodiac,C2 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0 -> C3 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1 -> C2 -> C0 -> C1,1
+cosmo/zodiac,C2 -> C0 -> C2,1
+cosmo/zodiac,C2 -> C0 -> C2 -> C0,1
+cosmo/zodiac,C2 -> C0 -> C2 -> C0 -> C0 -> C3,1
+cosmo/zodiac,C2 -> C0 -> C2 -> C0 -> C1,1
+cosmo/zodiac,C2 -> C0 -> C3 -> C1 -> C2 -> C2 -> C2 -> C1 -> C3 -> C3,1
+cosmo/zodiac,C2 -> C0 -> C3 -> C2,1
+cosmo/zodiac,C2 -> C1,1
+cosmo/zodiac,C2 -> C1 -> C0,1
+cosmo/zodiac,C2 -> C1 -> C0 -> C1,1
+cosmo/zodiac,C2 -> C1 -> C0 -> C3 -> C3 -> C0 -> C0 -> C3,1
+cosmo/zodiac,C2 -> C1 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C2 -> C1 -> C1 -> C2 -> C0 -> C0,1
+cosmo/zodiac,C2 -> C1 -> C2,1
+cosmo/zodiac,C2 -> C1 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C2 -> C1 -> C3 -> C0 -> C3 -> C1 -> C2,1
+cosmo/zodiac,C2 -> C1 -> C4 -> C3 -> C2 -> C0 -> C0,1
+cosmo/zodiac,C2 -> C2 -> C0,1
+cosmo/zodiac,C2 -> C2 -> C1 -> C2 -> C2 -> C0,1
+cosmo/zodiac,C2 -> C2 -> C2,1
+cosmo/zodiac,C2 -> C2 -> C2 -> C0 -> C3 -> C0 -> C1 -> C2 -> C3 -> C0 -> C3 -> C0 -> C2 -> C3 -> C3 -> C4 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C2 -> C2 -> C2 -> C3 -> C2 -> C0 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C3 -> C1 -> C0 -> C3 -> C1 -> C0 -> C3 -> C4 -> C1 -> C1 -> C3 -> C1 -> C0,1
+cosmo/zodiac,C2 -> C2 -> C2 -> C3 -> C2 -> C1 -> C2 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C2 -> C2 -> C3 -> C1 -> C0 -> C3 -> C3 -> C3 -> C1 -> C1 -> C3 -> C0 -> C1 -> C3 -> C3 -> C4 -> C3 -> C2 -> C3 -> C2 -> C2 -> C3,1
+cosmo/zodiac,C2 -> C2 -> C3 -> C2 -> C0,1
+cosmo/zodiac,C2 -> C2 -> C3 -> C2 -> C2 -> C4 -> C2,1
+cosmo/zodiac,C2 -> C2 -> C3 -> C3 -> C4 -> C2 -> C3 -> C0 -> C1 -> C3 -> C3 -> C3 -> C3 -> C0 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C2 -> C2 -> C4 -> C1 -> C1 -> C0,1
+cosmo/zodiac,C2 -> C3 -> C0 -> C0 -> C4 -> C3 -> C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C3,1
+cosmo/zodiac,C2 -> C3 -> C1 -> C2 -> C3 -> C2 -> C4 -> C4 -> C2 -> C2 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3 -> C4 -> C2 -> C1 -> C2 -> C0 -> C1,1
+cosmo/zodiac,C2 -> C3 -> C1 -> C3 -> C3 -> C3 -> C2 -> C1 -> C0 -> C3 -> C3 -> C2 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C3,1
+cosmo/zodiac,C2 -> C3 -> C2 -> C2 -> C2 -> C1 -> C3,1
+cosmo/zodiac,C2 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C2 -> C3 -> C3 -> C3 -> C0 -> C1 -> C0 -> C3 -> C3 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C3 -> C1 -> C3 -> C3,1
+cosmo/zodiac,C2 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C3 -> C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C3 -> C3 -> C3 -> C0 -> C4 -> C1 -> C2 -> C3 -> C0,1
+cosmo/zodiac,C2 -> C4 -> C3,1
+cosmo/zodiac,C2 -> C4 -> C3 -> C2 -> C2,1
+cosmo/zodiac,C3 -> C0 -> C0 -> C0 -> C0 -> C4 -> C3 -> C0 -> C2 -> C3 -> C3 -> C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C1 -> C1,1
+cosmo/zodiac,C3 -> C0 -> C0 -> C1 -> C2 -> C0 -> C3 -> C3 -> C3 -> C0 -> C0 -> C0 -> C1 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1 -> C3 -> C3 -> C0,1
+cosmo/zodiac,C3 -> C0 -> C0 -> C3 -> C0 -> C3 -> C2 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,1
+cosmo/zodiac,C3 -> C0 -> C1,1
+cosmo/zodiac,C3 -> C0 -> C2 -> C0 -> C3 -> C3,1
+cosmo/zodiac,C3 -> C0 -> C2 -> C2 -> C3 -> C2 -> C4 -> C3 -> C4 -> C3,1
+cosmo/zodiac,C3 -> C0 -> C3,1
+cosmo/zodiac,C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C1 -> C2 -> C1 -> C3 -> C2 -> C0 -> C3 -> C3 -> C3 -> C0 -> C2 -> C2 -> C3 -> C0,1
+cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C1,1
+cosmo/zodiac,C3 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C0 -> C3 -> C0 -> C4 -> C1 -> C3 -> C2,1
+cosmo/zodiac,C3 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0 -> C0 -> C0 -> C3 -> C3 -> C2 -> C0 -> C1 -> C3 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C1 -> C0 -> C3 -> C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,1
+cosmo/zodiac,C3 -> C1 -> C1,1
+cosmo/zodiac,C3 -> C1 -> C1 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C2 -> C3 -> C3 -> C2 -> C4 -> C3 -> C0 -> C0 -> C1 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C1 -> C2 -> C0 -> C3 -> C3 -> C3 -> C4 -> C0 -> C3 -> C3 -> C3 -> C0 -> C2 -> C0 -> C1 -> C3 -> C3 -> C0 -> C0 -> C3 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C1 -> C3 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C1 -> C3 -> C3 -> C0 -> C1 -> C0 -> C1 -> C0 -> C2 -> C2 -> C3 -> C2 -> C3 -> C3 -> C3 -> C3 -> C0 -> C2,1
+cosmo/zodiac,C3 -> C1 -> C3 -> C3 -> C0 -> C2,1
+cosmo/zodiac,C3 -> C1 -> C4 -> C1 -> C1 -> C2 -> C2,1
+cosmo/zodiac,C3 -> C2 -> C0 -> C3 -> C3 -> C1 -> C3 -> C0 -> C0 -> C2 -> C1 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C2 -> C3 -> C2 -> C2 -> C2 -> C0 -> C3 -> C3 -> C3 -> C2,1
+cosmo/zodiac,C3 -> C2 -> C1 -> C3,1
+cosmo/zodiac,C3 -> C2 -> C2 -> C0 -> C2 -> C0 -> C2,1
+cosmo/zodiac,C3 -> C2 -> C2 -> C0 -> C3 -> C3 -> C2 -> C1 -> C1 -> C4 -> C2 -> C1 -> C2 -> C3 -> C3 -> C2 -> C2 -> C0 -> C3 -> C2 -> C3 -> C0 -> C2,1
+cosmo/zodiac,C3 -> C2 -> C2 -> C2 -> C3 -> C0 -> C1 -> C3 -> C0,1
+cosmo/zodiac,C3 -> C2 -> C2 -> C3 -> C3 -> C1 -> C3 -> C0 -> C4 -> C0 -> C3 -> C3 -> C2 -> C1 -> C2 -> C1 -> C0 -> C2 -> C1 -> C2 -> C3 -> C0 -> C3,1
+cosmo/zodiac,C3 -> C2 -> C3 -> C2 -> C1 -> C3 -> C0,1
+cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C0 -> C4 -> C1,1
+cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C3 -> C1 -> C1 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C3 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3 -> C0 -> C0 -> C1 -> C0 -> C2 -> C3,1
+cosmo/zodiac,C3 -> C3 -> C0 -> C0 -> C3 -> C2 -> C2 -> C2,1
+cosmo/zodiac,C3 -> C3 -> C0 -> C2 -> C0 -> C1 -> C2 -> C0 -> C3 -> C3 -> C0 -> C1 -> C3 -> C3 -> C0 -> C4 -> C1,1
+cosmo/zodiac,C3 -> C3 -> C1 -> C0 -> C2 -> C2 -> C0 -> C2 -> C3 -> C0 -> C3 -> C2 -> C0 -> C2 -> C1 -> C1 -> C3 -> C0 -> C2 -> C1,1
+cosmo/zodiac,C3 -> C3 -> C1 -> C2 -> C3 -> C3 -> C0 -> C3 -> C1 -> C1 -> C1 -> C1 -> C0 -> C0,1
+cosmo/zodiac,C3 -> C3 -> C1 -> C3 -> C0 -> C0 -> C3 -> C2 -> C2 -> C4 -> C2 -> C0 -> C4 -> C3 -> C2 -> C0 -> C3 -> C3 -> C0 -> C2 -> C3,1
+cosmo/zodiac,C3 -> C3 -> C2,1
+cosmo/zodiac,C3 -> C3 -> C2 -> C0 -> C3 -> C2,1
+cosmo/zodiac,C3 -> C3 -> C3 -> C0 -> C2 -> C0 -> C3 -> C1 -> C0 -> C3 -> C3 -> C1 -> C1 -> C0 -> C2 -> C0 -> C0 -> C0 -> C3,1
+cosmo/zodiac,C3 -> C3 -> C3 -> C0 -> C3 -> C0 -> C0 -> C3 -> C3 -> C3 -> C3 -> C3 -> C1 -> C0 -> C3,1
+cosmo/zodiac,C3 -> C3 -> C3 -> C2 -> C1 -> C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C1 -> C3 -> C3 -> C1,1
+cosmo/zodiac,C3 -> C3 -> C3 -> C3 -> C3 -> C3,1
+cosmo/zodiac,C4 -> C0 -> C0 -> C3,1
+cosmo/zodiac,C4 -> C0 -> C2 -> C1 -> C2 -> C1,1
+cosmo/zodiac,C4 -> C0 -> C3 -> C2 -> C1 -> C3 -> C3 -> C3 -> C3 -> C3 -> C3 -> C4 -> C2 -> C1 -> C0 -> C0 -> C0,1
+cosmo/zodiac,C4 -> C1 -> C3 -> C1 -> C1 -> C1,1
+cosmo/zodiac,C4 -> C1 -> C4 -> C2,1
+cosmo/zodiac,C4 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C0 -> C2 -> C4,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C1,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C1 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C1 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C2 -> C2 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C3,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C3 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C3 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C0 -> C4 -> C4,1
+herbal-A,C0 -> C0 -> C0 -> C1 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C1 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C2 -> C0 -> C0 -> C2 -> C4,1
+herbal-A,C0 -> C0 -> C0 -> C2 -> C3 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C3 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C3 -> C2,1
+herbal-A,C0 -> C0 -> C0 -> C3 -> C3,1
+herbal-A,C0 -> C0 -> C0 -> C4 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C4 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C0 -> C4 -> C2,1
+herbal-A,C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C1 -> C0 -> C1 -> C3,1
+herbal-A,C0 -> C0 -> C1 -> C1,1
+herbal-A,C0 -> C0 -> C1 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+herbal-A,C0 -> C0 -> C1 -> C1 -> C2 -> C1 -> C2 -> C3,1
+herbal-A,C0 -> C0 -> C1 -> C2,1
+herbal-A,C0 -> C0 -> C1 -> C2 -> C2 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C2 -> C0 -> C0 -> C1 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C2 -> C0 -> C1 -> C2 -> C0 -> C0 -> C4,1
+herbal-A,C0 -> C0 -> C2 -> C0 -> C3,1
+herbal-A,C0 -> C0 -> C2 -> C0 -> C4 -> C1,1
+herbal-A,C0 -> C0 -> C2 -> C1 -> C2 -> C0 -> C1 -> C1,1
+herbal-A,C0 -> C0 -> C2 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C2 -> C2 -> C2 -> C1 -> C4,1
+herbal-A,C0 -> C0 -> C2 -> C3 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C3 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C3 -> C0 -> C2,1
+herbal-A,C0 -> C0 -> C3 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C3 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C0 -> C0 -> C3 -> C2,1
+herbal-A,C0 -> C0 -> C3 -> C2 -> C0,1
+herbal-A,C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C3,1
+herbal-A,C0 -> C0 -> C3 -> C2 -> C1,1
+herbal-A,C0 -> C0 -> C4 -> C0 -> C0,1
+herbal-A,C0 -> C0 -> C4 -> C0 -> C0 -> C1,1
+herbal-A,C0 -> C0 -> C4 -> C1 -> C0,1
+herbal-A,C0 -> C1 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C1 -> C0 -> C0 -> C2,1
+herbal-A,C0 -> C1 -> C0 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C1 -> C0 -> C1 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C1 -> C0 -> C2 -> C2,1
+herbal-A,C0 -> C1 -> C1 -> C0,1
+herbal-A,C0 -> C1 -> C1 -> C1,1
+herbal-A,C0 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,1
+herbal-A,C0 -> C1 -> C1 -> C1 -> C1 -> C2,1
+herbal-A,C0 -> C1 -> C1 -> C3 -> C3,1
+herbal-A,C0 -> C1 -> C2 -> C1,1
+herbal-A,C0 -> C1 -> C2 -> C1 -> C0,1
+herbal-A,C0 -> C1 -> C2 -> C2 -> C0 -> C1 -> C2,1
+herbal-A,C0 -> C1 -> C2 -> C2 -> C1,1
+herbal-A,C0 -> C1 -> C2 -> C2 -> C1 -> C1 -> C1 -> C2,1
+herbal-A,C0 -> C1 -> C2 -> C2 -> C2,1
+herbal-A,C0 -> C1 -> C3 -> C2 -> C2 -> C2,1
+herbal-A,C0 -> C1 -> C3 -> C3 -> C2,1
+herbal-A,C0 -> C2 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C2 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0,1
+herbal-A,C0 -> C2 -> C0 -> C0 -> C1,1
+herbal-A,C0 -> C2 -> C0 -> C0 -> C1 -> C1,1
+herbal-A,C0 -> C2 -> C0 -> C0 -> C2,1
+herbal-A,C0 -> C2 -> C0 -> C1 -> C4,1
+herbal-A,C0 -> C2 -> C0 -> C2 -> C0 -> C0,1
+herbal-A,C0 -> C2 -> C0 -> C2 -> C3 -> C0,1
+herbal-A,C0 -> C2 -> C0 -> C3,1
+herbal-A,C0 -> C2 -> C0 -> C4 -> C0,1
+herbal-A,C0 -> C2 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C2 -> C1 -> C0 -> C0 -> C1,1
+herbal-A,C0 -> C2 -> C1 -> C1,1
+herbal-A,C0 -> C2 -> C1 -> C1 -> C2 -> C2 -> C4 -> C2,1
+herbal-A,C0 -> C2 -> C1 -> C2 -> C1 -> C3,1
+herbal-A,C0 -> C2 -> C1 -> C2 -> C3,1
+herbal-A,C0 -> C2 -> C1 -> C3,1
+herbal-A,C0 -> C2 -> C2 -> C1 -> C2,1
+herbal-A,C0 -> C2 -> C2 -> C2 -> C0,1
+herbal-A,C0 -> C2 -> C2 -> C2 -> C2 -> C1 -> C2 -> C2,1
+herbal-A,C0 -> C2 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C0 -> C2 -> C3 -> C0,1
+herbal-A,C0 -> C2 -> C3 -> C0 -> C2,1
+herbal-A,C0 -> C2 -> C3 -> C2 -> C1,1
+herbal-A,C0 -> C2 -> C3 -> C4 -> C0 -> C0,1
+herbal-A,C0 -> C3 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C3 -> C0 -> C1,1
+herbal-A,C0 -> C3 -> C0 -> C2 -> C0 -> C0,1
+herbal-A,C0 -> C3 -> C1 -> C1 -> C0,1
+herbal-A,C0 -> C3 -> C2,1
+herbal-A,C0 -> C3 -> C2 -> C1,1
+herbal-A,C0 -> C3 -> C2 -> C3 -> C3,1
+herbal-A,C0 -> C4 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C4 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C0 -> C4 -> C0 -> C2,1
+herbal-A,C0 -> C4 -> C0 -> C2 -> C3,1
+herbal-A,C0 -> C4 -> C1,1
+herbal-A,C0 -> C4 -> C1 -> C0 -> C0,1
+herbal-A,C0 -> C4 -> C3 -> C3,1
+herbal-A,C0 -> C4 -> C4 -> C0,1
+herbal-A,C1 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C1 -> C0 -> C0 -> C0 -> C1,1
+herbal-A,C1 -> C0 -> C0 -> C0 -> C4 -> C0,1
+herbal-A,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C2,1
+herbal-A,C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1,1
+herbal-A,C1 -> C0 -> C0 -> C4 -> C3,1
+herbal-A,C1 -> C0 -> C1 -> C1,1
+herbal-A,C1 -> C0 -> C1 -> C1 -> C1 -> C0,1
+herbal-A,C1 -> C0 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C0 -> C1 -> C3,1
+herbal-A,C1 -> C0 -> C1 -> C4 -> C0,1
+herbal-A,C1 -> C0 -> C2 -> C0 -> C0,1
+herbal-A,C1 -> C0 -> C2 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C1 -> C0 -> C2 -> C1 -> C1 -> C1,1
+herbal-A,C1 -> C0 -> C2 -> C1 -> C2,1
+herbal-A,C1 -> C0 -> C2 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C0 -> C2 -> C1 -> C3 -> C2 -> C1 -> C1,1
+herbal-A,C1 -> C0 -> C2 -> C2,1
+herbal-A,C1 -> C0 -> C2 -> C3,1
+herbal-A,C1 -> C0 -> C3,1
+herbal-A,C1 -> C0 -> C4,1
+herbal-A,C1 -> C0 -> C4 -> C0,1
+herbal-A,C1 -> C0 -> C4 -> C0 -> C2,1
+herbal-A,C1 -> C1 -> C0 -> C0,1
+herbal-A,C1 -> C1 -> C0 -> C0 -> C0,1
+herbal-A,C1 -> C1 -> C0 -> C0 -> C0 -> C0 -> C3,1
+herbal-A,C1 -> C1 -> C0 -> C0 -> C2,1
+herbal-A,C1 -> C1 -> C0 -> C1,1
+herbal-A,C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C2,1
+herbal-A,C1 -> C1 -> C0 -> C4 -> C0,1
+herbal-A,C1 -> C1 -> C1 -> C0 -> C3,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C1,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C1 -> C0,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C3,1
+herbal-A,C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+herbal-A,C1 -> C1 -> C1 -> C2 -> C1 -> C0 -> C0,1
+herbal-A,C1 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C1 -> C1 -> C3 -> C1 -> C3,1
+herbal-A,C1 -> C1 -> C1 -> C4 -> C3,1
+herbal-A,C1 -> C1 -> C2,1
+herbal-A,C1 -> C1 -> C2 -> C0 -> C1,1
+herbal-A,C1 -> C1 -> C2 -> C0 -> C3 -> C1,1
+herbal-A,C1 -> C1 -> C2 -> C1,1
+herbal-A,C1 -> C1 -> C2 -> C1 -> C1 -> C1,1
+herbal-A,C1 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C1 -> C2 -> C2 -> C2,1
+herbal-A,C1 -> C1 -> C2 -> C2 -> C3 -> C2 -> C1,1
+herbal-A,C1 -> C1 -> C2 -> C3,1
+herbal-A,C1 -> C1 -> C2 -> C3 -> C1,1
+herbal-A,C1 -> C1 -> C3 -> C1 -> C1,1
+herbal-A,C1 -> C1 -> C3 -> C1 -> C2,1
+herbal-A,C1 -> C1 -> C3 -> C3 -> C0 -> C1 -> C3,1
+herbal-A,C1 -> C1 -> C3 -> C3 -> C1 -> C2,1
+herbal-A,C1 -> C1 -> C3 -> C3 -> C3 -> C3 -> C1,1
+herbal-A,C1 -> C1 -> C3 -> C4 -> C3,1
+herbal-A,C1 -> C1 -> C4,1
+herbal-A,C1 -> C2 -> C0,1
+herbal-A,C1 -> C2 -> C0 -> C1 -> C2 -> C3,1
+herbal-A,C1 -> C2 -> C0 -> C2 -> C2,1
+herbal-A,C1 -> C2 -> C1 -> C0,1
+herbal-A,C1 -> C2 -> C1 -> C0 -> C0 -> C2,1
+herbal-A,C1 -> C2 -> C1 -> C0 -> C1 -> C3,1
+herbal-A,C1 -> C2 -> C1 -> C1 -> C0 -> C3 -> C2,1
+herbal-A,C1 -> C2 -> C1 -> C1 -> C1,1
+herbal-A,C1 -> C2 -> C1 -> C1 -> C2 -> C1,1
+herbal-A,C1 -> C2 -> C1 -> C1 -> C3,1
+herbal-A,C1 -> C2 -> C1 -> C2 -> C1 -> C2,1
+herbal-A,C1 -> C2 -> C2 -> C2 -> C0 -> C0,1
+herbal-A,C1 -> C2 -> C2 -> C2 -> C1 -> C0 -> C1,1
+herbal-A,C1 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C1 -> C2 -> C2 -> C4,1
+herbal-A,C1 -> C2 -> C4,1
+herbal-A,C1 -> C3 -> C0,1
+herbal-A,C1 -> C3 -> C0 -> C3 -> C3,1
+herbal-A,C1 -> C3 -> C1 -> C0 -> C0 -> C3,1
+herbal-A,C1 -> C3 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C3 -> C1 -> C1 -> C3 -> C2,1
+herbal-A,C1 -> C3 -> C1 -> C2 -> C2 -> C1,1
+herbal-A,C1 -> C3 -> C1 -> C3 -> C3,1
+herbal-A,C1 -> C3 -> C2,1
+herbal-A,C1 -> C3 -> C2 -> C0 -> C0 -> C0 -> C3,1
+herbal-A,C1 -> C3 -> C2 -> C1 -> C0 -> C2 -> C2 -> C2,1
+herbal-A,C1 -> C3 -> C2 -> C2,1
+herbal-A,C1 -> C3 -> C3 -> C1,1
+herbal-A,C1 -> C3 -> C3 -> C1 -> C3 -> C1,1
+herbal-A,C1 -> C3 -> C3 -> C1 -> C4,1
+herbal-A,C1 -> C3 -> C3 -> C4 -> C3 -> C1,1
+herbal-A,C1 -> C4,1
+herbal-A,C1 -> C4 -> C0,1
+herbal-A,C1 -> C4 -> C0 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C1 -> C4 -> C1 -> C1 -> C2 -> C1 -> C0,1
+herbal-A,C1 -> C4 -> C1 -> C3,1
+herbal-A,C1 -> C4 -> C3,1
+herbal-A,C1 -> C4 -> C4 -> C2 -> C0,1
+herbal-A,C2 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C2 -> C0 -> C0 -> C0 -> C2,1
+herbal-A,C2 -> C0 -> C0 -> C0 -> C2 -> C2,1
+herbal-A,C2 -> C0 -> C0 -> C2 -> C0,1
+herbal-A,C2 -> C0 -> C1 -> C0 -> C0,1
+herbal-A,C2 -> C0 -> C1 -> C1 -> C0,1
+herbal-A,C2 -> C0 -> C1 -> C2,1
+herbal-A,C2 -> C0 -> C1 -> C2 -> C2,1
+herbal-A,C2 -> C0 -> C1 -> C2 -> C4 -> C1 -> C2 -> C2,1
+herbal-A,C2 -> C0 -> C1 -> C3,1
+herbal-A,C2 -> C0 -> C2 -> C0,1
+herbal-A,C2 -> C0 -> C2 -> C0 -> C0 -> C0,1
+herbal-A,C2 -> C0 -> C2 -> C2,1
+herbal-A,C2 -> C0 -> C2 -> C2 -> C0,1
+herbal-A,C2 -> C0 -> C2 -> C2 -> C1,1
+herbal-A,C2 -> C0 -> C3 -> C0,1
+herbal-A,C2 -> C0 -> C3 -> C0 -> C0,1
+herbal-A,C2 -> C0 -> C3 -> C2 -> C2,1
+herbal-A,C2 -> C0 -> C3 -> C3,1
+herbal-A,C2 -> C0 -> C4,1
+herbal-A,C2 -> C0 -> C4 -> C1 -> C1,1
+herbal-A,C2 -> C1 -> C0 -> C1 -> C2 -> C2,1
+herbal-A,C2 -> C1 -> C0 -> C2,1
+herbal-A,C2 -> C1 -> C0 -> C2 -> C1,1
+herbal-A,C2 -> C1 -> C1 -> C0 -> C0 -> C1,1
+herbal-A,C2 -> C1 -> C1 -> C2 -> C1,1
+herbal-A,C2 -> C1 -> C1 -> C2 -> C3,1
+herbal-A,C2 -> C1 -> C2 -> C4,1
+herbal-A,C2 -> C2 -> C0 -> C0,1
+herbal-A,C2 -> C2 -> C0 -> C1,1
+herbal-A,C2 -> C2 -> C0 -> C2,1
+herbal-A,C2 -> C2 -> C1 -> C2 -> C1 -> C1,1
+herbal-A,C2 -> C2 -> C1 -> C3 -> C1,1
+herbal-A,C2 -> C2 -> C1 -> C3 -> C2 -> C2 -> C1 -> C2,1
+herbal-A,C2 -> C2 -> C2 -> C0 -> C3 -> C1,1
+herbal-A,C2 -> C2 -> C2 -> C1 -> C1,1
+herbal-A,C2 -> C2 -> C2 -> C2 -> C1 -> C1 -> C2,1
+herbal-A,C2 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C2 -> C2 -> C2 -> C2 -> C2 -> C1,1
+herbal-A,C2 -> C2 -> C2 -> C2 -> C2 -> C2,1
+herbal-A,C2 -> C2 -> C2 -> C3,1
+herbal-A,C2 -> C2 -> C3 -> C1,1
+herbal-A,C2 -> C2 -> C4 -> C2,1
+herbal-A,C2 -> C3 -> C0,1
+herbal-A,C2 -> C3 -> C1 -> C1 -> C2 -> C1 -> C2,1
+herbal-A,C2 -> C3 -> C1 -> C1 -> C2 -> C2,1
+herbal-A,C2 -> C3 -> C1 -> C1 -> C3,1
+herbal-A,C2 -> C3 -> C1 -> C2,1
+herbal-A,C2 -> C3 -> C3 -> C2,1
+herbal-A,C3 -> C0 -> C0 -> C0,1
+herbal-A,C3 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C3 -> C0 -> C0 -> C1 -> C2 -> C2,1
+herbal-A,C3 -> C0 -> C1 -> C0,1
+herbal-A,C3 -> C0 -> C1 -> C0 -> C2 -> C2 -> C1,1
+herbal-A,C3 -> C0 -> C1 -> C1,1
+herbal-A,C3 -> C0 -> C2 -> C0 -> C2 -> C0,1
+herbal-A,C3 -> C0 -> C2 -> C2 -> C2 -> C0,1
+herbal-A,C3 -> C0 -> C2 -> C4 -> C2,1
+herbal-A,C3 -> C0 -> C3,1
+herbal-A,C3 -> C0 -> C3 -> C0 -> C2 -> C2 -> C0 -> C0,1
+herbal-A,C3 -> C0 -> C4 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C3 -> C0 -> C4 -> C1 -> C3 -> C2,1
+herbal-A,C3 -> C1 -> C0 -> C3 -> C3 -> C2,1
+herbal-A,C3 -> C1 -> C1,1
+herbal-A,C3 -> C1 -> C1 -> C1,1
+herbal-A,C3 -> C1 -> C1 -> C1 -> C1,1
+herbal-A,C3 -> C1 -> C1 -> C2 -> C1,1
+herbal-A,C3 -> C1 -> C1 -> C2 -> C3 -> C0 -> C3,1
+herbal-A,C3 -> C1 -> C2,1
+herbal-A,C3 -> C1 -> C3,1
+herbal-A,C3 -> C1 -> C4,1
+herbal-A,C3 -> C2 -> C0 -> C1,1
+herbal-A,C3 -> C2 -> C1 -> C2,1
+herbal-A,C3 -> C2 -> C2 -> C2 -> C0,1
+herbal-A,C3 -> C2 -> C2 -> C4 -> C2,1
+herbal-A,C3 -> C3 -> C0 -> C0 -> C0,1
+herbal-A,C3 -> C3 -> C1 -> C1 -> C0,1
+herbal-A,C3 -> C3 -> C3 -> C3,1
+herbal-A,C3 -> C3 -> C3 -> C3 -> C0 -> C2,1
+herbal-A,C3 -> C4 -> C0 -> C0,1
+herbal-A,C3 -> C4 -> C0 -> C1 -> C0 -> C3 -> C1,1
+herbal-A,C3 -> C4 -> C3,1
+herbal-A,C4 -> C0 -> C0 -> C0,1
+herbal-A,C4 -> C0 -> C0 -> C0 -> C0,1
+herbal-A,C4 -> C0 -> C0 -> C0 -> C0 -> C1,1
+herbal-A,C4 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0,1
+herbal-A,C4 -> C0 -> C0 -> C2,1
+herbal-A,C4 -> C0 -> C0 -> C3,1
+herbal-A,C4 -> C0 -> C1 -> C0 -> C0,1
+herbal-A,C4 -> C0 -> C2 -> C0,1
+herbal-A,C4 -> C0 -> C2 -> C1 -> C1 -> C1,1
+herbal-A,C4 -> C0 -> C2 -> C2 -> C1 -> C1 -> C0,1
+herbal-A,C4 -> C0 -> C2 -> C3,1
+herbal-A,C4 -> C0 -> C2 -> C3 -> C0,1
+herbal-A,C4 -> C0 -> C3 -> C0,1
+herbal-A,C4 -> C0 -> C4,1
+herbal-A,C4 -> C0 -> C4 -> C0 -> C0,1
+herbal-A,C4 -> C1,1
+herbal-A,C4 -> C1 -> C0,1
+herbal-A,C4 -> C1 -> C0 -> C4,1
+herbal-A,C4 -> C1 -> C1 -> C1,1
+herbal-A,C4 -> C1 -> C1 -> C3,1
+herbal-A,C4 -> C1 -> C2,1
+herbal-A,C4 -> C1 -> C2 -> C0,1
+herbal-A,C4 -> C1 -> C2 -> C1 -> C2 -> C2,1
+herbal-A,C4 -> C1 -> C4 -> C0,1
+herbal-A,C4 -> C2 -> C0 -> C0 -> C1 -> C1,1
+herbal-A,C4 -> C2 -> C1 -> C3,1
+herbal-A,C4 -> C2 -> C2,1
+herbal-A,C4 -> C2 -> C2 -> C0 -> C2 -> C2,1
+herbal-A,C4 -> C3,1
+herbal-A,C4 -> C3 -> C0,1
+herbal-A,C4 -> C3 -> C0 -> C0,1
+herbal-A,C4 -> C4,1
+herbal-A,C4 -> C4 -> C0,1
+herbal-A,C4 -> C4 -> C0 -> C0 -> C0,1
+herbal-A,C4 -> C4 -> C0 -> C2,1
+herbal-A,C4 -> C4 -> C2,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C3 -> C4 -> C3 -> C0 -> C0 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C0 -> C4,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C1 -> C4 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2 -> C1 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C2 -> C3,1
+pharm-herbal,C0 -> C0 -> C0 -> C0 -> C3,1
+pharm-herbal,C0 -> C0 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C1 -> C0 -> C4,1
+pharm-herbal,C0 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1 -> C2 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C1 -> C2 -> C3 -> C1 -> C2,1
+pharm-herbal,C0 -> C0 -> C0 -> C1 -> C3,1
+pharm-herbal,C0 -> C0 -> C0 -> C1 -> C3 -> C0 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C2,1
+pharm-herbal,C0 -> C0 -> C0 -> C2 -> C2,1
+pharm-herbal,C0 -> C0 -> C0 -> C2 -> C3 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C0,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C1 -> C0 -> C0 -> C0 -> C0 -> C3,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C0 -> C4 -> C0 -> C2 -> C4,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C4,1
+pharm-herbal,C0 -> C0 -> C0 -> C3 -> C4 -> C1,1
+pharm-herbal,C0 -> C0 -> C0 -> C4,1
+pharm-herbal,C0 -> C0 -> C0 -> C4 -> C0,1
+pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1 -> C1,1
+pharm-herbal,C0 -> C0 -> C1 -> C0 -> C0 -> C1 -> C4 -> C0,1
+pharm-herbal,C0 -> C0 -> C1 -> C0 -> C1,1
+pharm-herbal,C0 -> C0 -> C1 -> C1,1
+pharm-herbal,C0 -> C0 -> C1 -> C1 -> C0 -> C2 -> C1 -> C0 -> C1 -> C0,1
+pharm-herbal,C0 -> C0 -> C2 -> C0 -> C2 -> C0,1
+pharm-herbal,C0 -> C0 -> C2 -> C1 -> C1,1
+pharm-herbal,C0 -> C0 -> C2 -> C2,1
+pharm-herbal,C0 -> C0 -> C2 -> C3 -> C0,1
+pharm-herbal,C0 -> C0 -> C3 -> C0 -> C2 -> C1 -> C3,1
+pharm-herbal,C0 -> C0 -> C3 -> C1 -> C0 -> C4 -> C0 -> C3,1
+pharm-herbal,C0 -> C0 -> C3 -> C2 -> C0 -> C0 -> C1 -> C0 -> C0 -> C0 -> C3,1
+pharm-herbal,C0 -> C0 -> C3 -> C3,1
+pharm-herbal,C0 -> C0 -> C3 -> C3 -> C2,1
+pharm-herbal,C0 -> C0 -> C4,1
+pharm-herbal,C0 -> C0 -> C4 -> C0 -> C2 -> C2,1
+pharm-herbal,C0 -> C0 -> C4 -> C0 -> C3,1
+pharm-herbal,C0 -> C0 -> C4 -> C1,1
+stars,C4 -> C2 -> C2 -> C1 -> C4 -> C2 -> C2,1
+stars,C4 -> C2 -> C2 -> C1 -> C1 -> C2 -> C4 -> C1,1
+stars,C4 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+pharm-herbal,C0 -> C1 -> C0 -> C0 -> C0,1
+pharm-herbal,C0 -> C1 -> C0 -> C0 -> C0 -> C3,1
+pharm-herbal,C0 -> C1 -> C0 -> C0 -> C2 -> C0 -> C3 -> C4 -> C3 -> C4,1
+pharm-herbal,C0 -> C1 -> C0 -> C0 -> C3,1
+pharm-herbal,C0 -> C1 -> C0 -> C0 -> C3 -> C0,1
+pharm-herbal,C0 -> C1 -> C0 -> C1 -> C4 -> C0 -> C3 -> C3,1
+pharm-herbal,C0 -> C1 -> C0 -> C4 -> C0 -> C1 -> C0 -> C4 -> C1 -> C3,1
+stars,C4 -> C1 -> C3 -> C1 -> C1,1
+stars,C4 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+pharm-herbal,C0 -> C1 -> C1 -> C0 -> C1,1
+pharm-herbal,C0 -> C1 -> C1 -> C1,1
+pharm-herbal,C0 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,1
+pharm-herbal,C0 -> C1 -> C1 -> C1 -> C2 -> C0 -> C1,1
+pharm-herbal,C0 -> C1 -> C1 -> C1 -> C3 -> C0,1
+pharm-herbal,C0 -> C1 -> C1 -> C2,1
+pharm-herbal,C0 -> C1 -> C2 -> C2 -> C0 -> C1 -> C2,1
+pharm-herbal,C0 -> C1 -> C2 -> C2 -> C1,1
+pharm-herbal,C0 -> C1 -> C2 -> C4 -> C0,1
+stars,C4 -> C1 -> C3 -> C2,1
+pharm-herbal,C0 -> C1 -> C3 -> C0 -> C0,1
+pharm-herbal,C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0,1
+pharm-herbal,C0 -> C1 -> C3 -> C2 -> C0 -> C3,1
+stars,C4 -> C1 -> C3 -> C2 -> C1 -> C3,1
+pharm-herbal,C0 -> C1 -> C4,1
+stars,C4 -> C1 -> C3 -> C3 -> C2,1
+pharm-herbal,C0 -> C2 -> C0,1
+stars,C4 -> C1 -> C4,1
+pharm-herbal,C0 -> C2 -> C0 -> C0 -> C1 -> C0,1
+pharm-herbal,C0 -> C2 -> C0 -> C2,1
+pharm-herbal,C0 -> C2 -> C0 -> C2 -> C2 -> C2,1
+pharm-herbal,C0 -> C2 -> C0 -> C2 -> C2 -> C2 -> C1 -> C2,1
+pharm-herbal,C0 -> C2 -> C1 -> C0 -> C1 -> C0 -> C2,1
+pharm-herbal,C0 -> C2 -> C1 -> C0 -> C2,1
+pharm-herbal,C0 -> C2 -> C1 -> C0 -> C3 -> C0 -> C0,1
+pharm-herbal,C0 -> C2 -> C1 -> C1 -> C2 -> C2 -> C2,1
+pharm-herbal,C0 -> C2 -> C1 -> C3 -> C0,1
+stars,C4 -> C1 -> C4 -> C2,1
+pharm-herbal,C0 -> C2 -> C2 -> C0 -> C1 -> C2 -> C1 -> C0 -> C1 -> C0,1
+pharm-herbal,C0 -> C2 -> C2 -> C1 -> C2 -> C2,1
+pharm-herbal,C0 -> C2 -> C2 -> C2 -> C1 -> C2 -> C1,1
+pharm-herbal,C0 -> C2 -> C2 -> C2 -> C2 -> C2 -> C2,1
+pharm-herbal,C0 -> C2 -> C3 -> C2 -> C2 -> C0 -> C0,1
+stars,C4 -> C2 -> C0 -> C1 -> C2,1
+stars,C4 -> C2 -> C1,1
+stars,C4 -> C2 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,1
+pharm-herbal,C0 -> C3 -> C0 -> C1 -> C0,1
+pharm-herbal,C0 -> C3 -> C0 -> C3 -> C2 -> C2,1
+stars,C4 -> C2 -> C1 -> C3,1
+pharm-herbal,C0 -> C3 -> C2 -> C0,1
+pharm-herbal,C0 -> C3 -> C3,1
+pharm-herbal,C0 -> C3 -> C3 -> C0,1
+pharm-herbal,C0 -> C3 -> C3 -> C1 -> C0 -> C0 -> C3 -> C4 -> C1 -> C0 -> C0 -> C1 -> C1,1
+pharm-herbal,C0 -> C3 -> C3 -> C3 -> C1 -> C0,1
+pharm-herbal,C0 -> C4 -> C0,1
+pharm-herbal,C0 -> C4 -> C0 -> C0,1
+pharm-herbal,C0 -> C4 -> C1 -> C0 -> C3 -> C0 -> C0,1
+pharm-herbal,C0 -> C4 -> C1 -> C1,1
+pharm-herbal,C0 -> C4 -> C1 -> C3,1
+pharm-herbal,C0 -> C4 -> C2 -> C0 -> C1 -> C1 -> C0 -> C1 -> C1,1
+pharm-herbal,C0 -> C4 -> C4 -> C1 -> C0 -> C0,1
+stars,C4 -> C2 -> C1 -> C3 -> C1,1
+stars,C4 -> C2 -> C2,1
+balneo,C0 -> C0 -> C1 -> C1,1
+pharm-herbal,C1 -> C0 -> C0 -> C0 -> C0 -> C0 -> C4 -> C0,1
+pharm-herbal,C1 -> C0 -> C0 -> C0 -> C2,1
+pharm-herbal,C1 -> C0 -> C0 -> C0 -> C3,1
+pharm-herbal,C1 -> C0 -> C0 -> C1,1
+pharm-herbal,C1 -> C0 -> C0 -> C2,1
+pharm-herbal,C1 -> C0 -> C0 -> C2 -> C0 -> C0,1
+pharm-herbal,C1 -> C0 -> C0 -> C3 -> C0 -> C1 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+pharm-herbal,C1 -> C0 -> C1 -> C1 -> C1 -> C2,1
+pharm-herbal,C1 -> C0 -> C1 -> C1 -> C3,1
+pharm-herbal,C1 -> C0 -> C2,1
+pharm-herbal,C1 -> C0 -> C2 -> C1,1
+pharm-herbal,C1 -> C0 -> C2 -> C1 -> C3 -> C2 -> C1 -> C2,1
+pharm-herbal,C1 -> C0 -> C3,1
+pharm-herbal,C1 -> C0 -> C3 -> C0,1
+pharm-herbal,C1 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1,1
+pharm-herbal,C1 -> C0 -> C3 -> C3 -> C2,1
+pharm-herbal,C1 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,1
+pharm-herbal,C1 -> C1 -> C0 -> C0,1
+pharm-herbal,C1 -> C1 -> C0 -> C0 -> C0 -> C0,1
+pharm-herbal,C1 -> C1 -> C0 -> C0 -> C0 -> C3 -> C2 -> C0 -> C1 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,1
+pharm-herbal,C1 -> C1 -> C0 -> C1 -> C0 -> C1 -> C0,1
+pharm-herbal,C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2,1
+pharm-herbal,C1 -> C1 -> C1,1
+pharm-herbal,C1 -> C1 -> C1 -> C1,1
+pharm-herbal,C1 -> C1 -> C1 -> C2,1
+pharm-herbal,C1 -> C1 -> C1 -> C2 -> C0,1
+pharm-herbal,C1 -> C1 -> C1 -> C3 -> C1 -> C1,1
+pharm-herbal,C1 -> C1 -> C2 -> C1 -> C0,1
+pharm-herbal,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C2 -> C2,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+pharm-herbal,C1 -> C1 -> C3 -> C1 -> C2 -> C1 -> C1,1
+pharm-herbal,C1 -> C2,1
+pharm-herbal,C1 -> C2 -> C1,1
+pharm-herbal,C1 -> C2 -> C1 -> C1 -> C3 -> C2,1
+pharm-herbal,C1 -> C2 -> C1 -> C2,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C4,1
+pharm-herbal,C1 -> C2 -> C2 -> C0 -> C2,1
+pharm-herbal,C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+pharm-herbal,C1 -> C2 -> C4 -> C0,1
+pharm-herbal,C1 -> C3 -> C0,1
+pharm-herbal,C1 -> C3 -> C0 -> C0,1
+pharm-herbal,C1 -> C3 -> C0 -> C1 -> C0 -> C3,1
+pharm-herbal,C1 -> C3 -> C1 -> C0 -> C3,1
+balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C0,1
+pharm-herbal,C1 -> C3 -> C2 -> C1 -> C2,1
+pharm-herbal,C1 -> C3 -> C2 -> C1 -> C2 -> C3,1
+pharm-herbal,C1 -> C3 -> C2 -> C2 -> C2 -> C3 -> C2 -> C2,1
+pharm-herbal,C1 -> C3 -> C3 -> C2 -> C0,1
+pharm-herbal,C1 -> C4 -> C0,1
+pharm-herbal,C1 -> C4 -> C1 -> C0 -> C3,1
+pharm-herbal,C1 -> C4 -> C2 -> C2 -> C0 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C2,1
+pharm-herbal,C2 -> C0 -> C0,1
+balneo,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C4 -> C1,1
+pharm-herbal,C2 -> C0 -> C0 -> C2 -> C0 -> C1,1
+pharm-herbal,C2 -> C0 -> C0 -> C3,1
+pharm-herbal,C2 -> C0 -> C1 -> C1 -> C4 -> C1,1
+pharm-herbal,C2 -> C0 -> C1 -> C2 -> C2,1
+pharm-herbal,C2 -> C0 -> C3 -> C1 -> C0 -> C1,1
+pharm-herbal,C2 -> C1,1
+pharm-herbal,C2 -> C1 -> C1,1
+pharm-herbal,C2 -> C1 -> C4,1
+balneo,C0 -> C1 -> C1 -> C1 -> C3,1
+pharm-herbal,C2 -> C2 -> C0 -> C0 -> C0 -> C4 -> C0 -> C0,1
+pharm-herbal,C2 -> C2 -> C0 -> C2,1
+pharm-herbal,C2 -> C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C2,1
+pharm-herbal,C2 -> C2 -> C2,1
+balneo,C0 -> C1 -> C1 -> C2 -> C1,1
+pharm-herbal,C2 -> C3,1
+pharm-herbal,C2 -> C3 -> C0 -> C0,1
+pharm-herbal,C2 -> C3 -> C1 -> C2 -> C2 -> C1,1
+pharm-herbal,C2 -> C3 -> C2,1
+pharm-herbal,C2 -> C3 -> C3,1
+pharm-herbal,C2 -> C3 -> C3 -> C0 -> C0,1
+balneo,C0 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,1
+pharm-herbal,C3 -> C0 -> C0 -> C0,1
+pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C0 -> C2 -> C0,1
+pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C0,1
+pharm-herbal,C3 -> C0 -> C0 -> C0 -> C0 -> C3 -> C3 -> C0 -> C1 -> C0 -> C0 -> C3 -> C0,1
+balneo,C0 -> C1 -> C1 -> C2 -> C4 -> C0 -> C1,1
+pharm-herbal,C3 -> C0 -> C0 -> C2 -> C3,1
+pharm-herbal,C3 -> C0 -> C1,1
+pharm-herbal,C3 -> C0 -> C1 -> C0 -> C1 -> C3,1
+pharm-herbal,C3 -> C0 -> C2 -> C0,1
+pharm-herbal,C3 -> C0 -> C2 -> C2 -> C0 -> C0 -> C0,1
+pharm-herbal,C3 -> C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0 -> C0,1
+pharm-herbal,C3 -> C0 -> C3 -> C0 -> C1,1
+pharm-herbal,C3 -> C0 -> C3 -> C4 -> C3,1
+pharm-herbal,C3 -> C1,1
+pharm-herbal,C3 -> C1 -> C0 -> C0 -> C0 -> C0,1
+pharm-herbal,C3 -> C1 -> C1,1
+pharm-herbal,C3 -> C1 -> C1 -> C0 -> C0,1
+balneo,C0 -> C1 -> C1 -> C3 -> C1 -> C1,1
+pharm-herbal,C3 -> C2 -> C1,1
+pharm-herbal,C3 -> C3,1
+pharm-herbal,C3 -> C3 -> C0 -> C0 -> C0,1
+pharm-herbal,C3 -> C3 -> C1,1
+pharm-herbal,C3 -> C3 -> C1 -> C1,1
+pharm-herbal,C3 -> C4 -> C1 -> C1 -> C1 -> C1 -> C0,1
+balneo,C0 -> C1 -> C1 -> C3 -> C4,1
+pharm-herbal,C4 -> C0 -> C0 -> C0,1
+pharm-herbal,C4 -> C0 -> C0 -> C0 -> C0,1
+pharm-herbal,C4 -> C0 -> C0 -> C0 -> C0 -> C0 -> C0,1
+pharm-herbal,C4 -> C0 -> C0 -> C1 -> C0,1
+pharm-herbal,C4 -> C0 -> C0 -> C3,1
+pharm-herbal,C4 -> C0 -> C0 -> C4 -> C0 -> C0,1
+pharm-herbal,C4 -> C0 -> C1,1
+pharm-herbal,C4 -> C0 -> C1 -> C0 -> C0 -> C3,1
+pharm-herbal,C4 -> C0 -> C1 -> C1 -> C0,1
+pharm-herbal,C4 -> C0 -> C2 -> C0,1
+pharm-herbal,C4 -> C2 -> C0 -> C0 -> C0 -> C0 -> C2 -> C2,1
+pharm-herbal,C4 -> C3,1
+balneo,C0 -> C1 -> C2,1
+balneo,C0 -> C1 -> C2 -> C1,1
+rosettes,C0 -> C0 -> C0 -> C1 -> C4,1
+rosettes,C0 -> C0 -> C0 -> C2 -> C2,1
+rosettes,C0 -> C0 -> C1,1
+rosettes,C0 -> C0 -> C1 -> C2 -> C1 -> C0 -> C4,1
+rosettes,C0 -> C0 -> C2 -> C1 -> C0,1
+rosettes,C0 -> C0 -> C3 -> C0 -> C1,1
+rosettes,C0 -> C1,1
+balneo,C0 -> C1 -> C2 -> C1 -> C2 -> C2 -> C3 -> C2 -> C2,1
+rosettes,C0 -> C1 -> C0 -> C0,1
+rosettes,C0 -> C1 -> C0 -> C0 -> C2 -> C1,1
+rosettes,C0 -> C1 -> C0 -> C1,1
+rosettes,C0 -> C1 -> C0 -> C1 -> C3 -> C2,1
+rosettes,C0 -> C1 -> C0 -> C1 -> C4,1
+rosettes,C0 -> C1 -> C1 -> C0 -> C0 -> C2,1
+rosettes,C0 -> C1 -> C1 -> C0 -> C1,1
+rosettes,C0 -> C1 -> C1 -> C1 -> C1,1
+rosettes,C0 -> C1 -> C1 -> C1 -> C2 -> C2,1
+rosettes,C0 -> C1 -> C1 -> C2 -> C0,1
+rosettes,C0 -> C1 -> C2 -> C0 -> C3,1
+rosettes,C0 -> C1 -> C2 -> C2 -> C2,1
+rosettes,C0 -> C1 -> C2 -> C4,1
+rosettes,C0 -> C1 -> C3 -> C1 -> C1 -> C0,1
+rosettes,C0 -> C1 -> C3 -> C2,1
+rosettes,C0 -> C2,1
+rosettes,C0 -> C2 -> C0 -> C1 -> C1 -> C0 -> C1,1
+balneo,C0 -> C1 -> C2 -> C2,1
+rosettes,C0 -> C2 -> C1 -> C1 -> C2,1
+rosettes,C0 -> C2 -> C2,1
+rosettes,C0 -> C3 -> C1 -> C2 -> C3 -> C2 -> C2 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1,1
+rosettes,C0 -> C3 -> C2 -> C3 -> C1 -> C0 -> C1 -> C3,1
+rosettes,C0 -> C4,1
+rosettes,C0 -> C4 -> C2 -> C2 -> C2,1
+rosettes,C0 -> C4 -> C2 -> C2 -> C2 -> C1 -> C1 -> C0,1
+balneo,C0 -> C1 -> C2 -> C2 -> C1,1
+rosettes,C1 -> C0 -> C0 -> C0 -> C0 -> C2 -> C2,1
+rosettes,C1 -> C0 -> C0 -> C0 -> C1 -> C1 -> C2,1
+balneo,C0 -> C1 -> C3 -> C1 -> C1,1
+rosettes,C1 -> C0 -> C1 -> C0 -> C2,1
+rosettes,C1 -> C0 -> C1 -> C0 -> C2 -> C2,1
+balneo,C0 -> C1 -> C3 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+rosettes,C1 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3,1
+rosettes,C1 -> C0 -> C2,1
+rosettes,C1 -> C0 -> C3,1
+rosettes,C1 -> C0 -> C3 -> C2 -> C2,1
+rosettes,C1 -> C0 -> C4 -> C1 -> C1,1
+balneo,C0 -> C1 -> C3 -> C2 -> C1 -> C1,1
+balneo,C0 -> C1 -> C3 -> C3 -> C3 -> C1 -> C2,1
+rosettes,C1 -> C1 -> C0 -> C1,1
+balneo,C0 -> C2 -> C1 -> C0 -> C3,1
+rosettes,C1 -> C1 -> C1 -> C0 -> C0,1
+rosettes,C1 -> C1 -> C1 -> C1,1
+rosettes,C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+rosettes,C1 -> C1 -> C1 -> C1 -> C2,1
+rosettes,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,1
+rosettes,C1 -> C1 -> C1 -> C2 -> C1 -> C1,1
+balneo,C0 -> C2 -> C1 -> C1,1
+rosettes,C1 -> C1 -> C2 -> C0,1
+rosettes,C1 -> C1 -> C2 -> C1 -> C0 -> C0,1
+rosettes,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,1
+rosettes,C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C1 -> C0,1
+rosettes,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+rosettes,C1 -> C1 -> C3 -> C1 -> C2,1
+rosettes,C1 -> C1 -> C4,1
+balneo,C0 -> C2 -> C1 -> C1 -> C1 -> C1,1
+balneo,C0 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C0 -> C2 -> C1 -> C4,1
+rosettes,C1 -> C2 -> C0 -> C2 -> C1 -> C1,1
+rosettes,C1 -> C2 -> C1,1
+rosettes,C1 -> C2 -> C1 -> C0 -> C4,1
+rosettes,C1 -> C2 -> C1 -> C1,1
+rosettes,C1 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C2 -> C2,1
+rosettes,C1 -> C2 -> C1 -> C2,1
+balneo,C0 -> C2 -> C2 -> C0,1
+rosettes,C1 -> C2 -> C2 -> C1 -> C4 -> C2 -> C1 -> C1,1
+rosettes,C1 -> C2 -> C2 -> C2 -> C2 -> C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+rosettes,C1 -> C3,1
+rosettes,C1 -> C3 -> C1,1
+rosettes,C1 -> C3 -> C1 -> C2,1
+rosettes,C1 -> C3 -> C1 -> C2 -> C2,1
+rosettes,C1 -> C4 -> C1,1
+rosettes,C1 -> C4 -> C1 -> C3 -> C3,1
+rosettes,C1 -> C4 -> C2 -> C2 -> C0 -> C0,1
+balneo,C0 -> C2 -> C2 -> C1 -> C2,1
+rosettes,C2 -> C0 -> C0,1
+rosettes,C2 -> C0 -> C1 -> C1 -> C1 -> C2,1
+balneo,C0 -> C2 -> C2 -> C1 -> C2 -> C3,1
+rosettes,C2 -> C0 -> C2 -> C0,1
+rosettes,C2 -> C0 -> C2 -> C2 -> C2,1
+rosettes,C2 -> C1,1
+rosettes,C2 -> C1 -> C0 -> C1 -> C3,1
+rosettes,C2 -> C1 -> C0 -> C2 -> C2 -> C2 -> C2 -> C2,1
+rosettes,C2 -> C1 -> C1,1
+rosettes,C2 -> C1 -> C2,1
+rosettes,C2 -> C1 -> C2 -> C1 -> C0 -> C0,1
+rosettes,C2 -> C1 -> C2 -> C2,1
+rosettes,C2 -> C1 -> C2 -> C2 -> C2 -> C0 -> C1,1
+rosettes,C2 -> C1 -> C2 -> C4 -> C2 -> C1 -> C1 -> C2,1
+rosettes,C2 -> C1 -> C4,1
+balneo,C0 -> C2 -> C2 -> C4,1
+rosettes,C2 -> C2 -> C0,1
+rosettes,C2 -> C2 -> C1 -> C2 -> C2,1
+rosettes,C2 -> C2 -> C2 -> C0 -> C1,1
+rosettes,C2 -> C2 -> C2 -> C1,1
+rosettes,C2 -> C2 -> C2 -> C2,1
+rosettes,C2 -> C3,1
+rosettes,C2 -> C4,1
+rosettes,C2 -> C4 -> C2,1
+rosettes,C3 -> C0 -> C1,1
+rosettes,C3 -> C1,1
+rosettes,C3 -> C1 -> C1,1
+rosettes,C3 -> C1 -> C1 -> C3 -> C1 -> C0 -> C0 -> C0 -> C3 -> C1 -> C2 -> C0 -> C2,1
+rosettes,C3 -> C1 -> C2,1
+rosettes,C3 -> C1 -> C2 -> C2,1
+rosettes,C3 -> C1 -> C3 -> C2,1
+rosettes,C3 -> C1 -> C3 -> C3 -> C0 -> C1 -> C0 -> C3 -> C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C3 -> C1 -> C2 -> C1 -> C2 -> C1,1
+rosettes,C3 -> C2,1
+rosettes,C3 -> C2 -> C0 -> C1 -> C3,1
+rosettes,C3 -> C2 -> C1,1
+rosettes,C3 -> C2 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+rosettes,C3 -> C2 -> C2,1
+rosettes,C3 -> C3,1
+rosettes,C3 -> C3 -> C2,1
+rosettes,C3 -> C3 -> C2 -> C3 -> C3,1
+rosettes,C3 -> C3 -> C4 -> C2 -> C4 -> C2,1
+rosettes,C3 -> C4,1
+rosettes,C3 -> C4 -> C0 -> C1 -> C2 -> C0 -> C0,1
+rosettes,C4 -> C0 -> C1 -> C1 -> C1,1
+rosettes,C4 -> C1 -> C0 -> C2 -> C2 -> C2,1
+rosettes,C4 -> C1 -> C1,1
+rosettes,C4 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+rosettes,C4 -> C1 -> C2 -> C1 -> C0,1
+rosettes,C4 -> C1 -> C2 -> C3 -> C3 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C0,1
+rosettes,C4 -> C1 -> C3 -> C1 -> C1,1
+rosettes,C4 -> C2 -> C0 -> C2 -> C2 -> C0 -> C2,1
+rosettes,C4 -> C2 -> C1,1
+rosettes,C4 -> C2 -> C1 -> C0 -> C2 -> C0 -> C2,1
+balneo,C0 -> C3 -> C0 -> C1 -> C1 -> C1,1
+balneo,C0 -> C3 -> C1 -> C2,1
+balneo,C0 -> C3 -> C2 -> C3,1
+stars,C0 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C0,1
+stars,C0 -> C0 -> C0 -> C0 -> C1 -> C2,1
+stars,C0 -> C0 -> C0 -> C0 -> C1 -> C2 -> C0 -> C2,1
+stars,C0 -> C0 -> C0 -> C0 -> C3 -> C1,1
+stars,C0 -> C0 -> C0 -> C1 -> C0 -> C1 -> C1,1
+stars,C0 -> C0 -> C0 -> C1 -> C0 -> C2,1
+stars,C0 -> C0 -> C0 -> C1 -> C1 -> C0,1
+stars,C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C0 -> C0 -> C1 -> C2,1
+stars,C0 -> C0 -> C0 -> C1 -> C3 -> C2 -> C1 -> C2,1
+stars,C0 -> C0 -> C0 -> C1 -> C4,1
+stars,C0 -> C0 -> C0 -> C2 -> C0,1
+stars,C0 -> C0 -> C0 -> C3 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0,1
+stars,C0 -> C0 -> C0 -> C3 -> C3 -> C1 -> C2 -> C2,1
+stars,C0 -> C0 -> C0 -> C3 -> C3 -> C2,1
+stars,C0 -> C0 -> C0 -> C4 -> C0 -> C0 -> C4 -> C0 -> C1,1
+balneo,C0 -> C3 -> C4,1
+stars,C0 -> C0 -> C1 -> C0,1
+stars,C0 -> C0 -> C1 -> C0 -> C0,1
+stars,C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C0 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C0 -> C1 -> C0 -> C2 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C1,1
+stars,C0 -> C0 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C1 -> C1,1
+stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C1 -> C1 -> C3,1
+stars,C0 -> C0 -> C1 -> C1 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C2 -> C1 -> C1 -> C4 -> C3,1
+stars,C0 -> C0 -> C1 -> C2 -> C2 -> C3 -> C0 -> C2 -> C2,1
+stars,C0 -> C0 -> C1 -> C3 -> C2,1
+stars,C0 -> C0 -> C1 -> C3 -> C3 -> C2 -> C1,1
+stars,C0 -> C0 -> C1 -> C3 -> C3 -> C3 -> C3,1
+stars,C0 -> C0 -> C1 -> C4 -> C1 -> C1 -> C1 -> C4 -> C1,1
+balneo,C0 -> C3 -> C4 -> C1,1
+stars,C0 -> C0 -> C2 -> C0 -> C1 -> C2,1
+stars,C0 -> C0 -> C2 -> C0 -> C2,1
+stars,C0 -> C0 -> C2 -> C1 -> C1 -> C0 -> C1,1
+stars,C0 -> C0 -> C2 -> C1 -> C4,1
+stars,C0 -> C0 -> C2 -> C2,1
+stars,C0 -> C0 -> C2 -> C2 -> C0 -> C2,1
+stars,C0 -> C0 -> C2 -> C2 -> C2 -> C0,1
+stars,C0 -> C0 -> C2 -> C3,1
+stars,C0 -> C0 -> C2 -> C3 -> C1,1
+stars,C0 -> C0 -> C2 -> C3 -> C1 -> C1,1
+stars,C0 -> C0 -> C2 -> C3 -> C1 -> C2 -> C1 -> C1,1
+stars,C0 -> C0 -> C2 -> C4,1
+stars,C0 -> C0 -> C3 -> C0 -> C0 -> C0,1
+stars,C0 -> C0 -> C3 -> C3 -> C0 -> C4,1
+stars,C0 -> C0 -> C4 -> C1 -> C1,1
+stars,C0 -> C0 -> C4 -> C3 -> C2 -> C2 -> C3,1
+balneo,C0 -> C4,1
+balneo,C0 -> C4 -> C1 -> C2 -> C3,1
+balneo,C0 -> C4 -> C2 -> C1 -> C0 -> C1 -> C4,1
+stars,C0 -> C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C3,1
+stars,C0 -> C1 -> C0 -> C0 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C0 -> C1,1
+stars,C0 -> C1 -> C0 -> C1 -> C0 -> C1,1
+stars,C0 -> C1 -> C0 -> C1 -> C1 -> C0,1
+stars,C0 -> C1 -> C0 -> C1 -> C2 -> C0,1
+stars,C0 -> C1 -> C0 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C0 -> C2 -> C2 -> C2,1
+stars,C0 -> C1 -> C0 -> C2 -> C3 -> C0,1
+stars,C0 -> C1 -> C0 -> C3 -> C2 -> C3 -> C3,1
+balneo,C0 -> C4 -> C4 -> C1,1
+stars,C0 -> C1 -> C1 -> C0,1
+stars,C0 -> C1 -> C1 -> C0 -> C0 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C0 -> C0 -> C3,1
+stars,C0 -> C1 -> C1 -> C0 -> C1 -> C1 -> C3 -> C1,1
+stars,C0 -> C1 -> C1 -> C0 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C1 -> C0 -> C4,1
+stars,C0 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C0,1
+stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C4 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C0 -> C4 -> C1,1
+balneo,C1 -> C0 -> C0 -> C0,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C3,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C3,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0 -> C1 -> C0,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C3 -> C0,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C0,1
+stars,C0 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C0 -> C3,1
+stars,C0 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,1
+stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C3,1
+stars,C0 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3,1
+stars,C0 -> C1 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C2 -> C0 -> C3 -> C2,1
+stars,C0 -> C1 -> C1 -> C2 -> C1 -> C0 -> C1 -> C3 -> C2,1
+stars,C0 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C2 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C2 -> C1 -> C2 -> C1,1
+stars,C0 -> C1 -> C1 -> C2 -> C2 -> C1,1
+stars,C0 -> C1 -> C1 -> C2 -> C3,1
+stars,C0 -> C1 -> C1 -> C3,1
+stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C3 -> C3 -> C0 -> C2,1
+stars,C0 -> C1 -> C1 -> C4 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C1 -> C1 -> C4 -> C2 -> C1 -> C3,1
+balneo,C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C2 -> C0 -> C1 -> C1 -> C0 -> C0 -> C0,1
+stars,C0 -> C1 -> C2 -> C0 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C2 -> C0 -> C2 -> C3 -> C3 -> C0 -> C1,1
+stars,C0 -> C1 -> C2 -> C1,1
+stars,C0 -> C1 -> C2 -> C1 -> C2 -> C2 -> C2 -> C2 -> C1 -> C2,1
+stars,C0 -> C1 -> C2 -> C1 -> C4 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C0 -> C0 -> C2 -> C1 -> C1,1
+stars,C0 -> C1 -> C2 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C0 -> C1,1
+balneo,C1 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C2,1
+stars,C0 -> C1 -> C2 -> C3 -> C0,1
+stars,C0 -> C1 -> C2 -> C3 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C2 -> C3 -> C3 -> C3 -> C3 -> C3,1
+stars,C0 -> C1 -> C3 -> C0 -> C1 -> C1 -> C1,1
+stars,C0 -> C1 -> C3 -> C0 -> C3 -> C0 -> C1,1
+stars,C0 -> C1 -> C3 -> C2 -> C0 -> C2 -> C2 -> C0 -> C1 -> C1,1
+stars,C0 -> C1 -> C4 -> C0 -> C3,1
+stars,C0 -> C1 -> C4 -> C1 -> C1 -> C2 -> C2,1
+stars,C0 -> C1 -> C4 -> C1 -> C2,1
+stars,C0 -> C1 -> C4 -> C2 -> C2 -> C0,1
+balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+balneo,C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C2 -> C0 -> C0 -> C0 -> C2 -> C1,1
+stars,C0 -> C2 -> C0 -> C0 -> C1 -> C0 -> C3 -> C0 -> C3,1
+stars,C0 -> C2 -> C0 -> C1 -> C1 -> C3 -> C0,1
+stars,C0 -> C2 -> C0 -> C2 -> C1 -> C2,1
+balneo,C1 -> C0 -> C1 -> C1 -> C2 -> C0,1
+stars,C0 -> C2 -> C1 -> C0 -> C0 -> C1 -> C2 -> C2,1
+stars,C0 -> C2 -> C1 -> C0 -> C0 -> C3,1
+stars,C0 -> C2 -> C1 -> C0 -> C1,1
+stars,C0 -> C2 -> C1 -> C1,1
+stars,C0 -> C2 -> C1 -> C1 -> C0 -> C0 -> C3 -> C3,1
+stars,C0 -> C2 -> C1 -> C1 -> C1 -> C0,1
+stars,C0 -> C2 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C0 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C2 -> C1 -> C1 -> C2 -> C4,1
+stars,C0 -> C2 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3 -> C2 -> C3,1
+balneo,C1 -> C0 -> C1 -> C1 -> C2 -> C1,1
+stars,C0 -> C2 -> C2 -> C1 -> C0 -> C2 -> C0,1
+stars,C0 -> C2 -> C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,1
+stars,C0 -> C2 -> C2 -> C1 -> C4,1
+balneo,C1 -> C0 -> C1 -> C1 -> C3,1
+stars,C0 -> C2 -> C2 -> C2 -> C1 -> C4,1
+stars,C0 -> C2 -> C2 -> C3 -> C2 -> C2,1
+stars,C0 -> C2 -> C2 -> C4 -> C1 -> C0 -> C0,1
+stars,C0 -> C2 -> C2 -> C4 -> C1 -> C2,1
+balneo,C1 -> C0 -> C1 -> C1 -> C4 -> C1,1
+stars,C0 -> C2 -> C3 -> C1 -> C3,1
+stars,C0 -> C2 -> C3 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C2 -> C3 -> C3 -> C2 -> C1 -> C1 -> C3,1
+stars,C0 -> C2 -> C4 -> C1,1
+stars,C0 -> C2 -> C4 -> C1 -> C2 -> C2,1
+stars,C0 -> C2 -> C4 -> C1 -> C2 -> C3 -> C2,1
+stars,C0 -> C2 -> C4 -> C2 -> C1 -> C1,1
+balneo,C1 -> C0 -> C1 -> C2 -> C2,1
+balneo,C1 -> C0 -> C1 -> C2 -> C2 -> C2,1
+stars,C0 -> C3 -> C0 -> C0 -> C0 -> C0 -> C0,1
+stars,C0 -> C3 -> C0 -> C2 -> C4 -> C2 -> C2,1
+balneo,C1 -> C0 -> C1 -> C3 -> C1 -> C2,1
+stars,C0 -> C3 -> C1 -> C0,1
+stars,C0 -> C3 -> C1 -> C0 -> C1,1
+stars,C0 -> C3 -> C1 -> C0 -> C2 -> C0 -> C0 -> C0,1
+stars,C0 -> C3 -> C1 -> C0 -> C4,1
+stars,C0 -> C3 -> C1 -> C1 -> C1,1
+stars,C0 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C0 -> C3 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C3 -> C2,1
+stars,C0 -> C3 -> C1 -> C1 -> C3 -> C1 -> C2,1
+stars,C0 -> C3 -> C1 -> C3 -> C2,1
+stars,C0 -> C3 -> C2 -> C0 -> C3,1
+stars,C0 -> C3 -> C2 -> C1,1
+stars,C0 -> C3 -> C2 -> C4,1
+stars,C0 -> C3 -> C3 -> C1,1
+stars,C0 -> C3 -> C4 -> C1 -> C1 -> C3 -> C0,1
+stars,C0 -> C4 -> C0 -> C1 -> C1,1
+stars,C0 -> C4 -> C0 -> C2 -> C2 -> C1 -> C3 -> C3,1
+stars,C0 -> C4 -> C1 -> C0 -> C0,1
+stars,C0 -> C4 -> C1 -> C0 -> C1 -> C2 -> C2,1
+stars,C0 -> C4 -> C1 -> C1 -> C0 -> C4,1
+stars,C0 -> C4 -> C1 -> C1 -> C1,1
+stars,C0 -> C4 -> C1 -> C1 -> C1 -> C2,1
+stars,C0 -> C4 -> C1 -> C2 -> C1 -> C0 -> C0 -> C0,1
+stars,C0 -> C4 -> C1 -> C2 -> C2 -> C1 -> C0,1
+stars,C0 -> C4 -> C2 -> C2 -> C0,1
+stars,C0 -> C4 -> C2 -> C2 -> C0 -> C1 -> C2,1
+stars,C0 -> C4 -> C3 -> C1 -> C3 -> C1 -> C0,1
+stars,C0 -> C4 -> C3 -> C1 -> C3 -> C1 -> C2 -> C3,1
+balneo,C1 -> C0 -> C1 -> C4 -> C4 -> C1 -> C2 -> C2,1
+balneo,C1 -> C0 -> C2 -> C1 -> C1 -> C1,1
+balneo,C1 -> C0 -> C2 -> C2,1
+stars,C1 -> C0 -> C0 -> C0 -> C1 -> C0,1
+stars,C1 -> C0 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1 -> C1,1
+stars,C1 -> C0 -> C0 -> C0 -> C3 -> C2 -> C3 -> C3 -> C1 -> C3,1
+stars,C1 -> C0 -> C0 -> C1,1
+stars,C1 -> C0 -> C0 -> C1 -> C1,1
+stars,C1 -> C0 -> C0 -> C1 -> C1 -> C0 -> C2,1
+stars,C1 -> C0 -> C0 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C0 -> C0 -> C1 -> C1 -> C3,1
+stars,C1 -> C0 -> C0 -> C1 -> C2 -> C2 -> C1,1
+stars,C1 -> C0 -> C0 -> C2,1
+stars,C1 -> C0 -> C0 -> C2 -> C2,1
+stars,C1 -> C0 -> C0 -> C3,1
+stars,C1 -> C0 -> C0 -> C3 -> C2 -> C2,1
+balneo,C1 -> C0 -> C2 -> C3,1
+stars,C1 -> C0 -> C1 -> C0,1
+stars,C1 -> C0 -> C1 -> C0 -> C1 -> C0 -> C0 -> C0 -> C2,1
+stars,C1 -> C0 -> C1 -> C0 -> C1 -> C0 -> C3 -> C2 -> C0,1
+balneo,C1 -> C0 -> C3,1
+stars,C1 -> C0 -> C1 -> C1 -> C0,1
+stars,C1 -> C0 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0,1
+stars,C1 -> C0 -> C1 -> C1 -> C1,1
+stars,C1 -> C0 -> C1 -> C1 -> C1 -> C0,1
+stars,C1 -> C0 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C0 -> C1 -> C1 -> C2 -> C3,1
+stars,C1 -> C0 -> C1 -> C1 -> C3 -> C1,1
+stars,C1 -> C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C3 -> C2,1
+stars,C1 -> C0 -> C1 -> C1 -> C3 -> C4,1
+stars,C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C0 -> C1 -> C2 -> C0,1
+stars,C1 -> C0 -> C1 -> C2 -> C0 -> C4,1
+balneo,C1 -> C0 -> C3 -> C2 -> C4 -> C2 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C0 -> C1 -> C2 -> C2 -> C2 -> C0,1
+stars,C1 -> C0 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+stars,C1 -> C0 -> C1 -> C3 -> C1 -> C2 -> C0,1
+stars,C1 -> C0 -> C1 -> C4 -> C1 -> C1 -> C1,1
+stars,C1 -> C0 -> C2,1
+stars,C1 -> C0 -> C2 -> C0 -> C0,1
+stars,C1 -> C0 -> C2 -> C1 -> C2 -> C2,1
+stars,C1 -> C0 -> C2 -> C2,1
+stars,C1 -> C0 -> C2 -> C2 -> C0,1
+stars,C1 -> C0 -> C2 -> C2 -> C1,1
+stars,C1 -> C0 -> C2 -> C2 -> C1 -> C0,1
+balneo,C1 -> C0 -> C3 -> C4 -> C1 -> C1,1
+balneo,C1 -> C0 -> C4,1
+stars,C1 -> C0 -> C3 -> C1 -> C1 -> C2 -> C3 -> C1,1
+stars,C1 -> C0 -> C3 -> C1 -> C2,1
+stars,C1 -> C0 -> C3 -> C1 -> C3 -> C0,1
+stars,C1 -> C0 -> C3 -> C4 -> C2,1
+stars,C1 -> C0 -> C4 -> C2,1
+stars,C1 -> C0 -> C4 -> C2 -> C2 -> C3,1
+stars,C1 -> C0 -> C4 -> C3 -> C2 -> C1 -> C1 -> C1 -> C3,1
+balneo,C1 -> C0 -> C4 -> C2,1
+balneo,C1 -> C1 -> C0 -> C0 -> C0 -> C2 -> C0 -> C0,1
+stars,C1 -> C1 -> C0 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C0 -> C1,1
+stars,C1 -> C1 -> C0 -> C0 -> C1 -> C2 -> C3,1
+stars,C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C1 -> C0 -> C1 -> C0,1
+stars,C1 -> C1 -> C0 -> C1 -> C0 -> C1,1
+balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C0 -> C3,1
+stars,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C0 -> C1 -> C2 -> C0 -> C0,1
+stars,C1 -> C1 -> C0 -> C1 -> C2 -> C0 -> C1 -> C1,1
+balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C2 -> C2 -> C0 -> C0,1
+stars,C1 -> C1 -> C0 -> C2 -> C2 -> C2 -> C1,1
+stars,C1 -> C1 -> C0 -> C3 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C3 -> C1 -> C2,1
+balneo,C1 -> C1 -> C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C0 -> C3 -> C3 -> C2 -> C2,1
+balneo,C1 -> C1 -> C0 -> C0 -> C2 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C0,1
+stars,C1 -> C1 -> C1 -> C0 -> C0 -> C0,1
+stars,C1 -> C1 -> C1 -> C0 -> C0 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C0 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C0 -> C3 -> C1,1
+stars,C1 -> C1 -> C1 -> C0 -> C4 -> C1 -> C3 -> C2 -> C4,1
+balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C0 -> C0 -> C0 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C0 -> C2,1
+balneo,C1 -> C1 -> C0 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C4 -> C1,1
+balneo,C1 -> C1 -> C0 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+balneo,C1 -> C1 -> C0 -> C2 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C0 -> C2 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C4,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C3 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C2 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C0,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C0 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C3 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C1 -> C4,1
+stars,C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C2 -> C0 -> C3,1
+balneo,C1 -> C1 -> C0 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C0 -> C3,1
+stars,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C0,1
+stars,C1 -> C1 -> C1 -> C2 -> C2 -> C3,1
+stars,C1 -> C1 -> C1 -> C2 -> C3 -> C0 -> C1 -> C4 -> C1,1
+stars,C1 -> C1 -> C1 -> C2 -> C3 -> C0 -> C2,1
+stars,C1 -> C1 -> C1 -> C2 -> C4 -> C2,1
+balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C3 -> C0 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C0,1
+stars,C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C2,1
+stars,C1 -> C1 -> C1 -> C3 -> C1 -> C4 -> C3 -> C3,1
+balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C1 -> C3 -> C3,1
+stars,C1 -> C1 -> C1 -> C3 -> C3 -> C3,1
+stars,C1 -> C1 -> C1 -> C4 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C1 -> C0 -> C1 -> C3,1
+stars,C1 -> C1 -> C2 -> C0 -> C0 -> C2 -> C0 -> C2 -> C0,1
+stars,C1 -> C1 -> C2 -> C0 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C2 -> C0 -> C3 -> C1,1
+stars,C1 -> C1 -> C2 -> C0 -> C3 -> C2 -> C2 -> C2 -> C2,1
+stars,C1 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C2 -> C1 -> C0,1
+stars,C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3,1
+stars,C1 -> C1 -> C2 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3,1
+stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C1 -> C1,1
+stars,C1 -> C1 -> C2 -> C1 -> C1 -> C3 -> C2,1
+stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1,1
+stars,C1 -> C1 -> C2 -> C1 -> C2 -> C1 -> C1 -> C0,1
+stars,C1 -> C1 -> C2 -> C1 -> C2 -> C3 -> C2,1
+stars,C1 -> C1 -> C2 -> C1 -> C2 -> C3 -> C2 -> C3,1
+stars,C1 -> C1 -> C2 -> C1 -> C3 -> C0 -> C1 -> C2,1
+stars,C1 -> C1 -> C2 -> C1 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C0 -> C2,1
+stars,C1 -> C1 -> C2 -> C2 -> C1,1
+stars,C1 -> C1 -> C2 -> C2 -> C1 -> C0 -> C2,1
+stars,C1 -> C1 -> C2 -> C2 -> C1 -> C3,1
+stars,C1 -> C1 -> C2 -> C2 -> C2,1
+stars,C1 -> C1 -> C2 -> C2 -> C2 -> C1,1
+stars,C1 -> C1 -> C2 -> C2 -> C2 -> C2,1
+stars,C1 -> C1 -> C2 -> C2 -> C3,1
+stars,C1 -> C1 -> C2 -> C3 -> C1,1
+stars,C1 -> C1 -> C2 -> C3 -> C2,1
+stars,C1 -> C1 -> C2 -> C4 -> C1,1
+stars,C1 -> C1 -> C2 -> C4 -> C1 -> C1,1
+stars,C1 -> C1 -> C2 -> C4 -> C3 -> C1 -> C2 -> C3,1
+stars,C1 -> C1 -> C3 -> C0,1
+stars,C1 -> C1 -> C3 -> C0 -> C1 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C3 -> C0 -> C2 -> C1,1
+stars,C1 -> C1 -> C3 -> C1,1
+stars,C1 -> C1 -> C3 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C3 -> C1 -> C1 -> C4,1
+stars,C1 -> C1 -> C3 -> C1 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C1 -> C3 -> C1 -> C2 -> C3,1
+stars,C1 -> C1 -> C3 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C0 -> C2 -> C1 -> C3,1
+stars,C1 -> C1 -> C3 -> C2 -> C2 -> C3 -> C2,1
+stars,C1 -> C1 -> C3 -> C3,1
+stars,C1 -> C1 -> C3 -> C3 -> C0 -> C1 -> C1 -> C1 -> C0,1
+stars,C1 -> C1 -> C3 -> C3 -> C1 -> C3,1
+stars,C1 -> C1 -> C3 -> C3 -> C1 -> C3 -> C1 -> C2,1
+stars,C1 -> C1 -> C3 -> C3 -> C3,1
+stars,C1 -> C1 -> C3 -> C4 -> C2 -> C1 -> C1 -> C2 -> C1,1
+stars,C1 -> C1 -> C3 -> C4 -> C4,1
+balneo,C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C0,1
+stars,C1 -> C1 -> C4 -> C1 -> C1 -> C1,1
+stars,C1 -> C1 -> C4 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C0,1
+balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2,1
+stars,C1 -> C2 -> C0 -> C0 -> C0 -> C1 -> C0 -> C0 -> C1,1
+stars,C1 -> C2 -> C0 -> C0 -> C1 -> C1 -> C1,1
+stars,C1 -> C2 -> C0 -> C0 -> C3 -> C1,1
+stars,C1 -> C2 -> C0 -> C2 -> C0,1
+stars,C1 -> C2 -> C0 -> C2 -> C2 -> C1,1
+stars,C1 -> C2 -> C0 -> C3 -> C2 -> C1,1
+stars,C1 -> C2 -> C0 -> C3 -> C2 -> C2 -> C0 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C0 -> C2 -> C2 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C0 -> C1,1
+stars,C1 -> C2 -> C1 -> C1 -> C0 -> C1 -> C0 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C1,1
+stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C1 -> C0,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C1 -> C2 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C2 -> C2,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C3,1
+stars,C1 -> C2 -> C1 -> C1 -> C2 -> C4,1
+stars,C1 -> C2 -> C1 -> C1 -> C4 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C2 -> C1 -> C2 -> C2 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C2 -> C1 -> C3 -> C1,1
+stars,C1 -> C2 -> C1 -> C4 -> C2 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C2 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C2 -> C2 -> C1 -> C1,1
+stars,C1 -> C2 -> C2 -> C1 -> C1 -> C0 -> C2,1
+stars,C1 -> C2 -> C2 -> C1 -> C1 -> C2,1
+stars,C1 -> C2 -> C2 -> C1 -> C2 -> C2 -> C2,1
+stars,C1 -> C2 -> C2 -> C1 -> C2 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C2 -> C2 -> C2 -> C0 -> C3,1
+stars,C1 -> C2 -> C2 -> C2 -> C1 -> C1,1
+stars,C1 -> C2 -> C2 -> C2 -> C1 -> C1 -> C2 -> C1 -> C4,1
+stars,C1 -> C2 -> C2 -> C2 -> C1 -> C2 -> C1 -> C0,1
+stars,C1 -> C2 -> C2 -> C2 -> C2 -> C2,1
+stars,C1 -> C2 -> C2 -> C2 -> C3 -> C2,1
+stars,C1 -> C2 -> C2 -> C3,1
+stars,C1 -> C2 -> C2 -> C4 -> C1 -> C1 -> C1,1
+stars,C1 -> C2 -> C3,1
+stars,C1 -> C2 -> C3 -> C1 -> C3,1
+stars,C1 -> C2 -> C4 -> C4,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C1 -> C3 -> C0,1
+stars,C1 -> C3 -> C0 -> C0 -> C0 -> C1,1
+stars,C1 -> C3 -> C0 -> C0 -> C1 -> C2 -> C1 -> C2,1
+stars,C1 -> C3 -> C0 -> C0 -> C3 -> C0 -> C4 -> C1 -> C1,1
+stars,C1 -> C3 -> C0 -> C1,1
+stars,C1 -> C3 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C3 -> C0 -> C1 -> C1 -> C3 -> C3 -> C1 -> C4 -> C1,1
+stars,C1 -> C3 -> C1,1
+stars,C1 -> C3 -> C1 -> C0 -> C1 -> C0 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C0 -> C2 -> C1 -> C3 -> C1 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C1,1
+stars,C1 -> C3 -> C1 -> C1 -> C0 -> C1,1
+stars,C1 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C3 -> C1 -> C1 -> C0 -> C2,1
+stars,C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C3 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C1 -> C1 -> C3,1
+stars,C1 -> C3 -> C1 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C3 -> C1 -> C1 -> C2 -> C2 -> C3,1
+stars,C1 -> C3 -> C1 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C2 -> C1 -> C2,1
+stars,C1 -> C3 -> C1 -> C3 -> C0 -> C2 -> C1 -> C0,1
+stars,C1 -> C3 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C1 -> C3 -> C1 -> C3 -> C4,1
+stars,C1 -> C3 -> C1 -> C4 -> C1 -> C1 -> C0,1
+stars,C1 -> C3 -> C2,1
+stars,C1 -> C3 -> C2 -> C0 -> C4 -> C1,1
+stars,C1 -> C3 -> C2 -> C1,1
+stars,C1 -> C3 -> C2 -> C2,1
+stars,C1 -> C3 -> C2 -> C2 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2,1
+stars,C1 -> C3 -> C3 -> C0,1
+stars,C1 -> C3 -> C3 -> C1 -> C3 -> C3,1
+stars,C1 -> C3 -> C3 -> C2,1
+stars,C1 -> C3 -> C3 -> C3,1
+stars,C1 -> C3 -> C4,1
+stars,C1 -> C3 -> C4 -> C1 -> C1 -> C2,1
+stars,C1 -> C4,1
+stars,C1 -> C4 -> C0 -> C2 -> C2 -> C2 -> C1,1
+stars,C1 -> C4 -> C0 -> C3 -> C1 -> C1,1
+stars,C1 -> C4 -> C1,1
+stars,C1 -> C4 -> C1 -> C0 -> C2 -> C1,1
+stars,C1 -> C4 -> C1 -> C1,1
+stars,C1 -> C4 -> C1 -> C1 -> C0 -> C0 -> C2,1
+stars,C1 -> C4 -> C1 -> C1 -> C1 -> C2,1
+stars,C1 -> C4 -> C1 -> C1 -> C1 -> C3 -> C1,1
+stars,C1 -> C4 -> C1 -> C1 -> C2,1
+stars,C1 -> C4 -> C1 -> C2 -> C2,1
+stars,C1 -> C4 -> C1 -> C2 -> C2 -> C2,1
+stars,C1 -> C4 -> C1 -> C2 -> C3 -> C1 -> C0,1
+stars,C1 -> C4 -> C2,1
+stars,C1 -> C4 -> C2 -> C0 -> C2,1
+stars,C1 -> C4 -> C2 -> C2,1
+stars,C1 -> C4 -> C2 -> C2 -> C1 -> C1,1
+stars,C1 -> C4 -> C2 -> C3 -> C4 -> C3 -> C0,1
+stars,C1 -> C4 -> C3,1
+stars,C1 -> C4 -> C3 -> C4 -> C1,1
+stars,C1 -> C4 -> C4 -> C1 -> C1 -> C1 -> C4 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C4 -> C1,1
+stars,C2 -> C0 -> C0 -> C0 -> C0 -> C1,1
+stars,C2 -> C0 -> C0 -> C2,1
+stars,C2 -> C0 -> C0 -> C2 -> C1 -> C1 -> C2,1
+stars,C2 -> C0 -> C0 -> C2 -> C2 -> C3 -> C4,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C4,1
+stars,C2 -> C0 -> C1 -> C0 -> C1 -> C2,1
+stars,C2 -> C0 -> C1 -> C1 -> C0 -> C1 -> C0,1
+stars,C2 -> C0 -> C1 -> C1 -> C0 -> C3 -> C1 -> C0 -> C0 -> C0 -> C2,1
+stars,C2 -> C0 -> C1 -> C1 -> C2 -> C0 -> C1,1
+stars,C2 -> C0 -> C1 -> C1 -> C2 -> C2 -> C0 -> C0,1
+stars,C2 -> C0 -> C1 -> C3 -> C2,1
+stars,C2 -> C0 -> C1 -> C4 -> C0,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C0,1
+stars,C2 -> C0 -> C2 -> C1 -> C1 -> C1,1
+stars,C2 -> C0 -> C2 -> C1 -> C1 -> C1 -> C2,1
+stars,C2 -> C0 -> C2 -> C2 -> C0 -> C1 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C0 -> C2,1
+stars,C2 -> C0 -> C2 -> C2 -> C3 -> C1 -> C2 -> C1,1
+stars,C2 -> C0 -> C3,1
+stars,C2 -> C0 -> C3 -> C0,1
+stars,C2 -> C0 -> C3 -> C0 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1,1
+stars,C2 -> C1 -> C0,1
+stars,C2 -> C1 -> C0 -> C0 -> C3 -> C2,1
+stars,C2 -> C1 -> C0 -> C1,1
+stars,C2 -> C1 -> C0 -> C1 -> C1 -> C1 -> C2 -> C4,1
+stars,C2 -> C1 -> C0 -> C1 -> C3 -> C2 -> C2,1
+stars,C2 -> C1 -> C0 -> C2 -> C1 -> C1 -> C2,1
+stars,C2 -> C1 -> C0 -> C2 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,1
+stars,C2 -> C1 -> C1 -> C0 -> C2,1
+stars,C2 -> C1 -> C1 -> C0 -> C2 -> C1 -> C2 -> C2,1
+stars,C2 -> C1 -> C1 -> C0 -> C2 -> C2 -> C1 -> C1 -> C2,1
+stars,C2 -> C1 -> C1 -> C0 -> C3 -> C2 -> C1 -> C0,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C2 -> C1 -> C1 -> C1 -> C0 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1,1
+stars,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C2 -> C1 -> C1 -> C1 -> C1 -> C1 -> C4 -> C2 -> C1,1
+stars,C2 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C3 -> C2,1
+stars,C2 -> C1 -> C1 -> C1 -> C2,1
+stars,C2 -> C1 -> C1 -> C1 -> C2 -> C2 -> C1,1
+stars,C2 -> C1 -> C1 -> C1 -> C4 -> C1 -> C0,1
+stars,C2 -> C1 -> C1 -> C2,1
+stars,C2 -> C1 -> C1 -> C2 -> C2,1
+stars,C2 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1 -> C2,1
+stars,C2 -> C1 -> C1 -> C3 -> C1,1
+stars,C2 -> C1 -> C1 -> C3 -> C1 -> C1 -> C2 -> C3 -> C2,1
+stars,C2 -> C1 -> C1 -> C3 -> C3 -> C1 -> C2 -> C0,1
+stars,C2 -> C1 -> C1 -> C4 -> C4 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C3,1
+stars,C2 -> C1 -> C2 -> C0 -> C2 -> C0 -> C2,1
+stars,C2 -> C1 -> C2 -> C0 -> C4 -> C2,1
+stars,C2 -> C1 -> C2 -> C1,1
+stars,C2 -> C1 -> C2 -> C1 -> C1 -> C1 -> C3 -> C0 -> C1,1
+stars,C2 -> C1 -> C2 -> C1 -> C3 -> C2,1
+stars,C2 -> C1 -> C2 -> C2,1
+stars,C2 -> C1 -> C2 -> C2 -> C0,1
+stars,C2 -> C1 -> C2 -> C2 -> C0 -> C0 -> C2,1
+stars,C2 -> C1 -> C2 -> C2 -> C2,1
+stars,C2 -> C1 -> C2 -> C3 -> C2,1
+stars,C2 -> C1 -> C2 -> C3 -> C3 -> C1 -> C2,1
+stars,C2 -> C1 -> C2 -> C4 -> C2 -> C2 -> C0 -> C0,1
+stars,C2 -> C1 -> C3 -> C1,1
+stars,C2 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1,1
+stars,C2 -> C1 -> C4,1
+stars,C2 -> C1 -> C4 -> C0,1
+stars,C2 -> C1 -> C4 -> C0 -> C2,1
+stars,C2 -> C1 -> C4 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C1,1
+stars,C2 -> C2 -> C0,1
+stars,C2 -> C2 -> C0 -> C0 -> C0 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C3,1
+stars,C2 -> C2 -> C1 -> C0,1
+stars,C2 -> C2 -> C1 -> C0 -> C1 -> C3,1
+stars,C2 -> C2 -> C1 -> C0 -> C3 -> C2 -> C2,1
+stars,C2 -> C2 -> C1 -> C1 -> C2 -> C2,1
+stars,C2 -> C2 -> C1 -> C2,1
+stars,C2 -> C2 -> C1 -> C2 -> C0 -> C0,1
+stars,C2 -> C2 -> C1 -> C2 -> C1,1
+stars,C2 -> C2 -> C1 -> C2 -> C2,1
+stars,C2 -> C2 -> C1 -> C2 -> C2 -> C1 -> C1,1
+stars,C2 -> C2 -> C1 -> C3 -> C0 -> C0,1
+stars,C2 -> C2 -> C1 -> C4 -> C0 -> C2 -> C4,1
+balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C0,1
+stars,C2 -> C2 -> C2 -> C0,1
+stars,C2 -> C2 -> C2 -> C0 -> C0 -> C3,1
+stars,C2 -> C2 -> C2 -> C0 -> C1 -> C4 -> C1,1
+stars,C2 -> C2 -> C2 -> C0 -> C3 -> C2 -> C3,1
+stars,C2 -> C2 -> C2 -> C1 -> C0,1
+stars,C2 -> C2 -> C2 -> C1 -> C0 -> C1 -> C4,1
+balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C1,1
+stars,C2 -> C2 -> C2 -> C1 -> C2 -> C0 -> C0 -> C1,1
+stars,C2 -> C2 -> C2 -> C1 -> C2 -> C2 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C2 -> C1 -> C2,1
+stars,C2 -> C2 -> C2 -> C2 -> C0 -> C2,1
+stars,C2 -> C2 -> C2 -> C2 -> C1 -> C0 -> C2,1
+stars,C2 -> C2 -> C2 -> C2 -> C1 -> C2 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C2 -> C2 -> C2 -> C2 -> C2 -> C3,1
+stars,C2 -> C2 -> C2 -> C3 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C1,1
+stars,C2 -> C2 -> C3 -> C0 -> C1 -> C3 -> C1 -> C1 -> C3,1
+stars,C2 -> C2 -> C3 -> C1 -> C2,1
+stars,C2 -> C2 -> C3 -> C2 -> C0 -> C2 -> C2 -> C2,1
+stars,C2 -> C2 -> C3 -> C2 -> C1,1
+stars,C2 -> C2 -> C3 -> C3 -> C3,1
+stars,C2 -> C2 -> C4,1
+stars,C2 -> C3,1
+stars,C2 -> C3 -> C0 -> C2 -> C2,1
+stars,C2 -> C3 -> C1,1
+stars,C2 -> C3 -> C1 -> C1 -> C2 -> C2 -> C3,1
+stars,C2 -> C3 -> C1 -> C3,1
+stars,C2 -> C3 -> C1 -> C4 -> C3 -> C1 -> C0,1
+stars,C2 -> C3 -> C2,1
+stars,C2 -> C3 -> C2 -> C0 -> C0,1
+stars,C2 -> C3 -> C2 -> C2,1
+stars,C2 -> C3 -> C2 -> C2 -> C4,1
+stars,C2 -> C3 -> C3 -> C4,1
+stars,C2 -> C3 -> C4 -> C3 -> C3 -> C0 -> C0,1
+stars,C2 -> C4,1
+stars,C2 -> C4 -> C0 -> C0 -> C0 -> C0 -> C4 -> C1,1
+stars,C2 -> C4 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+stars,C2 -> C4 -> C2 -> C0 -> C1 -> C1 -> C3 -> C1,1
+stars,C2 -> C4 -> C3 -> C2 -> C1 -> C1 -> C1,1
+stars,C3 -> C0,1
+stars,C3 -> C0 -> C0,1
+stars,C3 -> C0 -> C0 -> C1 -> C1 -> C0,1
+stars,C3 -> C0 -> C0 -> C2 -> C2 -> C1 -> C0 -> C1 -> C2,1
+stars,C3 -> C0 -> C0 -> C2 -> C2 -> C2 -> C2,1
+stars,C3 -> C0 -> C1 -> C0,1
+stars,C3 -> C0 -> C1 -> C0 -> C1 -> C1,1
+stars,C3 -> C0 -> C1 -> C0 -> C2,1
+stars,C3 -> C0 -> C1 -> C1,1
+stars,C3 -> C0 -> C1 -> C1 -> C1 -> C0,1
+stars,C3 -> C0 -> C1 -> C1 -> C2 -> C1 -> C1,1
+stars,C3 -> C0 -> C1 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C4,1
+stars,C3 -> C0 -> C1 -> C2 -> C1 -> C0 -> C3,1
+stars,C3 -> C0 -> C1 -> C3 -> C1 -> C2 -> C2 -> C3 -> C1,1
+stars,C3 -> C0 -> C2,1
+stars,C3 -> C0 -> C2 -> C1 -> C0 -> C2 -> C3,1
+stars,C3 -> C0 -> C2 -> C2 -> C0,1
+stars,C3 -> C0 -> C2 -> C2 -> C0 -> C2 -> C0,1
+stars,C3 -> C0 -> C2 -> C2 -> C1 -> C0,1
+stars,C3 -> C0 -> C2 -> C2 -> C3,1
+stars,C3 -> C0 -> C3 -> C1 -> C1 -> C0 -> C3 -> C0 -> C3,1
+stars,C3 -> C0 -> C4 -> C1 -> C4,1
+stars,C3 -> C0 -> C4 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C1 -> C1 -> C3 -> C3,1
+balneo,C1 -> C1 -> C1 -> C1 -> C4,1
+stars,C3 -> C1 -> C0 -> C1 -> C1 -> C4 -> C3 -> C3 -> C2,1
+stars,C3 -> C1 -> C0 -> C1 -> C2,1
+stars,C3 -> C1 -> C0 -> C1 -> C3 -> C3,1
+stars,C3 -> C1 -> C0 -> C2,1
+stars,C3 -> C1 -> C0 -> C2 -> C2,1
+stars,C3 -> C1 -> C0 -> C3 -> C2,1
+stars,C3 -> C1 -> C0 -> C4 -> C0 -> C2 -> C0 -> C1,1
+stars,C3 -> C1 -> C1 -> C0,1
+stars,C3 -> C1 -> C1 -> C0 -> C2 -> C1,1
+balneo,C1 -> C1 -> C1 -> C1 -> C4 -> C1,1
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C0 -> C1 -> C0 -> C0 -> C0,1
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C1 -> C3 -> C2,1
+balneo,C1 -> C1 -> C1 -> C2 -> C0,1
+stars,C3 -> C1 -> C1 -> C1 -> C1 -> C3,1
+stars,C3 -> C1 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1,1
+stars,C3 -> C1 -> C1 -> C1 -> C3 -> C1 -> C1,1
+stars,C3 -> C1 -> C1 -> C1 -> C3 -> C1 -> C2 -> C3 -> C0,1
+stars,C3 -> C1 -> C1 -> C2,1
+stars,C3 -> C1 -> C1 -> C2 -> C1,1
+stars,C3 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,1
+stars,C3 -> C1 -> C1 -> C2 -> C1 -> C3,1
+stars,C3 -> C1 -> C1 -> C2 -> C1 -> C3 -> C1,1
+stars,C3 -> C1 -> C1 -> C2 -> C2 -> C1,1
+stars,C3 -> C1 -> C1 -> C2 -> C2 -> C2,1
+stars,C3 -> C1 -> C1 -> C2 -> C2 -> C2 -> C1 -> C1,1
+stars,C3 -> C1 -> C1 -> C2 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C1 -> C2,1
+stars,C3 -> C1 -> C1 -> C3 -> C0,1
+stars,C3 -> C1 -> C1 -> C3 -> C1 -> C1,1
+stars,C3 -> C1 -> C1 -> C3 -> C3 -> C0 -> C0,1
+stars,C3 -> C1 -> C1 -> C4 -> C3 -> C3 -> C2,1
+stars,C3 -> C1 -> C2 -> C0 -> C2,1
+stars,C3 -> C1 -> C2 -> C1,1
+stars,C3 -> C1 -> C2 -> C1 -> C0,1
+stars,C3 -> C1 -> C2 -> C1 -> C0 -> C0,1
+stars,C3 -> C1 -> C2 -> C1 -> C0 -> C2,1
+stars,C3 -> C1 -> C2 -> C1 -> C1 -> C2,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C1 -> C3,1
+stars,C3 -> C1 -> C2 -> C1 -> C2 -> C4,1
+stars,C3 -> C1 -> C2 -> C2,1
+stars,C3 -> C1 -> C2 -> C2 -> C1 -> C0,1
+stars,C3 -> C1 -> C2 -> C3,1
+stars,C3 -> C1 -> C2 -> C3 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2,1
+stars,C3 -> C1 -> C3 -> C1,1
+stars,C3 -> C1 -> C3 -> C1 -> C1 -> C1,1
+stars,C3 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C3 -> C1 -> C3 -> C1 -> C1 -> C2 -> C1 -> C1,1
+stars,C3 -> C1 -> C3 -> C1 -> C3 -> C1,1
+stars,C3 -> C1 -> C3 -> C2,1
+stars,C3 -> C1 -> C3 -> C2 -> C4 -> C1,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C2 -> C2,1
+stars,C3 -> C1 -> C4,1
+stars,C3 -> C1 -> C4 -> C3,1
+balneo,C1 -> C1 -> C1 -> C2 -> C1 -> C3,1
+balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C0 -> C2 -> C2,1
+stars,C3 -> C2 -> C0 -> C0 -> C0,1
+stars,C3 -> C2 -> C0 -> C1,1
+balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C0 -> C1 -> C1,1
+stars,C3 -> C2 -> C1,1
+balneo,C1 -> C1 -> C1 -> C2 -> C2 -> C1 -> C1,1
+stars,C3 -> C2 -> C1 -> C1 -> C1,1
+stars,C3 -> C2 -> C1 -> C1 -> C1 -> C0 -> C1 -> C0,1
+balneo,C1 -> C1 -> C1 -> C2 -> C3,1
+stars,C3 -> C2 -> C1 -> C1 -> C1 -> C2 -> C1 -> C3 -> C3,1
+stars,C3 -> C2 -> C1 -> C1 -> C3 -> C2 -> C3 -> C0 -> C2 -> C3 -> C2,1
+stars,C3 -> C2 -> C1 -> C2 -> C0 -> C2,1
+stars,C3 -> C2 -> C1 -> C2 -> C3 -> C2 -> C2,1
+stars,C3 -> C2 -> C2 -> C0,1
+stars,C3 -> C2 -> C2 -> C0 -> C2,1
+stars,C3 -> C2 -> C2 -> C1 -> C1 -> C4,1
+stars,C3 -> C2 -> C2 -> C2 -> C0 -> C0,1
+stars,C3 -> C2 -> C2 -> C2 -> C1 -> C1 -> C1,1
+stars,C3 -> C2 -> C2 -> C3 -> C1,1
+stars,C3 -> C2 -> C2 -> C4 -> C1 -> C4 -> C0,1
+stars,C3 -> C2 -> C3 -> C2,1
+stars,C3 -> C2 -> C3 -> C2 -> C2,1
+stars,C3 -> C2 -> C3 -> C3 -> C1 -> C2 -> C1 -> C1,1
+stars,C3 -> C2 -> C4 -> C4,1
+balneo,C1 -> C1 -> C1 -> C2 -> C3 -> C2 -> C2,1
+stars,C3 -> C3 -> C0 -> C1 -> C1,1
+stars,C3 -> C3 -> C0 -> C2 -> C2 -> C2,1
+stars,C3 -> C3 -> C1 -> C0 -> C2,1
+stars,C3 -> C3 -> C1 -> C1,1
+stars,C3 -> C3 -> C1 -> C1 -> C0 -> C1 -> C1,1
+stars,C3 -> C3 -> C1 -> C1 -> C1,1
+stars,C3 -> C3 -> C1 -> C1 -> C2 -> C1,1
+stars,C3 -> C3 -> C1 -> C1 -> C3 -> C1,1
+stars,C3 -> C3 -> C1 -> C2 -> C2 -> C2 -> C2,1
+stars,C3 -> C3 -> C1 -> C2 -> C3,1
+stars,C3 -> C3 -> C1 -> C2 -> C3 -> C2,1
+stars,C3 -> C3 -> C1 -> C3 -> C1 -> C3,1
+stars,C3 -> C3 -> C1 -> C4 -> C0,1
+stars,C3 -> C3 -> C2 -> C0 -> C1,1
+stars,C3 -> C3 -> C2 -> C1 -> C1,1
+stars,C3 -> C3 -> C2 -> C2 -> C1,1
+stars,C3 -> C3 -> C2 -> C4 -> C1 -> C2 -> C2,1
+stars,C3 -> C3 -> C2 -> C4 -> C1 -> C4 -> C2,1
+stars,C3 -> C3 -> C3 -> C1,1
+stars,C3 -> C3 -> C3 -> C1 -> C1 -> C0,1
+stars,C3 -> C3 -> C3 -> C4 -> C0,1
+stars,C3 -> C3 -> C4 -> C2 -> C2,1
+stars,C3 -> C3 -> C4 -> C4 -> C0,1
+stars,C3 -> C4 -> C0 -> C0,1
+stars,C3 -> C4 -> C0 -> C0 -> C3 -> C2 -> C3,1
+stars,C3 -> C4 -> C1 -> C1 -> C1 -> C1,1
+stars,C3 -> C4 -> C1 -> C1 -> C2 -> C2,1
+stars,C3 -> C4 -> C2,1
+stars,C3 -> C4 -> C2 -> C0 -> C2 -> C2 -> C2 -> C0,1
+stars,C3 -> C4 -> C3 -> C2 -> C2 -> C3 -> C1 -> C0 -> C3,1
+stars,C3 -> C4 -> C4 -> C3 -> C1,1
+stars,C4 -> C0 -> C0,1
+stars,C4 -> C0 -> C0 -> C0 -> C3 -> C1 -> C1 -> C1,1
+stars,C4 -> C0 -> C0 -> C1 -> C0 -> C3 -> C3,1
+stars,C4 -> C0 -> C0 -> C1 -> C2,1
+balneo,C1 -> C1 -> C1 -> C3 -> C1 -> C1,1
+stars,C4 -> C0 -> C1 -> C0 -> C2 -> C1 -> C3 -> C2,1
+stars,C4 -> C0 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C4 -> C0 -> C1 -> C2,1
+stars,C4 -> C0 -> C1 -> C2 -> C2 -> C4,1
+stars,C4 -> C0 -> C2 -> C0 -> C2 -> C0 -> C1 -> C0,1
+stars,C4 -> C0 -> C2 -> C1,1
+stars,C4 -> C0 -> C3 -> C1,1
+stars,C4 -> C0 -> C4 -> C1 -> C4,1
+stars,C4 -> C1,1
+balneo,C1 -> C1 -> C1 -> C3 -> C2,1
+stars,C4 -> C1 -> C0 -> C1 -> C1 -> C0 -> C1,1
+stars,C4 -> C1 -> C0 -> C1 -> C2,1
+stars,C4 -> C1 -> C0 -> C2 -> C1 -> C2,1
+stars,C4 -> C1 -> C0 -> C2 -> C1 -> C4 -> C0,1
+stars,C4 -> C1 -> C0 -> C2 -> C3 -> C3,1
+stars,C4 -> C1 -> C0 -> C3 -> C1 -> C1 -> C0 -> C1,1
+stars,C4 -> C1 -> C0 -> C3 -> C3 -> C4 -> C2,1
+stars,C4 -> C1 -> C1 -> C0 -> C4 -> C0 -> C2,1
+balneo,C1 -> C1 -> C1 -> C3 -> C2 -> C1 -> C2 -> C1,1
+stars,C4 -> C1 -> C1 -> C1 -> C0 -> C1,1
+balneo,C1 -> C1 -> C1 -> C3 -> C4 -> C1 -> C2,1
+stars,C4 -> C1 -> C1 -> C1 -> C1 -> C1,1
+stars,C4 -> C1 -> C1 -> C1 -> C1 -> C2 -> C2 -> C2 -> C2 -> C2 -> C2,1
+stars,C4 -> C1 -> C1 -> C1 -> C2,1
+stars,C4 -> C1 -> C1 -> C2 -> C2 -> C3,1
+stars,C4 -> C1 -> C1 -> C3 -> C0 -> C1 -> C4,1
+stars,C4 -> C1 -> C1 -> C3 -> C1,1
+stars,C4 -> C1 -> C1 -> C3 -> C1 -> C1 -> C1 -> C1,1
+stars,C4 -> C1 -> C2 -> C0 -> C1,1
+stars,C4 -> C4 -> C2 -> C3 -> C3 -> C1,1
+stars,C4 -> C2 -> C2 -> C2,1
+stars,C4 -> C2 -> C2 -> C2 -> C0,1
+stars,C4 -> C2 -> C2 -> C2 -> C0 -> C2,1
+stars,C4 -> C2 -> C4 -> C1 -> C2 -> C4 -> C4 -> C2,1
+stars,C4 -> C2 -> C4 -> C3 -> C2 -> C3 -> C1 -> C0 -> C2,1
+stars,C4 -> C3 -> C1 -> C1 -> C1 -> C0,1
+stars,C4 -> C3 -> C2 -> C1,1
+stars,C4 -> C3 -> C2 -> C1 -> C0,1
+stars,C4 -> C3 -> C2 -> C2 -> C1 -> C0 -> C0,1
+balneo,C1 -> C1 -> C1 -> C4,1
+stars,C4 -> C4 -> C0 -> C0 -> C1,1
+stars,C4 -> C4 -> C0 -> C2 -> C2,1
+stars,C4 -> C4 -> C1 -> C0 -> C3 -> C3,1
+stars,C4 -> C4 -> C1 -> C1 -> C1 -> C2,1
+balneo,C0 -> C0 -> C1 -> C1 -> C1 -> C3 -> C2,1
+balneo,C0 -> C0 -> C1 -> C1 -> C1 -> C1,1
+balneo,C0 -> C0 -> C1 -> C1 -> C3,1
+balneo,C0 -> C0 -> C1 -> C2,1
+balneo,C0 -> C0 -> C4,1
+balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C1 -> C2,1
+balneo,C0 -> C1 -> C0,1
+balneo,C0 -> C1 -> C0 -> C1,1
+balneo,C0 -> C1 -> C0 -> C1 -> C1 -> C1,1
+balneo,C0 -> C1 -> C0 -> C1 -> C3 -> C1,1
+balneo,C0 -> C1 -> C0 -> C2 -> C1 -> C1 -> C1,1
+balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C2 -> C1,1
+balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C3,1
+balneo,C0 -> C1 -> C1 -> C1 -> C0 -> C1 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C0 -> C2,1
+balneo,C1 -> C1 -> C1 -> C4 -> C1 -> C4 -> C0 -> C1,1
+balneo,C0 -> C1 -> C1 -> C1 -> C1 -> C1 -> C0,1
