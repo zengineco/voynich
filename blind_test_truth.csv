@@ -1,0 +1,13 @@
+order,folio,category,cthor,cthy,cthol,cthey,total_cth
+1,f15v,mixed_cth,2,4,0,0,8
+2,f24v,mixed_cth,0,0,0,0,3
+3,f36v,mixed_cth,1,0,1,0,3
+4,f35v,pure_cthy,0,1,0,0,4
+5,f2r,pure_cthor,1,0,0,0,2
+6,f20r,mixed_cth,0,0,0,1,3
+7,f32r,mixed_cth,0,1,1,0,4
+8,f39r,no_cth,0,0,0,0,0
+9,f50r,no_cth,0,0,0,0,0
+10,f28r,pure_cthol,0,0,4,0,6
+11,f19r,pure_cthor,1,0,0,0,4
+12,f17r,pure_cthy,0,1,0,0,3

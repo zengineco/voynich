@@ -1,0 +1,216 @@
+NEW FALSIFIABLE HYPOTHESES — Given May 11 2026 findings to date
+
+The new data has opened up testable claims that weren't reachable before.
+Listed by potential payoff × current feasibility.
+
+═══════════════════════════════════════════════════════════════════════
+TIER 1 — HIGH PAYOFF, RUNNABLE NOW
+═══════════════════════════════════════════════════════════════════════
+
+H1. The two-pool slot template is corpus-wide, not herbal-A only.
+    Prediction: Every templated section (herbal-A, herbal-B, Q20) shows
+    two non-overlapping lexical pools at positions 1 and 2. Pharm and
+    Q13 show different (single-pool or no-template) signatures.
+    Test: Run probe 6 (pos-1 vs pos-2 vocabulary overlap) on every
+    section. Refutation: if herbal-B or Q20 doesn't show the same
+    two-pool pattern, herbal-A is sui generis.
+
+H2. The productive/stationary/null triad — chor as productive,
+    chol as stationary, chody as null/transitional.
+    Prediction: chody appears in paragraphs that ALSO contain chor
+    and chol (the transition point between states), NOT in paragraphs
+    that lack both. Pure-chor and pure-chol paragraphs are rare relative
+    to mixed-state paragraphs.
+    Test: cross-tabulate chody-presence × (chor+chol)-count per
+    paragraph. Refutation: if chody appears mostly in zero-chor-zero-chol
+    paragraphs, it's a third independent state, not the transition.
+
+H3. Suffix-as-quality dimension is consistent across substance sections.
+    Prediction: If suffix encodes a quality dimension (1st-4th degree
+    or hot/cold/dry/moist), the same suffix mapped to the same quality
+    in herbal-A should map to the same quality in pharm. Test:
+    suffix-by-suffix density comparison herbal-A vs pharm, with
+    chor/chol/chody as the "outcome" axis. The four primary suffixes
+    (-y, -aiin, -ol, -or) should partition consistently against
+    chor/chol/chody co-occurrence.
+    Refutation: if suffix-class × chor/chol co-occurrence reverses
+    direction between herbal-A and pharm, suffix isn't doing quality.
+
+H4. Prefix-as-ordinal hypothesis.
+    Prediction: If gallows-letter encodes ordinal degree (p=1st,
+    f=2nd, t=3rd, k=4th, OR similar), then there's a frequency
+    cascade: higher degrees should be rarer (1st degree is mild and
+    common; 4th degree is extreme and rare). Canon shows: hot in 
+    first/second degree very common, third degree common, fourth
+    degree very rare.
+    Test: gallows-letter frequency cascade vs Canon's degree-mention
+    cascade. Canon temperament samples: 1st=43, 2nd=57, 3rd=29, 4th=3.
+    Voynich herbal-A gallows: p=88, f=30, t=266, k=368.
+    If frequencies follow Canon's degree pattern, prefix-ordinal is
+    supported. (Note: this likely FAILS already — Canon's frequencies
+    don't match Voynich's gallows distribution at all. Predicted
+    refutation: prefix doesn't encode ordinal degree, encodes
+    something else.)
+
+H5. The 3-axis morphological space (prefix × suffix × o-grade)
+    generates a predictable token inventory.
+    Prediction: If a token has shape PREFIX+ROOT+SUFFIX where prefix is
+    drawn from N values, suffix from M values, root vowel from 2, then
+    the expected unique-types per root should be roughly N×M×2. Voynich
+    has ~95 paradigmatic cores × ~17 clitics (locked). Test extends to
+    suffix grade.
+    Test: for each frequent root (chedy/chody/cheod/...), count which
+    {prefix, suffix, vowel-grade} combinations actually appear. Are all
+    cells filled? Are any cells systematically empty? Empty cells would
+    indicate semantic constraints (some combinations are impossible
+    because they would mean nothing coherent — e.g. "1st-degree-null
+    action" might be incoherent in the system).
+    Refutation: if cells fill uniformly, the system is freely combinatorial
+    (just a notation). If cells have structured gaps, the system has
+    semantic constraints (a real philosophical language with prohibited
+    combinations).
+
+═══════════════════════════════════════════════════════════════════════
+TIER 2 — HIGH PAYOFF, NEEDS OUTSIDE DATA
+═══════════════════════════════════════════════════════════════════════
+
+H6. Plant-identification grounding.
+    Some folios have proposed plant identifications (Touwaide, Sherwood,
+    Velinska have identified ~20-40 herbal folios). If Voynich is
+    encoding Canon Book II material:
+    Prediction: known plant identifications should match Canon's
+    descriptions for the same plants. E.g., if folio X is identified
+    as borage AND borage is in Canon Book II with temperament "cold
+    and moist in the second degree," then folio X should show the
+    morphological signature of the cold/moist class — whatever that
+    turns out to be in our encoding.
+    Test: pick 5 well-identified folios with Canon Book II matches.
+    Predict each one's expected chor/chol/chody/gallows/suffix profile
+    from Canon's temperament. Compare to actual.
+    Refutation: random matching across identifications.
+
+H7. Multi-language synonym pool hypothesis.
+    Prediction (extending H1): If pos-2 is a synonym slot, multilingual
+    in tradition, the pos-2 lexical pool should show DIFFERENT
+    morphological patterns than pos-1. Specifically, if pos-1 encodes
+    "Arabic-style" names (gallows-decorated, suffix-marked) and pos-2
+    encodes "Greek/Latin-style" names (different sound pattern), the
+    pools should diverge in detectable ways.
+    Test: phoneme-bigram distribution pos-1 vs pos-2. Different bigram
+    profiles support multi-language origin.
+
+═══════════════════════════════════════════════════════════════════════
+TIER 3 — MEDIUM PAYOFF, RUNNABLE NOW
+═══════════════════════════════════════════════════════════════════════
+
+H8. Pharm slot template — what does its slot-1 look like?
+    Earlier finding: pharm doesn't use gallows-decorated entry-heads
+    (10.7% vs herbal-A 74.6%). But pharm IS templated (Test C showed
+    structure). What's pharm's pos-1?
+    Test: run probe 6 on pharm specifically. Identify its pos-1 / pos-2
+    pools. Prediction: pharm pos-1 is substance-class words (ot-, ok-,
+    da-, so- as we saw), pharm pos-2 is procedural verbs.
+    Refutation: if pharm has only ONE non-overlapping pool or shows no
+    slot structure, pharm is fundamentally different.
+
+H9. The "other" category in adjacency profiles.
+    "Other" tokens were 22-37% of every adjacency profile last session.
+    These are content tokens we haven't classified. Build a proper
+    morpheme taxonomy that pushes "other" below 10%. The taxonomy
+    itself becomes a publishable finding.
+    Refutation: if there's no clean classification, the "other"
+    category is genuinely heterogeneous — implies the encoding has
+    more degrees of freedom than we've modeled.
+
+H10. Folio-internal consistency of the productive/stationary/null
+    encoding. If every plant has an intrinsic temperament/state,
+    we'd expect within a single folio the chor/chol/chody distribution
+    to be stable. If chor/chol describe ACTIONS not IDENTITIES, the
+    distribution can vary within a single plant entry (different
+    actions on different organs).
+    Test: variance of chor/chol density across paragraphs within
+    the same folio. Low variance = identity model. High variance =
+    action model.
+
+═══════════════════════════════════════════════════════════════════════
+TIER 4 — REQUIRES NEW DATA PIPELINE
+═══════════════════════════════════════════════════════════════════════
+
+H11. Comparison against Dioscorides De Materia Medica
+    (need to obtain text; archive.org blocked).
+    Same 5-test battery as Canon. If Voynich matches Dioscorides
+    better than Canon on Test E and Test D, source candidate shifts.
+
+H12. Comparison against Latin herbal (Tractatus de Herbis).
+    Closest genre control. Would distinguish "Voynich = Canon-shaped"
+    from "Voynich = generic medieval herbal-shaped."
+
+H13. Comparison against a constructed-language reference work
+    (Wilkins 1668, or any other historical pasigraphy).
+    This is the test that would distinguish "Voynich is doing what
+    medieval herbals do" from "Voynich is doing what philosophical
+    languages do." The 3-axis morphological space we've identified
+    is the signature of philosophical language. Confirming this
+    against Wilkins or similar would lock the pasigraphy reading.
+
+═══════════════════════════════════════════════════════════════════════
+THE FALSIFICATION TARGETS THAT WOULD CHANGE THE MOST
+═══════════════════════════════════════════════════════════════════════
+
+Most powerful single test we could run:
+
+H14. Predict and check.
+    Take the 3-axis model (prefix × suffix × vowel-grade) we've assembled.
+    Pick a SINGLE folio with a known plant identification. Predict
+    what that folio's token distribution should look like under the
+    model. Compare to actual.
+
+    If the model PREDICTS the folio's distribution to within statistical
+    significance — that's the strongest result the project can produce
+    short of decoding. It would mean we can read the encoding's GRAMMAR
+    without knowing its DICTIONARY.
+
+    Refutation: random prediction success rate. We need to commit to
+    a specific folio, a specific prediction, and a specific significance
+    test BEFORE looking at the data.
+
+═══════════════════════════════════════════════════════════════════════
+PRIORITY ORDER (my recommendation)
+═══════════════════════════════════════════════════════════════════════
+
+1. H2 (productive/stationary/null triad test) — directly tests your
+   reframing. Runnable in 10 minutes.
+
+2. H4 (prefix-ordinal test) — likely to fail; failing it tells us
+   what prefix DOESN'T encode, which narrows hypothesis space.
+
+3. H5 (3-axis combinatorial completeness) — most academically valuable.
+   Structured gaps in the morphological space would be the strongest
+   evidence of a designed philosophical language.
+
+4. H1 (two-pool slot template generalization) — quick sanity check
+   on whether our herbal-A finding extends to other templated sections.
+
+5. H10 (action vs identity model for chor/chol) — distinguishes two
+   different semantic interpretations cleanly.
+
+After those: H6 (plant-ID grounding) requires pulling outside data
+but is the highest-value semantic test we could attempt.
+
+═══════════════════════════════════════════════════════════════════════
+HONEST META-NOTE
+═══════════════════════════════════════════════════════════════════════
+
+What's REALLY new in the inventory above isn't the individual tests.
+It's that we now have a STRUCTURAL MODEL with multiple independent axes
+to test against. Last session we had one finding at a time. Now we have
+a system whose axes can be probed for orthogonality, completeness,
+section-consistency, and semantic correspondence — independently.
+
+That's the difference between "we found something" and "we have a model."
+Models generate falsifiable predictions across multiple dimensions
+simultaneously. Findings only falsify themselves.
+
+The most valuable thing to keep doing is exactly this: run probes that
+ASSUME the model and try to break it. Each test either tightens the
+model or shows where it leaks.

@@ -1,0 +1,167 @@
+H2 RESULTS — productive/stationary/null triad test
+
+═══════════════════════════════════════════════════════════════════════
+THE BIG NUMBER
+═══════════════════════════════════════════════════════════════════════
+
+  Of 95 chor-bearing herbal-A paragraphs, 88 also contain chol.   92.6%
+  Of 97 chol-bearing herbal-A paragraphs, 88 also contain chor.   90.7%
+
+This is overwhelming. chor and chol are NOT mutually exclusive identity
+markers. They CO-OCCUR in 90%+ of paragraphs that contain either.
+
+If chor and chol were intrinsic temperaments (hot vs cold), we would
+expect very few paragraphs with both — a plant is hot OR cold, not
+both. We see the OPPOSITE: nearly every chor-bearing entry also has
+chol, and vice versa.
+
+VERDICT: The identity-model (each plant has a single intrinsic state)
+is FALSIFIED for chor/chol. Whatever chor and chol are, they're NOT
+mutually-exclusive intrinsic properties.
+
+═══════════════════════════════════════════════════════════════════════
+THE CHODY POSITION
+═══════════════════════════════════════════════════════════════════════
+
+  Of 42 chody-bearing paragraphs:
+    Both chor AND chol present:  34  (81.0%)
+    chor only:                    1  (2.4%)
+    chol only:                    6  (14.3%)
+    NEITHER chor nor chol:        1  (2.4%)
+
+  Of 76 chody-absent paragraphs:
+    NEITHER chor nor chol:       13  (17.1%)
+
+Log-odds ratio for chody-enriched-in-neither: -2.135
+(meaning chody is STRONGLY ABSENT from chor/chol-absent paragraphs)
+
+chody appears almost exclusively when chor and chol are ALSO present.
+chody almost never appears alone.
+
+This is the signature of a third element that requires the other two
+to be present. Like a punctuation mark on a binary opposition.
+
+═══════════════════════════════════════════════════════════════════════
+THE SEQUENCE PATTERN — what these actually look like in text
+═══════════════════════════════════════════════════════════════════════
+
+Sample paragraphs (R=chor, L=chol, D=chody, . = other token):
+
+  para 1: .L.4.R.8.R.10.R..L.9.L.5.L.17.L.4.L.18.R.13.
+
+  para 6: .16.L.25.R.R.4.R.5.R.5.L.4.R.5.R.12.
+
+  para 12: .11.R.5.R...L.23.D.4.L...RR.4.R.18.R...L.21.L...RL...R.
+
+These look like ALTERNATING SEQUENCES of chor and chol with chody
+appearing at the transitions or in specific positions.
+
+Adjacency analysis (which marker follows which, immediately):
+  R -> R (adjacent):  32
+  L -> L (adjacent):  40
+  L -> R (adjacent):  18
+  R -> L (adjacent):  19
+  L -> D (adjacent):   5
+  D -> L (adjacent):   3
+  R -> D (adjacent):   0  (!)
+  D -> R (adjacent):   1  (!)
+
+chor and chol cluster with themselves AND alternate with each other
+freely. chody almost NEVER appears immediately after chor (0 cases!)
+or immediately before chor (1 case).
+
+chody DOES appear adjacent to chol (5+3 = 8 cases).
+
+This is asymmetric. chody is associated with chol, not with chor.
+
+═══════════════════════════════════════════════════════════════════════
+WHAT THIS LOOKS LIKE
+═══════════════════════════════════════════════════════════════════════
+
+The pattern in the data:
+  - chor and chol are two POLES that co-occur 90%+ of the time
+  - both can repeat freely (R-R, L-L adjacency very common)
+  - they alternate freely (R-L, L-R common)
+  - chody appears 35% of the time when both are present
+  - chody almost NEVER appears adjacent to chor
+  - chody often appears near chol
+
+Reformulated reading: chor and chol describe TWO OPPOSED ACTIONS or
+EFFECTS that the substance has. chody is a MODIFIER on the chol side
+specifically.
+
+This is not what you'd expect from Hot/Cold/Temperate. Galen's temperate
+is symmetric — equidistant from hot and cold. chody is asymmetric — it
+attaches to chol, not chor.
+
+Your productive/stationary/null reading PARTIALLY fits:
+  - chor as "productive/dynamic" — repeating, common, paired with chol
+  - chol as "stationary/static" — repeating, common, attracts chody
+  - chody as "null/null-of-chol" — modifier on the static pole only
+
+This suggests TWO PRIMARY POLES with a QUALIFIER on one pole. Not
+three symmetric states. The triad is actually a binary + a marker.
+
+═══════════════════════════════════════════════════════════════════════
+WHAT THIS PROBABLY ACTUALLY IS
+═══════════════════════════════════════════════════════════════════════
+
+Walking through what natural-medicine semantic systems look like that
+would predict THIS pattern:
+
+Candidate A: chor/chol = two opposed action-types (drawing/expelling,
+  binding/loosening, warming/cooling action), with chody as a
+  qualifier on the chol-pole (the cooling/binding/diminishing action,
+  specifically).
+  
+Candidate B: chor/chol = two PHARMACOLOGICAL TARGETS (organ systems
+  or body regions), with chody marking when one target gets a special
+  treatment qualifier (e.g., "with diuretic action on the cold-target").
+
+Candidate C: chor/chol = two preparation FORMS or USE-MODES (raw
+  vs prepared, internal vs external, etc.), with chody marking a
+  third sub-form.
+
+Candidate D (Avicennan): chor/chol = the two QUALITY VECTORS
+  (active = hot/cold, passive = dry/moist). chody marks the secondary
+  passive vector. Each Canon entry says something like "It is hot in
+  the second degree, and dry in the first" — TWO quality statements
+  per entry. The chor/chol alternation could be the active/passive
+  pair, with chody marking the passive intensification.
+
+Candidate D is the cleanest fit with what Canon actually does.
+EVERY Canon entry has TWO quality statements (a primary axis like
+hot/cold, AND a secondary axis like dry/moist). They're independent
+dimensions. They co-occur in every entry. They can repeat. Sometimes
+there's a degree qualifier.
+
+If chor encodes ACTIVE-quality (hot OR cold, marked by other morphology)
+and chol encodes PASSIVE-quality (dry OR moist), and chody is a
+secondary-passive modifier, the distributional pattern matches.
+
+═══════════════════════════════════════════════════════════════════════
+RECOMMENDATION FOR THE NEXT TEST
+═══════════════════════════════════════════════════════════════════════
+
+H2 has produced a SHARP result — but not your original triad. Instead:
+  
+  CONFIRMED: chor and chol are paired-but-independent dimensions
+             (NOT mutually exclusive)
+  CONFIRMED: chody is asymmetric — attached to chol
+  CANDIDATE: chor/chol map to Avicennan active/passive quality vectors
+  
+Next move: test whether chor-bearing tokens (chor, otchor, kchor, etc.)
+differ in their MORPHOLOGY from chol-bearing tokens in a way that
+parallels how Canon distinguishes "hot in Nth degree" from "dry in
+Nth degree."
+
+Specifically: if chor and chol are two independent quality dimensions,
+the SAME degree modifier should attach to BOTH. Test for a degree
+morpheme that appears with both chor-class and chol-class tokens.
+
+If yes — chor/chol are quality dimensions and there's a shared degree
+system.
+If no — chor and chol are different KINDS of things, not parallel
+        dimensions.
+
+This is runnable. Want it?

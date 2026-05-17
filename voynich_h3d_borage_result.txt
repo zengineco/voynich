@@ -1,0 +1,114 @@
+H3d RESULTS — Semantic ground-truth test, f30v borage
+
+The test we ran: if chor encodes "active quality" (hot/cold dimension)
+and chol encodes "passive quality" (dry/moist dimension), then Voynich
+f30v (identified as Borago officinalis in ZL3b metadata) should match
+Avicenna's Canon Book II entry for borage:
+
+  Canon Book II, entry 12 (Lisan al-thaur, Borage):
+  "moderate in temperament slightly inclining towards hotness. Its
+   moistness is in the last phase of the first degree."
+
+Three predictions, three results:
+
+═══════════════════════════════════════════════════════════════════════
+PREDICTION 1 — Both chor and chol present.    PASS
+═══════════════════════════════════════════════════════════════════════
+  f30v contains 6 chor-bearing tokens and 1 chol-bearing token.
+  Both dimensions are stated, as Avicenna's prose requires.
+
+═══════════════════════════════════════════════════════════════════════
+PREDICTION 2 — Mild/moderate density.   FAIL
+═══════════════════════════════════════════════════════════════════════
+  f30v chor density: 95.2 per thousand tokens — top 5 of 91 herbal-A folios
+  f30v chor density / herbal-A median: 2.4x
+  
+  Avicenna says borage is "moderate." The Voynich shows borage at
+  near-MAX chor density. This contradicts a simple "density = degree"
+  reading.
+
+═══════════════════════════════════════════════════════════════════════
+PREDICTION 3 — Wrapper morphology matches mild plants.   FAIL
+═══════════════════════════════════════════════════════════════════════
+  f30v chor-wrappers overlap with MILD folios at 50%
+  f30v chor-wrappers overlap with STRONG folios at 100%
+  
+  f30v patterns morphologically with STRONG-active-quality plants,
+  not mild ones.
+
+═══════════════════════════════════════════════════════════════════════
+HONEST INTERPRETATION
+═══════════════════════════════════════════════════════════════════════
+
+The simple mapping {chor = active quality, density = degree} does
+NOT survive contact with f30v.
+
+The H3 result remains intact and unaffected:
+  • chor and chol share an inflectional system (r ≈ 1.0)
+  • They are paired roots in a productive paradigm
+  • 34 minimal pairs confirm this
+
+What H3d shows is that the paradigm does NOT straightforwardly encode
+Avicennan quality-and-degree as we predicted. Possible explanations:
+
+(a) chor and chol encode something else (not quality + degree but
+    some other paired-dimension medical concept). The pairing is
+    real but the SEMANTIC content is something other than what we
+    guessed.
+
+(b) The Voynich author followed a different botanical tradition than
+    Avicenna's. Khuzi, cited in Canon Book II, rates borage as
+    "cold and moist in second degree" — strongly cold. If Voynich
+    follows Khuzi-school or some other authority, predictions based
+    on Avicenna would fail systematically.
+
+(c) f30v's borage identification, though listed in ZL3b metadata,
+    may not be reliable enough to anchor a semantic test. The
+    botanical literature has multiple proposed identifications for
+    most Voynich folios.
+
+(d) The density signal is not 'degree of quality' but 'rate of
+    quality-mention,' which depends on how many therapeutic
+    properties Avicenna attributed to the plant — borage was used
+    for many things (melancholy, palpitation, jaundice, fevers),
+    so it gets many quality-mentions, not strong quality.
+
+═══════════════════════════════════════════════════════════════════════
+WHAT WE CAN STATE NOW
+═══════════════════════════════════════════════════════════════════════
+
+LOCKED (from H3): chor and chol form a parallel-paradigm inflectional
+system with r ≈ 1.0 morpheme-frequency correlation. This is the
+strongest distributional finding in the project so far.
+
+REFUTED: The naive Avicennan {chor = active, chol = passive, density
+= degree} mapping. f30v borage does not match Avicenna's "moderate"
+rating.
+
+NOT YET TESTED: Other plant identifications. We have one anchor;
+we need 5-10 to draw any conclusion about whether the encoding
+parallels Canon at all. Single-folio results cannot distinguish
+"the system doesn't encode Canon" from "this one identification
+disagrees with Canon."
+
+═══════════════════════════════════════════════════════════════════════
+WHAT TO DO NEXT
+═══════════════════════════════════════════════════════════════════════
+
+The disconfirming result does NOT undo the H3 paradigm finding. We
+have a real grammar; we just don't know what its substantive content
+encodes.
+
+To make progress on semantics specifically, we need:
+  1. More plant identifications. Touwaide, Sherwood, Velinska,
+     and Tucker have proposed IDs for many folios.
+  2. Triangulation: 5+ plant-ID anchors with Canon temperaments,
+     measure rank correlation between Voynich morphology and
+     Canon temperaments across the set.
+  3. Comparison to non-Canon herbal traditions (Dioscorides, the
+     Tractatus de Herbis tradition).
+
+But the paradigm-discovery finding doesn't require any of that. We
+can publish "Voynich substance lexicon shows a parallel-paradigm
+inflectional system with chor and chol as paired roots" without
+making any semantic claim.

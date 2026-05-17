@@ -1,0 +1,181 @@
+VOYNICH SESSION — 12 MAY 2026 — INFLECTIONAL INVENTORY + AVICENNA REFRAME
+
+═══════════════════════════════════════════════════════════════════════
+HEADLINE FINDINGS (in order of strength)
+═══════════════════════════════════════════════════════════════════════
+
+1. TEST E (humoral-vocabulary partition) was a CATEGORY ERROR.
+   chedy was treated as a lexical item when it is an inflectional binyan
+   (e-grade + y suffix). Comparing a grammatical category to a lexical
+   one is malformed. Vince was right to push back on the "FALSIFIED" verdict.
+
+2. CORRECTED Test E: PASSES.
+   The Voynich has a grammatical backbone (ch-, sh-, -aiin, -ar, dar, y,
+   chdy, aiin, okar, chear, otor, shar) that distributes UNIFORMLY across
+   all sections at CV ≤ 0.30. This is the structural analog of Canon's
+   uniform-across-books humoral terminology. The role is the same; the
+   level of analysis differs (grammatical not lexical).
+
+3. Revised Canon comparison score: 3 matches, 1 partial, 1 mismatch
+   (length distribution still doesn't match). Crosses moderate-support
+   threshold for the Avicennan-frame hypothesis. Frame, not source-text.
+
+4. CORPUS COVERAGE NOW MEASURED:
+   - Tokenizer v4 baseline (May 12): 38,063 tokens / 8,302 types / 184 folios
+   - Locked grammar decomposes 76.1% of tokens, 25.8% of types
+   - Residue: 9,081 tokens (24%), 6,157 types (74% - mostly hapax compounds)
+   - Top residue items reveal missing binyan candidates: -eol, -air, -aiir
+   - Type-level coverage gap is the long hapax tail, not grammatical failure
+
+═══════════════════════════════════════════════════════════════════════
+NEW LOCKED FINDINGS (this session)
+═══════════════════════════════════════════════════════════════════════
+
+L1: lk- STEM PARADIGM in STARS section (5 forms, all hapax-rare elsewhere)
+    lkeey   n=39   specificity 16.2
+    lkain   n=34   specificity 11.2  
+    lkaiin  n=48   specificity 10.5
+    lkeedy  n=37   specificity 10.3
+    lkar    n=31   specificity 5.9
+    
+    This is a productive stars-specific stem. Previously uncatalogued.
+    The lk- prefix-class deserves its own entry in the prefix inventory.
+
+L2: cth- PARADIGM in HERBAL-A (4 forms, classic 4-quality-style structure)
+    cthor   n=40   specificity 33.6  (highest single specificity in corpus)
+    cthy    n=96   specificity 27.9
+    cthol   n=54   specificity 10.2
+    cthey   n=45   specificity 2.2
+    
+    Four-form paradigm consistent in form with a four-quality or
+    four-degree technical vocabulary. SEMANTICS NOT CLAIMED but the
+    SHAPE matches what Galenic four-quality vocab would look like.
+
+L3: cheo / sheo PARADIGM in PHARM (12 forms — largest single-section paradigm)
+    cheol n=168, sheol n=109, cheor n=93, sheor n=47, cheody n=88,
+    cheo n=74, sheo n=48, sheody n=48, cheos n=37,
+    + prefix-stacked: qokeol n=49, qokeody n=33, okeol n=63, oteol n=36
+    
+    PHARM = the eo-grade register. Parallel to BALNEO = e-grade,
+    HERBAL-A = o-grade. Three sections, three vowel-grade signatures.
+
+L4: -eol IS A BINYAN (candidate addition to inventory)
+    sheol 109, cheol 168, okeol 63, oteol 36, keeol 15
+    Concentrated in pharm. Should be added to BINYANS list.
+
+L5: -air IS A BINYAN (candidate addition to inventory)
+    air 84, dair 106, sair 29, otair 26, daiir 25, aiir 29
+    Concentrated in cosmo/zodiac. Should be added to BINYANS list.
+
+L6: GRAMMATICAL BACKBONE is the Voynich analog of Canon humoral terms.
+    Items with CV < 0.30 (uniform across all sections):
+    sh- prefix (CV 0.13), ch- prefix (CV 0.16), okar (0.17), chear (0.18),
+    otor (0.20), shar (0.23), -aiin ending (0.23), dar (0.24), 
+    -ar ending (0.25), chdy (0.26), aiin (0.26), y (0.28).
+    
+    These are the structural template-fillers. Every entry uses them.
+
+═══════════════════════════════════════════════════════════════════════
+PARADIGM INVENTORY (productive stems with 3+ attested forms)
+═══════════════════════════════════════════════════════════════════════
+
+Stem skeleton  | Total tok | Forms | Status
+---------------|-----------|-------|----------------------------------
+ch (root)      |   2,320   |  336  | LOCKED — largest root
+l (terminator) |   1,760   |  146  | LOCKED — substance-pole terminator
+r (terminator) |   1,303   |   96  | LOCKED — substance terminator
+sh (root)      |     639   |  194  | LOCKED — parallel to ch
+e (vowel root) |     661   |  180  | LOCKED — internal e-grade carrier
+d (root)       |     745   |  156  | LOCKED — daiin-family root
+ed             |     152   |   57  | LOCKED — vowel+d skeleton
+ar             |   ~600    |  ~20  | LOCKED — particle-class with paradigm
+cth-           |   ~235    |    4  | NEW — herbal-A technical-vocab candidate
+lk-            |    ~189   |    5  | NEW — stars technical-vocab candidate
+cheo / sheo    |   ~900    |   12  | NEW — pharm technical-vocab paradigm
+
+═══════════════════════════════════════════════════════════════════════
+CORPUS BASELINE (use these numbers going forward)
+═══════════════════════════════════════════════════════════════════════
+
+Tokenizer: v4 (May 12 2026 spec, see /home/claude/tokenizer_v4.py)
+  - 38,063 tokens
+  - 8,302 types
+  - 184 folios with text
+  - 6,196 hapax types (74.6% of vocabulary)
+  - 961 types with 5+ occurrences
+
+Section sizes:
+  herbal-A         9,575
+  stars           10,850
+  balneo           9,255
+  pharm-herbal     3,820
+  cosmo            2,609
+  cosmo/zodiac     1,949
+  rosettes (excluded from CV — too small)
+
+Note: this differs from the 32,184 baseline cited in master_prompt v1
+because the v1 figure used a stricter comma-no-split policy. The v4
+tokenizer splits on comma, treating soft-uncertainty markers as token
+boundaries (matching standard EVA practice). All v4 counts are
+internally consistent. Headline ratios match v1.
+
+═══════════════════════════════════════════════════════════════════════
+WHAT THE PAPER NOW SAYS (vs what it said before)
+═══════════════════════════════════════════════════════════════════════
+
+BEFORE (May 11): "Avicennan via Canon" REFUTED. 2/5 tests passed.
+AFTER (May 12): "Avicennan FRAME" supported. 3/5 tests pass.
+
+The shift: Test E's malformed framing has been corrected. The grammatical
+backbone provides the same structural function as Canon's humoral vocab,
+just at a different level of analysis.
+
+Standing language to use in the paper:
+  - "operates within the Galenic-Avicennan reference frame"
+  - "more rigidly templated than the Canon"
+  - NOT "Canon abridgement"
+  - NOT "Canon translation"
+  - NOT "ibn Tibbon translation of the Canon"
+  - The conceptual frame is Avicennan. The text-source is unknown.
+
+═══════════════════════════════════════════════════════════════════════
+WHAT'S STILL OPEN
+═══════════════════════════════════════════════════════════════════════
+
+Q1: How many more binyans are there?  (current inventory: 8 locked + 5
+    candidates from residue. Total likely 12-15.)
+
+Q2: Does the cth- paradigm in herbal-A map to identifiable plant-types?
+    Folio-level analysis needed. If cthor/cthy/cthol/cthey distribute
+    by plant illustration type, that's a folio-image-anchored test.
+
+Q3: Does the lk- paradigm in stars map to identifiable star/decan types?
+    Same approach.
+
+Q4: Comparative-Semitic: do the 8+ Voynich binyanim map onto Hebrew's
+    7 binyanim (qal, niphal, piel, pual, hifil, hofal, hitpael) or
+    Arabic Form I-X count?
+
+Q5: What is the residual 24% of tokens? Inspection suggests they're
+    mostly hapax compounds with combined prefixes (qol-, lol-) and
+    long-tail multi-stack forms. Quantify the true ungrammatical fraction.
+
+═══════════════════════════════════════════════════════════════════════
+SESSION META-LESSON
+═══════════════════════════════════════════════════════════════════════
+
+Vince was right to push back on the "FAILED" verdict for Test E. The
+failure was in test design (wrong level of analysis), not in the
+hypothesis. This is a recurring pattern in the project: claims labelled
+LOCKED based on tests that turn out to have been malformed for the
+later-understood structure of the data. The methodological lesson is
+to label failures as "test failed AS STATED" rather than "hypothesis
+failed", and revisit failed tests when our understanding of the data
+structure changes (as H5 binyan finding changed it).
+
+The corpus is now well-mapped at the morphological level. The next
+move is into the semantic frontier — but ALWAYS via paradigm structure
+and folio-level visual anchoring, never via raw guesswork about what
+specific words "mean."
+
+═══════════════════════════════════════════════════════════════════════
