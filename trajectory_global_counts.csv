@@ -1,4 +1,4 @@
-trajectory,count
+trajectory,global_count
 C0 -> C0,147
 C0 -> C0 -> C0,111
 C0 -> C0 -> C0 -> C0,63
